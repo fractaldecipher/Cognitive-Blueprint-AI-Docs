@@ -1,0 +1,535 @@
+{
+  "status": "success",
+  "criterionNumber": 3,
+  "profile": {
+    "name": "Nikola Tesla",
+    "birthDate": "1856-07-10",
+    "birthTime": "00:00",
+    "birthPlace": "Smiljan, Croatia",
+    "latitude": 44.5809,
+    "longitude": 15.3,
+    "timezone": "Europe/Zagreb",
+    "gender": "male"
+  },
+  "totalActiveVectors": 50,
+  "criterion": {
+    "criterionId": 3,
+    "title": "Vocation, Craft & Capital Architecture",
+    "totalVectors": 50,
+    "coherenceScore": 75,
+    "crossEngineAlerts": [
+      "COMMAND_UNIFIED"
+    ],
+    "dominantTheme": "HYBRID_BUILDER",
+    "engines": [
+      {
+        "engineId": "engine_1",
+        "inquiry": "What is my true vocational calling and authentic market role, how do I focus my core craft into unshakeable mastery, and how do I bring my gifts into sustainable, impactful service?",
+        "vectors": [
+          "VEC_VOC_CORE_MISSION_DORMANT",
+          "VEC_VOC_EXECUTION_VECTOR_ACTIVE",
+          "VEC_VOC_FRICTION_TO_TALENT_READY",
+          "VEC_VOC_SKILL_DENSITY_LOW",
+          "VEC_VOC_SKILL_COMMERCIAL_ACTIVATION",
+          "VEC_VOC_NODE_TRAJECTORY_ACTIVE",
+          "VEC_VOC_NODE_TRAJECTORY_INTEGRATED",
+          "VEC_VOC_MASTERY_RULER_SUPPORT_ACTIVE",
+          "VEC_VOC_MASTERY_RULER_CONSTRAINED",
+          "VEC_VOC_MASTERY_RULER_MERCURY",
+          "VEC_VOC_OPERATIONAL_MODALITY_HYBRID_ADAPTIVE",
+          "VEC_VOC_CORE_ROLE_BUILDER",
+          "VEC_VOC_LIFECYCLE_RIGHT_ANGLE",
+          "VEC_VOC_LIFECYCLE_GEOMETRY_STRONG",
+          "VEC_VOC_LIFECYCLE_ACTIVATION_AGE_REACHED"
+        ],
+        "math": {
+          "missionClarityScore": {
+            "value": 48,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Authentic vocational mission and core commercial calling clarity (scale 0-100)"
+          },
+          "transmutationReadinessScore": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to monetize core vulnerability into unshakeable market value (scale 0-100)"
+          },
+          "skillDensityIndex": {
+            "value": 1,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Systemic index indicator (scale 0-100) for skillDensityIndex"
+          },
+          "commercialActivationScore": {
+            "value": 81,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Immediate market commercialization and revenue generation capacity (scale 0-100)"
+          },
+          "masteryRulerScore": {
+            "value": 19,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for masteryRulerScore"
+          },
+          "individualPct": {
+            "value": 41,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Relative percentage metric (0-100%) for individualPct"
+          },
+          "tribalPct": {
+            "value": 24,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Relative percentage metric (0-100%) for tribalPct"
+          },
+          "collectivePct": {
+            "value": 35,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Relative percentage metric (0-100%) for collectivePct"
+          },
+          "operationalBalanceIndex": {
+            "value": 91,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Equilibrium between visionary creation and grounded commercial administration (scale 0-100)"
+          },
+          "lifecycleAlignmentScore": {
+            "value": 80,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Alignment with current vocational lifecycle turning points (scale 0-100)"
+          },
+          "activationAge": {
+            "value": 50,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for activationAge"
+          }
+        }
+      },
+      {
+        "engineId": "engine_2",
+        "inquiry": "In which economic landscapes and professional sectors does my unique craft produce the highest leverage, and how do I focus my strategic resources to build an enduring legacy?",
+        "vectors": [
+          "VEC_VOC_PRECISION_DRIVER_SYSTEMIC_CONSOLIDATION",
+          "VEC_VOC_PRECISION_SENTINEL_EXECUTIVE_FOCUS",
+          "VEC_VOC_MACRO_SECTOR_EXECUTIVE_COMMAND",
+          "VEC_VOC_MICRO_SUBSECTOR_REFINED",
+          "VEC_VOC_SECTOR_POWER_CONCENTRATED",
+          "VEC_VOC_ZENITH_POINT_ACTIVE",
+          "VEC_VOC_ZENITH_SIGN_STRONG",
+          "VEC_VOC_ZENITH_SECTOR_EMPHASIS",
+          "VEC_VOC_FINANCIAL_AXIS_BALANCED"
+        ],
+        "math": {
+          "marketMomentumIndex": {
+            "value": 1.37,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Natural market momentum and low-friction sector engagement index (scale 0-100)"
+          },
+          "routingConfidenceScore": {
+            "value": 88,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Confidence score in targeted economic sector and industry positioning (scale 0-100)"
+          },
+          "peakCapacityScore": {
+            "value": 156,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for peakCapacityScore"
+          },
+          "activeCareerEfficiencyPct": {
+            "value": 70,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Active career energy translation efficiency into tangible returns (0-100%)"
+          },
+          "careerEfficiencyChecksum": {
+            "value": 224,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for careerEfficiencyChecksum"
+          },
+          "directMonetizationScore": {
+            "value": 77.5,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to generate direct cashflow through primary craft execution (scale 0-100)"
+          },
+          "leveragedCapitalScore": {
+            "value": 72.5,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to attract and deploy leveraged institutional capital (scale 0-100)"
+          },
+          "financialAxisRatio": {
+            "value": 1.07,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Proportional ratio (scale 0.0-1.0) for financialAxisRatio"
+          }
+        }
+      },
+      {
+        "engineId": "engine_3",
+        "inquiry": "What specific cognitive engines, energetic rhythms, and innate talent clusters power my professional craft, and how do I deploy them without friction or exhaustion?",
+        "vectors": [
+          "VEC_VOC_TALENT_CLUSTER_STRUCTURAL_ENGINEERING",
+          "VEC_VOC_MOTOR_ROUTE_SACRAL_DEFINED",
+          "VEC_VOC_MOTOR_ROUTE_ROOT_DEFINED",
+          "VEC_VOC_MOTOR_ROUTE_HEART_DEFINED",
+          "VEC_VOC_MOTOR_ROUTE_SOLAR_PLEXUS_DEFINED",
+          "VEC_VOC_FREQUENCY_BAND_INDIVIDUAL_DOMINANT",
+          "VEC_VOC_MOTOR_ENDURANCE_HIGH",
+          "VEC_VOC_BUSINESS_SKILL_SYSTEMIC_AUDIT"
+        ],
+        "math": {
+          "motorThroughputScore": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Physiological motor circuit bandwidth dedicated to craft execution (scale 0-100)"
+          },
+          "motorEnduranceScore": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Sustained motor stamina and physical craft persistence score (scale 0-100)"
+          },
+          "overloadRiskIndex": {
+            "value": 40,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Risk of cognitive and physical craft exhaustion under high workload (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_4",
+        "inquiry": "What is my authentic leadership archetype, how do I wield executive authority with wisdom and integrity, and how do I structure decision-making to achieve lasting impact?",
+        "vectors": [
+          "VEC_VOC_MARKET_ROLE_BUILDER",
+          "VEC_VOC_PLANETARY_STRENGTH_APEX",
+          "VEC_VOC_DRIVER_PLANET_MERCURY",
+          "VEC_VOC_PLANETARY_STRENGTH_CONSTRAINED",
+          "VEC_VOC_COMMAND_CHAIN_SINGLE_APEX",
+          "VEC_VOC_COMMAND_CHAIN_MUTUAL_RECEPTION",
+          "VEC_VOC_COGNITIVE_STYLE_TACTICAL_EXECUTOR"
+        ],
+        "math": {
+          "roleConfidenceScore": {
+            "value": 95,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Confidence and natural command in executive market leadership roles (scale 0-100)"
+          },
+          "driverStrengthScore": {
+            "value": 19,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Inner leadership driver impulse and executive directive strength (scale 0-100)"
+          },
+          "constrainedStrengthScore": {
+            "value": 7,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for constrainedStrengthScore"
+          },
+          "decisionLatencyHours": {
+            "value": 48,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Natural deliberation window in hours required for sound executive decisions"
+          }
+        }
+      },
+      {
+        "engineId": "engine_5",
+        "inquiry": "How do I cultivate, preserve, and circulate material abundance with wisdom, ensuring that my financial foundations support my true purpose and generational security?",
+        "vectors": [
+          "VEC_VOC_CAPITAL_RESERVOIR_BALANCED",
+          "VEC_VOC_ASSET_PILLAR_TRUST_FUND",
+          "VEC_VOC_CASHFLOW_DIRECT_VELOCITY_HIGH",
+          "VEC_VOC_WEALTH_VELOCITY_STEADY",
+          "VEC_VOC_WEALTH_STAGNATION_RISK"
+        ],
+        "math": {
+          "solarExpansionScore": {
+            "value": 44,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Solar active capital multiplication, risk appetite, and aggressive growth score (scale 0-100)"
+          },
+          "lunarRetentionScore": {
+            "value": 56,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Lunar asset preservation, risk mitigation, and cashflow reserve defense score (scale 0-100)"
+          },
+          "realEstateFoundationScore": {
+            "value": 29,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Resonance with physical property, tangible real estate, and hard asset foundations (scale 0-100)"
+          },
+          "ipFoundationScore": {
+            "value": 14,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Resonance with intellectual property, software code, and royalty asset creation (scale 0-100)"
+          },
+          "techEquityFoundationScore": {
+            "value": 14,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Aptitude for scalable technology venture equity and venture building (scale 0-100)"
+          },
+          "trustFundFoundationScore": {
+            "value": 43,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to establish enduring trusts, multi-generational endowments, and protected funds (scale 0-100)"
+          },
+          "leveragedSyndicateVelocity": {
+            "value": 56,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for leveragedSyndicateVelocity"
+          },
+          "capitalFrictionIndex": {
+            "value": 39,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Subconscious guilt and resistance resisting steady asset accumulation (scale 0-100)"
+          },
+          "wealthVelocityScore": {
+            "value": 55,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Circulation speed and turnover efficiency of liquid capital (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_6",
+        "inquiry": "How do I translate visionary intention into grounded, sustainable execution, maintain my sovereignty against external pressures, and scale my craft to endure beyond myself?",
+        "vectors": [
+          "VEC_VOC_KINETIC_ACTION_RIGOR",
+          "VEC_VOC_KINETIC_ACTION_AGILITY",
+          "VEC_VOC_PROJECT_SCALING_EXPONENTIAL",
+          "VEC_VOC_PROJECT_SUCCESSION_READY",
+          "VEC_VOC_SOVEREIGNTY_AUTONOMOUS_EXECUTOR",
+          "VEC_VOC_KINETIC_VELOCITY_DIRECT"
+        ],
+        "math": {
+          "kineticDecanScore": {
+            "value": 85,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Kinetic operational agility and project execution momentum (scale 0-100)"
+          },
+          "successionReadinessScore": {
+            "value": 91,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Readiness to delegate operational control and build self-sustaining systems (scale 0-100)"
+          },
+          "projectOffspringIndex": {
+            "value": 95,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to spawn, scale, and multiply independent commercial ventures (scale 0-100)"
+          },
+          "conditioningVulnerabilityIndex": {
+            "value": 31,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Susceptibility to commercial misguidance and false business models (scale 0-100)"
+          },
+          "mandatoryIsolationHoursPerWeek": {
+            "value": 8,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for mandatoryIsolationHoursPerWeek"
+          },
+          "executionFrictionIndex": {
+            "value": 47,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for executionFrictionIndex"
+          }
+        }
+      }
+    ]
+  }
+}

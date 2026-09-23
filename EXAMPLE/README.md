@@ -1,41 +1,91 @@
 # Nikola Tesla Implementation Benchmark & Real-World Example
 
-> **Practical demonstration of Cognitive Blueprint AI telemetry: from raw API response to clinical multi-inquiry synthesis.**
+> **Practical demonstration of Cognitive Blueprint AI telemetry: from raw modular API responses to deep clinical multi-inquiry synthesis.**
 
 This directory provides a full, concrete benchmark using **Nikola Tesla** (`1856-07-10 00:00`, Smiljan, Croatia) to demonstrate how developers can integrate Cognitive Blueprint AI into their systems.
 
 ---
 
-## 1. The Two Methods of Utilizing Engine Output
-
-When building applications, developers typically choose between two operational patterns depending on their architecture:
+## 1. Directory Structure
 
 ```text
-                                 ┌─────────────────────────────────┐
-                                 │   Cognitive Blueprint REST API  │
-                                 │      (RapidAPI Gateway)         │
-                                 └────────────────┬────────────────┘
-                                                  │
-                                                  ▼
-                        ┌──────────────────────────────────────────────────┐
-                        │   API Payload: Math Metrics + Vector Codes       │
-                        └─────────┬──────────────────────────────┬─────────┘
-                                  │                              │
-         ┌────────────────────────┘                              └────────────────────────┐
-         ▼                                                                                ▼
-┌─────────────────────────────────────────┐                            ┌─────────────────────────────────────────┐
-│     METHOD A: Direct Telemetry Mode     │                            │  METHOD B: Clinical Synthesis & LLM RAG │
-│ ➔ Use raw math numbers directly         │                            │ ➔ Match vector codes with DICTIONARY/   │
-│ ➔ Logic, thresholds, custom charts      │                            │ ➔ Combine math + clinical prose         │
-│ ➔ UI scorebars & decision flags         │                            │ ➔ Generate deep personalized reports    │
-└─────────────────────────────────────────┘                            └─────────────────────────────────────────┘
+EXAMPLE/
+├── README.md                          <-- You are here (Integration guide & architecture)
+├── nikola_tesla_json/                 <-- Raw API responses per criterion (as returned by RapidAPI)
+│   ├── criterion_1.json               # Identity & Sovereign Architecture (45 vectors, Coherence: 60)
+│   ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 vectors, 2 alerts, Coherence: 30)
+│   ├── criterion_3.json               # Vocation, Craft & Capital Architecture (50 vectors, 1 alert, Coherence: 75)
+│   ├── criterion_4.json               # Direction, Evolution & Navigation (62 vectors, 5 alerts, Coherence: 88)
+│   └── criterion_5.json               # Operating Mode & Bio-Prescriptions (48 vectors, 1 alert, Coherence: 60)
+└── nikola_tesla_interpretation/       <-- Implementation showcase: 33 Deep Clinical Inquiry Syntheses
+    ├── 01_c1_core_life_role_decision_compass.md
+    ├── 02_c1_cognitive_processing_environment.md
+    ...
+    └── 33_c5_sensory_reset_acoustic_quietude.md
 ```
 
 ---
 
-## 2. Step 1: Input Coordinates (Nikola Tesla)
+## 2. Architecture: From Raw Telemetry to Deep Clinical Synthesis
 
-Your client application sends the immutable spatiotemporal coordinates to the [RapidAPI endpoint](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine):
+Rather than dumping all 260+ vectors and dozens of alerts into a single overwhelming payload or producing a superficial text summary, Cognitive Blueprint AI allows you to query modular criteria and synthesize laser-focused, profound reports.
+
+```text
+                             ┌─────────────────────────────────┐
+                             │   Input: Spatiotemporal Coords  │
+                             │  (Tesla: 1856-07-10, Smiljan)   │
+                             └────────────────┬────────────────┘
+                                              │
+                                              ▼
+                             ┌─────────────────────────────────┐
+                             │   Cognitive Blueprint REST API  │
+                             │      (RapidAPI Gateway)         │
+                             └────────────────┬────────────────┘
+                                              │
+                    ┌─────────────────────────┴─────────────────────────┐
+                    ▼                                                   ▼
+┌───────────────────────────────────────┐           ┌───────────────────────────────────────┐
+│     POST /v1/criterion/{1..5}         │           │   Direct Telemetry Dashboard / UI     │
+│   Modular API JSON Responses          │           │   ➔ Sliders, scorebars (0-100 / 0-1)  │
+│   (Math Metrics + Vector Codes +      │──────────>│   ➔ Coherence, latency, autonomy      │
+│    Cross-Engine System Alerts)        │           │   ➔ Custom decision logic & thresholds│
+└───────────────────┬───────────────────┘           └───────────────────────────────────────┘
+                    │
+                    ▼
+┌───────────────────────────────────────────────────┐
+│      Enrichment Engine / LLM RAG Pipeline         │
+│   ➔ Cross-reference vectors with DICTIONARY/      │
+│   ➔ Cross-reference alerts with ALERTS/           │
+└───────────────────┬───────────────────────────────┘
+                    │
+                    ▼
+┌───────────────────────────────────────────────────┐
+│     33-Inquiry Purpose-Driven Clinical Reports    │
+│   ➔ Deep, contextualized synthesis per inquiry    │
+│   ➔ Actionable protocols & mentor's diagnoses     │
+│   ➔ Remediation of active systemic friction       │
+└───────────────────────────────────────────────────┘
+```
+
+---
+
+## 3. Tesla Telemetry Summary Across Criteria
+
+Calling the API endpoints for Nikola Tesla generates the exact JSON structures found in [`nikola_tesla_json/`](nikola_tesla_json/):
+
+| Criterion ID & Name | Engines | Total Vectors | Coherence Score | Active Systemic Alerts | Raw JSON File |
+| :--- | :---: | :---: | :---: | :--- | :--- |
+| **C1: Identity & Sovereign Architecture** | 9 | 45 | 60 / 100 | Nominal (None) | [`criterion_1.json`](nikola_tesla_json/criterion_1.json) |
+| **C2: Inhibitors, Shadows & Structural Blocks** | 6 | 58 | 30 / 100 | `KARMIC_CAPITAL_LOCK`<br>`NOCTURNAL_PARASITE_DRAIN` | [`criterion_2.json`](nikola_tesla_json/criterion_2.json) |
+| **C3: Vocation, Craft & Capital Architecture** | 6 | 50 | 75 / 100 | `COMMAND_UNIFIED` | [`criterion_3.json`](nikola_tesla_json/criterion_3.json) |
+| **C4: Direction, Evolution & Navigation** | 6 | 62 | 88 / 100 | `TIMING_LIQUIDITY_MISMATCH`<br>`SOVEREIGN_SPATIAL_ALIGNMENT`<br>`MACRO_LEGACY_SYNCHRONICITY`<br>`STRUCTURAL_KNOT_BREAKTHROUGH`<br>`CRITICAL_TIMING_CONVERGENCE` | [`criterion_4.json`](nikola_tesla_json/criterion_4.json) |
+| **C5: Operating Mode & Bio-Prescriptions** | 6 | 48 | 60 / 100 | `CELLULAR_ACOUSTIC_DEFENSE_REQUIRED` | [`criterion_5.json`](nikola_tesla_json/criterion_5.json) |
+
+---
+
+## 4. Step 1: Input Coordinates (Nikola Tesla)
+
+Your client application sends immutable spatiotemporal coordinates to the [RapidAPI endpoint](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine):
 
 ```json
 {
@@ -52,100 +102,73 @@ Your client application sends the immutable spatiotemporal coordinates to the [R
 
 ---
 
-## 3. Step 2: What You Receive From the API (Sanitized Math & Vectors)
+## 5. Step 2: What You Receive From the API (Modular Criterion JSON)
 
-For each requested Criterion (e.g. `POST /v1/criterion/1`), the API returns a lean, structured payload containing **sanitized quantitative metrics (`math`)**, **active phenomenon vectors (`vectors`)**, and **systemic tension alerts (`crossEngineAlerts`)**:
+For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns a lean, structured payload containing **sanitized quantitative metrics (`math`)**, **active phenomenon vectors (`vectors`)**, and **systemic tension alerts (`crossEngineAlerts`)**:
 
 ```json
 {
   "status": "success",
-  "criterionId": 1,
-  "criterionName": "Identity & Sovereign Architecture",
-  "engineCount": 9,
+  "criterionId": 2,
+  "criterionName": "Inhibitors, Shadows & Structural Blocks",
+  "engineCount": 6,
+  "coherenceScore": 30,
+  "crossEngineAlerts": [
+    "KARMIC_CAPITAL_LOCK",
+    "NOCTURNAL_PARASITE_DRAIN"
+  ],
   "engines": {
-    "identity_core_design_engine": {
+    "circadian_metabolic_engine": {
       "math": {
-        "throughputScore": {
-          "value": 95,
-          "description": "Energetic throughput capacity (scale 0-100, >75 indicates high sustained work output)"
+        "restorationLatencyHours": {
+          "value": 11,
+          "description": "Required latency in hours to reach baseline parasympathetic recovery"
         },
-        "deliberationLatencyHours": {
-          "value": 48,
-          "description": "Optimal deliberation window in hours required before making irreversible commitments"
+        "parasympatheticFloorScore": {
+          "value": 28,
+          "description": "Lowest autonomic nervous threshold during nocturnal cycles (scale 0-100)"
         },
-        "clarityScore": {
-          "value": 82,
-          "description": "Emotional wave stability and decision clarity baseline (scale 0-100)"
-        },
-        "autonomyScore": {
-          "value": 45,
-          "description": "Operational autonomy and independence from external validation (scale 0-100)"
-        },
-        "dependencyIndex": {
-          "value": 70,
-          "description": "Susceptibility to external conditioning and reliance on outside direction (scale 0-100)"
-        },
-        "bridgeCount": {
-          "value": 2,
-          "description": "Count of active electro-magnetic bridge channels integrating centers"
-        },
-        "sovereigntyScore": {
-          "value": 9,
-          "description": "Innate authority and autonomous decision governance (scale 1-10, >7 indicates sovereign operation)"
-        },
-        "yangRatio": {
-          "value": 0.4,
-          "description": "Proportion of active initiating impulse vs total dynamic energy (scale 0.0-1.0)"
-        },
-        "yinRatio": {
-          "value": 0.6,
-          "description": "Proportion of receptive integrating impulse vs total dynamic energy (scale 0.0-1.0)"
-        },
-        "facadeVsCoreDivergenceIndex": {
-          "value": 0.8,
-          "description": "Structural tension between external persona presentation and authentic core self (scale 0.0-1.0)"
+        "burnoutVelocityIndex": {
+          "value": 0.88,
+          "description": "Rate of cellular and cognitive depletion under unmoderated mental load (scale 0.0-1.0)"
         }
       },
       "vectors": [
-        "VEC_ID_CORE_KINETIC_BUILDER",
-        "VEC_ID_DECISION_EMOTIONAL_WAVE",
-        "VEC_ID_AUTONOMY_BRIDGE_REQUIRED",
-        "VEC_ID_AVATAR_MASK_KINETIC_PIONEER",
-        "VEC_ID_STRATEGY_TO_RESPOND",
-        "VEC_ID_STEERSMAN_MERCURIAL_SYNAPSE",
-        "VEC_ID_DYNAMICS_ELEMENT_EARTH_STRUCTURAL"
+        "VEC_CIR_DRAIN_NOCTURNAL_PARASITISM",
+        "VEC_CIR_RECOVERY_COMPROMISED",
+        "VEC_CIR_AUTONOMIC_FRAGILITY"
       ]
     }
-  },
-  "crossEngineAlerts": [
-    "SPLIT_DEFINITION_BRIDGE_TENSION"
-  ]
+  }
 }
 ```
 
 ---
 
-## 4. Step 3: Dictionary Enrichment (Method B)
+## 6. Step 3: Dictionary & Alert Enrichment
 
-By pairing the emitted `vectors` codes with the Markdown Dictionaries (`DICTIONARY/`) and Alerts (`ALERTS/`) in this repository, your LLM or reporting pipeline extracts the clinical phenomenon, diagnostic guidance, and actionable advice:
+By pairing the emitted `vectors` and `crossEngineAlerts` codes with the Markdown Dictionaries (`DICTIONARY/`) and Alerts (`ALERTS/`) in this repository, your LLM or reporting pipeline extracts the clinical phenomenon, diagnostic guidance, and actionable remediation:
 
-| Emitted Vector Code | Matched Dictionary Source | Clinical Insight Extracted |
+| Emitted Code | Matched Source File | Clinical Insight Extracted |
 | :--- | :--- | :--- |
 | `VEC_ID_CORE_KINETIC_BUILDER` | `DICTIONARY/criterion-1-identity/engine_1.md` | Innate regenerative stamina designed for dedicated step-by-step physical and intellectual creation. Must navigate by gut availability rather than mental urgency. |
-| `VEC_ID_DECISION_EMOTIONAL_WAVE` | `DICTIONARY/criterion-1-identity/engine_1.md` | Emotional clarity unfolds like a natural wave. Impulsive decisions fail; needs a 48h contemplation cycle across emotional crests and troughs before major commitments. |
-| `VEC_ID_AUTONOMY_BRIDGE_REQUIRED` | `DICTIONARY/criterion-1-identity/engine_1.md` | Discontinuous internal circuits. Generates deep creative tension and subconscious need for external environments or collaborators to bridge cognitive islands. |
-| `SPLIT_DEFINITION_BRIDGE_TENSION` | `ALERTS/criterion_1_alerts_interpretation.md` | Chronic friction between independent mental and motor islands. Actionable protocol: schedule solitary integration periods to prevent external conditioning. |
+| `VEC_CIR_DRAIN_NOCTURNAL_PARASITISM` | `DICTIONARY/criterion-2-inhibitors/engine_6.md` | Sleep architecture vulnerable to nocturnal energetic and cognitive leaks. Rest cycles fail to restore parasympathetic floor. |
+| `NOCTURNAL_PARASITE_DRAIN` | `ALERTS/criterion_2_alerts_interpretation.md` | **Mechanism**: Severe nocturnal energy hemorrhage and dream-state cognitive processing without somatic rest.<br>**Remediation**: Mandatory acoustic shielding, complete darkness, and cessation of intellectual work 3 hours prior to sleep. |
+| `KARMIC_CAPITAL_LOCK` | `ALERTS/criterion_2_alerts_interpretation.md` | **Mechanism**: Recurring systemic sabotage in capital monetisation and IP ownership contracts.<br>**Remediation**: Establish external fiduciary proxy and third-party commercial verification before signing licensing agreements. |
 
 ---
 
-## 5. Complete 33-Inquiry Synthesized Benchmark Files
+## 7. Step 4: The 33 Synthesized Inquiry Reports
 
-In the [`nikola_tesla_interpretation/`](nikola_tesla_interpretation/) directory, you will find the complete, full-fidelity synthesis across all **33 inquiries** for Nikola Tesla. Each file demonstrates:
-1. **Sanitized Telemetry Metrics**: Public numeric indicators with proprietary IP protection.
-2. **Active Phenomenon Vectors**: The emitted clinical vector codes.
-3. **Clinical Interpretation**: Full excerpts from the knowledge dictionaries providing actionable guidance, diagnostic insight, and systemic friction to avoid.
+In the [`nikola_tesla_interpretation/`](nikola_tesla_interpretation/) directory, you will find the complete, full-fidelity synthesis across all **33 inquiries** for Nikola Tesla. 
 
-### Quick Directory Index:
+Rather than a superficial reading, each inquiry combines:
+1. **Targeted Inquiry Question**: The specific life, vocational, or physiological challenge addressed.
+2. **Sanitized Telemetry Metrics**: Numeric scales (0-100, 0.0-1.0, hours) with descriptions.
+3. **Primary Diagnostic & Subordinate Vectors**: Full clinical excerpts from `DICTIONARY/`.
+4. **Active Cross-Engine Alerts**: Extracted directly from `ALERTS/` containing mechanisms, mentor diagnoses, and remediation protocols.
+
+### Directory Index of Inquiries:
 
 - **Criterion 1 (Identity & Sovereign Architecture)**:
   - [`01_c1_core_life_role_decision_compass.md`](nikola_tesla_interpretation/01_c1_core_life_role_decision_compass.md)
@@ -158,10 +181,15 @@ In the [`nikola_tesla_interpretation/`](nikola_tesla_interpretation/) directory,
   - [`08_c1_higher_ideals_and_aspirations.md`](nikola_tesla_interpretation/08_c1_higher_ideals_and_aspirations.md)
   - [`09_c1_vibrational_signature_footprint.md`](nikola_tesla_interpretation/09_c1_vibrational_signature_footprint.md)
 - **Criterion 2 (Inhibitors, Shadows & Structural Blocks)**:
-  - [`10_c2_reactive_defense_patterns.md`](nikola_tesla_interpretation/10_c2_reactive_defense_patterns.md) through [`15_c2_nocturnal_restoration_burnout.md`](nikola_tesla_interpretation/15_c2_nocturnal_restoration_burnout.md)
+  - [`10_c2_reactive_defense_patterns.md`](nikola_tesla_interpretation/10_c2_reactive_defense_patterns.md)
+  - [`11_c2_ancestral_cellular_memory.md`](nikola_tesla_interpretation/11_c2_ancestral_cellular_memory.md)
+  - [`12_c2_developmental_crossroads_vows.md`](nikola_tesla_interpretation/12_c2_developmental_crossroads_vows.md)
+  - [`13_c2_financial_sovereignty_leakage.md`](nikola_tesla_interpretation/13_c2_financial_sovereignty_leakage.md)
+  - [`14_c2_shadow_and_sovereign_boundaries.md`](nikola_tesla_interpretation/14_c2_shadow_and_sovereign_boundaries.md)
+  - [`15_c2_nocturnal_restoration_burnout.md`](nikola_tesla_interpretation/15_c2_nocturnal_restoration_burnout.md) *(Includes `NOCTURNAL_PARASITE_DRAIN` & `KARMIC_CAPITAL_LOCK` alerts)*
 - **Criterion 3 (Vocation, Craft & Capital Architecture)**:
-  - [`16_c3_vocational_calling_mastery.md`](nikola_tesla_interpretation/16_c3_vocational_calling_mastery.md) through [`21_c3_visionary_execution_scaling.md`](nikola_tesla_interpretation/21_c3_visionary_execution_scaling.md)
+  - [`16_c3_vocational_calling_mastery.md`](nikola_tesla_interpretation/16_c3_vocational_calling_mastery.md) through [`21_c3_visionary_execution_scaling.md`](nikola_tesla_interpretation/21_c3_visionary_execution_scaling.md) *(Includes `COMMAND_UNIFIED` alert)*
 - **Criterion 4 (Direction, Evolution & Strategic Navigation)**:
-  - [`22_c4_timing_acceleration_cycles.md`](nikola_tesla_interpretation/22_c4_timing_acceleration_cycles.md) through [`27_c4_legacy_sovereignty_liberation.md`](nikola_tesla_interpretation/27_c4_legacy_sovereignty_liberation.md)
+  - [`22_c4_timing_acceleration_cycles.md`](nikola_tesla_interpretation/22_c4_timing_acceleration_cycles.md) through [`27_c4_legacy_sovereignty_liberation.md`](nikola_tesla_interpretation/27_c4_legacy_sovereignty_liberation.md) *(Includes 5 timing and spatial synchronicity alerts)*
 - **Criterion 5 (Operating Mode, Equilibrium & Bio-Prescriptions)**:
-  - [`28_c5_sensory_nutrition_assimilation.md`](nikola_tesla_interpretation/28_c5_sensory_nutrition_assimilation.md) through [`33_c5_sensory_reset_acoustic_quietude.md`](nikola_tesla_interpretation/33_c5_sensory_reset_acoustic_quietude.md)
+  - [`28_c5_sensory_nutrition_assimilation.md`](nikola_tesla_interpretation/28_c5_sensory_nutrition_assimilation.md) through [`33_c5_sensory_reset_acoustic_quietude.md`](nikola_tesla_interpretation/33_c5_sensory_reset_acoustic_quietude.md) *(Includes `CELLULAR_ACOUSTIC_DEFENSE_REQUIRED` alert)*

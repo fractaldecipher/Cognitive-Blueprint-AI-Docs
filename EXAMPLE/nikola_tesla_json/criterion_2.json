@@ -1,0 +1,674 @@
+{
+  "status": "success",
+  "criterionNumber": 2,
+  "profile": {
+    "name": "Nikola Tesla",
+    "birthDate": "1856-07-10",
+    "birthTime": "00:00",
+    "birthPlace": "Smiljan, Croatia",
+    "latitude": 44.5809,
+    "longitude": 15.3,
+    "timezone": "Europe/Zagreb",
+    "gender": "male"
+  },
+  "totalActiveVectors": 58,
+  "criterion": {
+    "criterionId": 2,
+    "title": "Blocks, Defense & Lineage Architecture",
+    "totalVectors": 58,
+    "coherenceScore": 30,
+    "crossEngineAlerts": [
+      "KARMIC_CAPITAL_LOCK",
+      "NOCTURNAL_PARASITE_DRAIN"
+    ],
+    "dominantTheme": "CAPITAL_LOCK",
+    "engines": [
+      {
+        "engineId": "engine_1",
+        "inquiry": "What reactive defense patterns, unconscious inhibitors, and deep emotional patterns drain my vital energy, and how can they be transformed into wisdom?",
+        "vectors": [
+          "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
+          "VEC_BLK_REACTIVITY_NODE_054_COMPULSIVE_GREED",
+          "VEC_BLK_REACTIVITY_NODE_051_SHOCK_AGITATION",
+          "VEC_BLK_REACTIVITY_NODE_057_APPREHENSIVE_UNEASE",
+          "VEC_BLK_PATTERN_CLUSTER_HUMANITY_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_TRIALS_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_ILLUSION_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_LIFE_DEATH_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_SEEKING_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_MATTER_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_PROSPERITY_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_DIVINITY_ACTIVE",
+          "VEC_BLK_PATTERN_CLUSTER_MIRACLES_ACTIVE",
+          "VEC_BLK_INHIBITOR_SPHERE_DUALITY_SPLIT",
+          "VEC_BLK_INHIBITOR_SPHERE_CHAOS_SABOTAGE",
+          "VEC_BLK_CORE_WOUND_ANNIHILATION",
+          "VEC_BLK_CATALYST_TRANSMUTATION_ACTIVE",
+          "VEC_BLK_CATALYST_VECTOR_SERVICE_TO_OTHERS",
+          "VEC_BLK_CORE_WOUND_ACUTE_VULNERABILITY",
+          "VEC_BLK_ENTROPY_ADVERSARIAL_PARALYSIS",
+          "VEC_BLK_SHELL_MATERIAL_INERTIA"
+        ],
+        "math": {
+          "activePatternClustersCount": {
+            "value": 9,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for activePatternClustersCount"
+          },
+          "activeInhibitorSpheresCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for activeInhibitorSpheresCount"
+          },
+          "inhibitorLoadPct": {
+            "value": 46,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Overall unconscious conditioning and resistance inhibitor load percentage (0-100%)"
+          },
+          "collectiveBurdenIndex": {
+            "value": 35,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Susceptibility to absorbing collective social pressure and external guilt (scale 0-100)"
+          },
+          "transmutationReadiness": {
+            "value": 57,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Readiness score for transforming shadow friction into conscious capability (scale 0-100)"
+          },
+          "woundTransmutationRatio": {
+            "value": 0.23,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Proportional ratio (scale 0.0-1.0) for woundTransmutationRatio"
+          },
+          "entropyScore": {
+            "value": 55,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cognitive entropy and behavioral disorganization risk score (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_2",
+        "inquiry": "What ancestral patterns, inherited survival fears, and intergenerational burdens are imprinted in my cellular memory, and how do I transform them into sovereign strength?",
+        "vectors": [
+          "VEC_BLK_LINEAGE_GENERAL_HARDWARE_IMPRINT",
+          "VEC_BLK_LINEAGE_MATERNAL_SCARCITY_LOCK",
+          "VEC_BLK_LINEAGE_PATERNAL_AUTHORITY_GRIT",
+          "VEC_BLK_MITOCHONDRIAL_STRESS_LOOP_ACTIVE",
+          "VEC_BLK_MORPHIC_ANCESTRAL_REPETITION_LOCK",
+          "VEC_BLK_DEFENSE_RATIONALIZATION",
+          "VEC_BLK_CATHARSIS_ANCESTRAL_PURGE_ACTIVE",
+          "VEC_BLK_CATHARSIS_IDENTITY_SOVEREIGNTY_CRISIS"
+        ],
+        "math": {
+          "parentalHarmonicIndex": {
+            "value": 5,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for parentalHarmonicIndex"
+          },
+          "parentalIntegrityScore": {
+            "value": 58,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Ancestral parental conditioning resolution and boundary integrity (scale 0-100)"
+          },
+          "maternalResilienceScore": {
+            "value": 45,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Maternal lineage emotional resilience and nurturing baseline (scale 0-100)"
+          },
+          "paternalGritScore": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Paternal lineage perseverance, authority boundary, and grit score (scale 0-100)"
+          },
+          "mitochondrialStressPct": {
+            "value": 57,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Mitochondrial and cellular stress load percentage (0-100%)"
+          },
+          "cellularFatigueIndex": {
+            "value": 35,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for cellularFatigueIndex"
+          },
+          "epigeneticResonanceScore": {
+            "value": 88,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Resonance with inherited lineage strengths and biological adaptability (scale 0-100)"
+          },
+          "entanglementRiskScore": {
+            "value": 40,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Risk score of unconscious emotional entanglement with relational partners (scale 0-100)"
+          },
+          "loyaltyTrapIndex": {
+            "value": 36,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Subconscious loyalty to familial struggle and stagnation index (scale 0-100)"
+          },
+          "ancestralMiasmLoad": {
+            "value": 0.24,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for ancestralMiasmLoad"
+          }
+        }
+      },
+      {
+        "engineId": "engine_3",
+        "inquiry": "What unresolved life lessons, unexamined vows, and cyclical developmental crossroads shape my journey, and how do I transform past inertia into purposeful mastery?",
+        "vectors": [
+          "VEC_BLK_KARMIC_TOWER_COLLAPSE_16",
+          "VEC_BLK_KARMIC_DEGREE_IMPRINT_ACTIVE",
+          "VEC_BLK_KARMIC_PROTOCOL_SENSORY_QUARANTINE",
+          "VEC_BLK_KARMIC_PROTOCOL_EGO_DECOMPILATION",
+          "VEC_BLK_GRAVITY_EVOLUTIONARY_HEADWIND",
+          "VEC_BLK_VOW_VISIBILITY_SUPPRESSION",
+          "VEC_BLK_NODAL_SOUTH_REGRESSION_LOOP",
+          "VEC_BLK_SKIPPED_STEP_CRUCIBLE",
+          "VEC_BLK_SKIPPED_STEP_MULTIPLE_LOCK",
+          "VEC_BLK_EVOLUTIONARY_MATURITY_TRANSITION",
+          "VEC_BLK_KARMIC_ECLIPSE_CASCADE_ACUTE"
+        ],
+        "math": {
+          "existentialFrictionCode": {
+            "value": 16,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for existentialFrictionCode"
+          },
+          "totalCompulsionCodesCount": {
+            "value": 3,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for totalCompulsionCodesCount"
+          },
+          "frictionSeverityScoreTotal": {
+            "value": 9.1,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cumulative ancestral karma and life lesson friction severity score (scale 0-100)"
+          },
+          "debtDischargeRatio": {
+            "value": 0.24,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Proportional ratio (scale 0.0-1.0) for debtDischargeRatio"
+          },
+          "deepGravityIndex": {
+            "value": 64,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Subconscious gravitational inertia resisting forward evolutionary momentum (scale 0-100)"
+          },
+          "evolutionaryHeadwindPct": {
+            "value": 50,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Existential evolutionary resistance and karmic headwind percentage (0-100%)"
+          },
+          "visibilitySuppressionIndex": {
+            "value": 68,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Fear of authentic visibility and self-suppression index (scale 0-100)"
+          },
+          "skippedStepsCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for skippedStepsCount"
+          },
+          "cascadeIntensityIndex": {
+            "value": 67,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for cascadeIntensityIndex"
+          }
+        }
+      },
+      {
+        "engineId": "engine_4",
+        "inquiry": "Where am I leaking resources, underpricing my authentic value, or fearing commercial expansion, and how do I construct an unassailable foundation of financial sovereignty?",
+        "vectors": [
+          "VEC_BLK_CAPITAL_FLOW_MARKET_DISRUPTION",
+          "VEC_BLK_CRISIS_DRAIN_SUDDEN_LIQUIDATION",
+          "VEC_BLK_SCALE_BLOCKADE_VISIBILITY_SUPPRESSION",
+          "VEC_BLK_SCALE_BLOCKADE_EXPANSION_FEAR"
+        ],
+        "math": {
+          "structuralResistancePct": {
+            "value": 44,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Structural systemic friction resisting commercial and capital expansion (0-100%)"
+          },
+          "disruptionCoefficient": {
+            "value": 68,
+            "type": "MULTIPLIER",
+            "unit": "x",
+            "range": [
+              1,
+              10
+            ],
+            "description": "Sensitivity to sudden financial and environmental disruptions"
+          },
+          "crisisHarmonicIndex": {
+            "value": 3,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Harmonic index for navigating acute material crises (scale 0-100)"
+          },
+          "sharedResourceFirewallPct": {
+            "value": 25,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Boundary firewall strength in partnerships and joint asset allocations (0-100%)"
+          },
+          "expansionSuppressionIndex": {
+            "value": 65,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for expansionSuppressionIndex"
+          }
+        }
+      },
+      {
+        "engineId": "engine_5",
+        "inquiry": "How do I protect my sovereign boundaries from external friction and predatory dynamics, integrate my exiled shadow instincts, and transmute inner bitterness into focused mastery?",
+        "vectors": [
+          "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
+          "VEC_BLK_POISON_INNER_SABOTAGE_LOOP",
+          "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
+          "VEC_BLK_EXILE_REPRESSED_DESIRE_LOCK",
+          "VEC_BLK_QUARANTINE_HEAVY",
+          "VEC_BLK_QUARANTINE_DUPLICATED_PROJECTION",
+          "VEC_BLK_TRAPPED_CAPACITY_EXILE",
+          "VEC_BLK_APOGEE_SHADOW_SABOTAGE_ACTIVE",
+          "VEC_BLK_APOGEE_SHADOW_TRANSMUTATION",
+          "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
+          "VEC_BLK_SINGULARITY_ALBEDO_REFINEMENT"
+        ],
+        "math": {
+          "litigationExposureIndex": {
+            "value": 15,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic risk index for contractual disputes and regulatory exposure (scale 0-100)"
+          },
+          "adversaryFrictionScore": {
+            "value": 20,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Vulnerability to competitor aggression and external adversarial friction (scale 0-100)"
+          },
+          "legalFirewallPct": {
+            "value": 85,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Immunity and firewall strength against external litigation and institutional friction (0-100%)"
+          },
+          "rawThreatScore": {
+            "value": 45,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for rawThreatScore"
+          },
+          "adjustedThreatScore": {
+            "value": 30,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for adjustedThreatScore"
+          },
+          "blindspotRiskIndex": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for blindspotRiskIndex"
+          },
+          "exiledShadowFriction": {
+            "value": 55,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for exiledShadowFriction"
+          },
+          "trappedCapacitiesCount": {
+            "value": 5,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for trappedCapacitiesCount"
+          },
+          "primalRejectionIndex": {
+            "value": 0.29,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Systemic index indicator (scale 0-100) for primalRejectionIndex"
+          },
+          "structuralFrictionScore": {
+            "value": 57,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for structuralFrictionScore"
+          },
+          "glassCeilingIndex": {
+            "value": 25,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for glassCeilingIndex"
+          },
+          "structuralDelayMultiplier": {
+            "value": 1.2,
+            "type": "MULTIPLIER",
+            "unit": "x",
+            "range": [
+              1,
+              10
+            ],
+            "description": "Quantified constitutional telemetry metric for structuralDelayMultiplier"
+          },
+          "axialTotalHitsCount": {
+            "value": 0,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for axialTotalHitsCount"
+          },
+          "axialCriticalHitsCount": {
+            "value": 0,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for axialCriticalHitsCount"
+          },
+          "axialCollisionDensityScore": {
+            "value": 0,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for axialCollisionDensityScore"
+          }
+        }
+      },
+      {
+        "engineId": "engine_6",
+        "inquiry": "How do I protect my nervous system from chronic depletion, prevent burnout, and cultivate deep, sovereign restoration during sleep?",
+        "vectors": [
+          "VEC_BLK_BURNOUT_CRITICAL",
+          "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
+          "VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY"
+        ],
+        "math": {
+          "totalBurnoutRiskPct": {
+            "value": 99,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic nervous system burnout and cognitive overload risk percentage (0-100%)"
+          },
+          "recommendedIsolationHoursPerWeek": {
+            "value": 19.8,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              168
+            ],
+            "description": "Mandatory solitary decompression and auric reset hours required per week"
+          },
+          "transferenceRiskIndex": {
+            "value": 36,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for transferenceRiskIndex"
+          },
+          "cognitiveDistortionRatio": {
+            "value": 0.67,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Proportional ratio (scale 0.0-1.0) for cognitiveDistortionRatio"
+          },
+          "blindspotRiskIndex": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for blindspotRiskIndex"
+          },
+          "nocturnalConditioningIndex": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for nocturnalConditioningIndex"
+          },
+          "neuralDrainPct": {
+            "value": 39,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Sensory noise and neural vitality depletion percentage (0-100%)"
+          },
+          "sleepAuraIntegrityPct": {
+            "value": 45,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Solitary nocturnal aura protection and restorative sleep integrity percentage (0-100%)"
+          }
+        }
+      }
+    ]
+  }
+}

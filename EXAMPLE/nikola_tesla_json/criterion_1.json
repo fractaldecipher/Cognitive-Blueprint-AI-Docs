@@ -1,0 +1,612 @@
+{
+  "status": "success",
+  "criterionNumber": 1,
+  "profile": {
+    "name": "Nikola Tesla",
+    "birthDate": "1856-07-10",
+    "birthTime": "00:00",
+    "birthPlace": "Smiljan, Croatia",
+    "latitude": 44.5809,
+    "longitude": 15.3,
+    "timezone": "Europe/Zagreb",
+    "gender": "male"
+  },
+  "totalActiveVectors": 45,
+  "criterion": {
+    "criterionId": 1,
+    "title": "Identity & Sovereign Architecture",
+    "totalVectors": 45,
+    "coherenceScore": 60,
+    "crossEngineAlerts": [],
+    "dominantTheme": "KINETIC_BUILDER_ARCHITECTURE",
+    "engines": [
+      {
+        "engineId": "engine_1",
+        "inquiry": "What is my core life role, and through what natural compass do I make authentic decisions?",
+        "vectors": [
+          "VEC_ID_CORE_KINETIC_BUILDER",
+          "VEC_ID_DECISION_EMOTIONAL_WAVE",
+          "VEC_ID_AUTONOMY_BRIDGE_REQUIRED",
+          "VEC_ID_AVATAR_MASK_KINETIC_PIONEER",
+          "VEC_ID_ZENITH_LEGACY_INSTITUTIONAL_BUILDER",
+          "VEC_ID_STRATEGY_TO_RESPOND",
+          "VEC_ID_STEERSMAN_MERCURIAL_SYNAPSE",
+          "VEC_ID_STEERSMAN_DIGNITY_SOVEREIGN",
+          "VEC_ID_DYNAMICS_ELEMENT_EARTH_STRUCTURAL",
+          "VEC_ID_DYNAMICS_MODALITY_CARDINAL_INITIATOR",
+          "VEC_ID_DYNAMICS_POLARITY_YIN_CONTAINED",
+          "VEC_ID_DYNAMICS_FACADE_CORE_POLARIZED_TENSION",
+          "VEC_ID_DYNAMICS_STELLIUM_CONVERGENCE"
+        ],
+        "math": {
+          "throughputScore": {
+            "value": 95,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Energetic throughput capacity (scale 0-100, >75 indicates high sustained work output)"
+          },
+          "deliberationLatencyHours": {
+            "value": 48,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Optimal deliberation window in hours required before making irreversible commitments"
+          },
+          "clarityScore": {
+            "value": 82,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Emotional wave stability and decision clarity baseline (scale 0-100)"
+          },
+          "autonomyScore": {
+            "value": 45,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Operational autonomy and independence from external validation (scale 0-100)"
+          },
+          "dependencyIndex": {
+            "value": 70,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Susceptibility to external conditioning and reliance on outside direction (scale 0-100)"
+          },
+          "bridgeCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active electro-magnetic bridge channels integrating centers"
+          },
+          "sovereigntyScore": {
+            "value": 9,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              1,
+              10
+            ],
+            "description": "Innate authority and autonomous decision governance (scale 1-10, >7 indicates sovereign operation)"
+          },
+          "yangRatio": {
+            "value": 0.4,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Proportion of active initiating impulse vs total dynamic energy (scale 0.0-1.0)"
+          },
+          "yinRatio": {
+            "value": 0.6,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Proportion of receptive integrating impulse vs total dynamic energy (scale 0.0-1.0)"
+          },
+          "facadeVsCoreDivergenceIndex": {
+            "value": 0.8,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Structural tension between external persona presentation and authentic core self (scale 0.0-1.0)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_2",
+        "inquiry": "How do I naturally process reality, and what environment and calling truly nourish my mind and spirit?",
+        "vectors": [
+          "VEC_ID_ENV_SHORES",
+          "VEC_ID_MOTIVATION_INNOCENCE",
+          "VEC_ID_PROC_BRAIN_ACTIVE_STRATEGIC",
+          "VEC_ID_PROC_VIEW_PERIPHERAL_HOLISTIC",
+          "VEC_ID_PROC_MIND_STRATEGIC_LOGICAL"
+        ],
+        "math": {
+          "strategicCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of strategic, left-oriented cognitive intake circuits"
+          },
+          "receptiveCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of receptive, right-oriented cognitive intake circuits"
+          }
+        }
+      },
+      {
+        "engineId": "engine_3",
+        "inquiry": "What is my authentic path of learning, self-mastery, and sharing wisdom with the world?",
+        "vectors": [
+          "VEC_ID_LEARNING_EVOLVING_MASTER",
+          "VEC_ID_KNOWLEDGE_HERMETIC_ALCHEMY"
+        ],
+        "math": {
+          "dominantScore": {
+            "value": 1,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Dominant pedagogical learning and knowledge transmission intensity (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_4",
+        "inquiry": "How does my mind perceive time, orient toward challenges, and navigate contemplative thresholds?",
+        "vectors": [
+          "VEC_ID_OPS_NIGHT_COVERT",
+          "VEC_ID_MIND_PIONEER_FORWARD",
+          "VEC_ID_NEURAL_IMPULSE_HEALING"
+        ],
+        "math": {
+          "divisionIndex": {
+            "value": 13,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Mental optics harmonic division index for cognitive processing"
+          },
+          "anareticCount": {
+            "value": 0,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of critical transition thresholds active across planetary positions"
+          }
+        }
+      },
+      {
+        "engineId": "engine_5",
+        "inquiry": "What is my unshakeable moral compass, my soul's core impulse, and what protects me from self-betrayal?",
+        "vectors": [
+          "VEC_ID_INTEGRITY_ETHICAL_DRIFT_RISK",
+          "VEC_ID_INTEGRITY_SOUL_ANCHOR",
+          "VEC_ID_SOUL_INTENT_DYNAMIC_TRANSMISSION",
+          "VEC_ID_SOUL_BASELINE_DISCERNED_PURITY",
+          "VEC_ID_SOUL_INDICATOR_MARS"
+        ],
+        "math": {
+          "dharmaBackboneStrength": {
+            "value": 55,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Unshakeable ethical backbone and resistance to moral self-betrayal (scale 0-100)"
+          },
+          "relationalCohesionScore": {
+            "value": 30,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Relational fidelity and non-betrayal bond integrity (scale 0-100)"
+          },
+          "harmonicMatchesCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of harmonic resonance alignments across core identity vectors"
+          },
+          "soulIntegrityIndex": {
+            "value": 50,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Core soul impulse integrity and authenticity index (scale 0-100)"
+          },
+          "imposterImmunityScore": {
+            "value": 50,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Natural psychological immunity against imposter syndrome and self-doubt (scale 0-100)"
+          },
+          "harmonicResonanceCount": {
+            "value": 0,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active harmonic resonance nodes in identity matrix"
+          }
+        }
+      },
+      {
+        "engineId": "engine_6",
+        "inquiry": "What subtle constitutional tendencies, somatic rhythms, and inner stamina shape my lived experience?",
+        "vectors": [
+          "VEC_ID_SUBSTRATE_BIO_SERIAL_SOVEREIGN",
+          "VEC_ID_SUBSTRATE_CELLULAR_STAMINA_HIGH",
+          "VEC_ID_SUBSTRATE_HIDDEN_FIRE_IMPULSE",
+          "VEC_ID_SUBSTRATE_CRITICAL_CHOKEPOINT",
+          "VEC_ID_SUBSTRATE_CRANIAL_NEURAL_LOAD"
+        ],
+        "math": {
+          "cellularStaminaIndex": {
+            "value": 88.5,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Innate cellular stamina and deep physical vitality reserve (scale 0-100)"
+          },
+          "bioMagneticStabilityPct": {
+            "value": 96,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Biomagnetic auric boundary and somatic nervous system stability percentage (0-100%)"
+          },
+          "hiddenFireCount": {
+            "value": 3,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Metabolic and catalytic fire drive impulses present in physical constitution"
+          },
+          "hiddenEarthCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Structural grounding and somatic stability impulses present in constitution"
+          },
+          "hiddenAirCount": {
+            "value": 0,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Neural agility and conceptual transmission impulses present in constitution"
+          },
+          "hiddenWaterCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Fluidic circulation and emotional depth impulses present in constitution"
+          },
+          "structuralControlScore": {
+            "value": 40,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Somatic self-regulation and physical structural control (scale 0-100)"
+          },
+          "servicePrecisionScore": {
+            "value": 40,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Precision focus and craftsmanship devotion score (scale 0-100)"
+          },
+          "totalStressScore": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cumulative physical load and nervous system tension score (scale 0-100)"
+          },
+          "chokepointHitsCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of somatic resistance chokepoints requiring deliberate pacing"
+          },
+          "stellarConduitHitsCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of stellar conduit alignments funneling vital stamina"
+          },
+          "axialCervicalScore": {
+            "value": 0,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cervical spine structural tension and neural conduction load (scale 0-100)"
+          },
+          "cranialNeuralScore": {
+            "value": 55,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cranial neural processing intensity and mental load (scale 0-100)"
+          },
+          "cardioVascularScore": {
+            "value": 45,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cardiovascular vital endurance and exertion load (scale 0-100)"
+          },
+          "sensoryOcularScore": {
+            "value": 0,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Visual processing and sensory ocular strain score (scale 0-100)"
+          },
+          "metabolicHepaticScore": {
+            "value": 0,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Hepatic metabolic assimilation and detox efficiency score (scale 0-100)"
+          },
+          "hitsCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Total somatic marker activation count"
+          }
+        }
+      },
+      {
+        "engineId": "engine_7",
+        "inquiry": "What overarching archetypal journey, life lessons, and soul longings shape my personal pilgrimage?",
+        "vectors": [
+          "VEC_ID_NUM_LIFE_PATH_1_SOVEREIGN_INITIATOR",
+          "VEC_ID_NUM_EXPRESSION_MASTER_11",
+          "VEC_ID_NUM_SOUL_URGE_MASTER_22",
+          "VEC_ID_MYTHIC_ARCHETYPE_RADIANT_SOVEREIGN",
+          "VEC_ID_MYTHIC_SHADOW_CHALLENGE",
+          "VEC_ID_NAME_PHONETIC_FRICTION",
+          "VEC_ID_REFLEX_ACTIVE_LEADER"
+        ],
+        "math": {
+          "masterNumberCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of master archetypal vibrations (11, 22, 33) shaping life lessons"
+          },
+          "phoneticFrictionIndex": {
+            "value": 7,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Phonetic vocal friction and articulation resistance index in identity expression"
+          },
+          "birthdayReflexNumber": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "number",
+            "range": [
+              1,
+              31
+            ],
+            "description": "Primary instinctive behavioral reflex number"
+          }
+        }
+      },
+      {
+        "engineId": "engine_8",
+        "inquiry": "What higher archetypal ideals, subtle currents, and conscious aspirations guide my presence?",
+        "vectors": [
+          "VEC_ID_STELLAR_HONOR",
+          "VEC_ID_STELLAR_ANALYTICAL_SYNAPSE"
+        ],
+        "math": {
+          "alignmentsCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of direct celestial and stellar alignments active in identity matrix"
+          },
+          "autonomicStressPct": {
+            "value": 19,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Autonomic nervous system activation and stress load percentage (0-100%)"
+          },
+          "anchorIntegrityScore": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Higher aspirational anchor stability and existential alignment (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_9",
+        "inquiry": "What vibrational signature, social resonance, and tangible footprint does my expressed identity carry in the world?",
+        "vectors": [
+          "VEC_ID_TRANSMISSION_POSITION_SEAL",
+          "VEC_ID_TRANSMISSION_RESONANCE_DELEGATED",
+          "VEC_ID_NAME_INTEGRITY_VERIFIED"
+        ],
+        "math": {
+          "materialMultiplier": {
+            "value": 0,
+            "type": "MULTIPLIER",
+            "unit": "x",
+            "range": [
+              1,
+              10
+            ],
+            "description": "Material resource manifestation and practical grounding multiplier"
+          },
+          "nameIntegrityScore": {
+            "value": 80,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Lexical and phonetic structural integrity score of the expressed name (scale 0-100)"
+          },
+          "resonantLetterCount": {
+            "value": 4,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of acoustically resonant letters reinforcing vocal authority"
+          }
+        }
+      }
+    ]
+  }
+}

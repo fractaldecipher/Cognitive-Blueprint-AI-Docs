@@ -4,6 +4,7 @@
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 3 (Vocation, Craft & Capital Architecture)**
 > **Active Phenomenon Vectors**: **8**
+> **Active Criterion Alerts**: `COMMAND_UNIFIED`
 
 ---
 
@@ -144,6 +145,21 @@ The following entries are extracted directly from the official Cognitive Bluepri
 - **Clinical Interpretation**: An impartial diagnostic capability that perceives environmental health, operational bottlenecks, and structural inconsistencies within organizations. The individual acts as an objective evaluator, detecting areas where integrity or efficiency are compromised.
 - **Actionable Advice**: Offer high-level diagnostic reviews, quality assurance assessments, and strategic audits. Maintain an objective, calm perspective to preserve diagnostic accuracy.
 - **System Friction (To Avoid)**: Taking organizational flaws personally, or burning yourself out trying to fix every identified issue rather than providing clear, actionable diagnostic guidance.
+
+---
+
+## 4. ⚡ Active Cross-Engine Alerts (Criterion 3: Vocation, Craft & Capital Architecture)
+
+Cross-engine alerts represent high-voltage systemic tensions or friction loops detected across the entire criterion. In clinical report synthesis, these alerts contextualize the inquiry's findings and dictate non-negotiable operational safeguards:
+
+### 1. Alert: `COMMAND_UNIFIED` — Unified Executive Command Architecture
+
+* **System Tension / Mechanism**: An auspicious yet high-responsibility configuration featuring an Almuten Figuris / Single-Operator executive command chain (e.g., strong Sun/Saturn or Solo Initiator stance). The business architecture functions at maximum throughput, speed, and precision when structured under a single, uncompromised, sovereign decision-maker. Friction occurs when the operator succumbs to modern corporate trends of "management by committee," democratic voting, or diluted co-CEO structures, which introduces paralysis, political compromise, and strategic drift.
+* **Mentor's Diagnosis**: Your enterprise is designed as a monarchy, not a town hall meeting. When you try to run a sovereign command suit through consensus and committee debates, you destroy your speed advantage and demoralize your team. Leadership is not a popularity contest.
+* **Strategic Remediation / Actionable Guidance**:
+  1. *Clear Chain of Command*: Re-establish a strict, hierarchical executive command structure where you retain final, absolute decision authority on core strategy, vision, and capital allocation.
+  2. *Consult, Then Command*: Listen to advisors and domain experts, gather telemetry, but make the final call unilaterally without seeking consensus approval.
+  3. *Decisive Execution*: Eliminate slow, indecisive committee structures. Replace them with clear, single-point accountability for every department head.
 
 ---
 

@@ -1,0 +1,591 @@
+{
+  "status": "success",
+  "criterionNumber": 4,
+  "profile": {
+    "name": "Nikola Tesla",
+    "birthDate": "1856-07-10",
+    "birthTime": "00:00",
+    "birthPlace": "Smiljan, Croatia",
+    "latitude": 44.5809,
+    "longitude": 15.3,
+    "timezone": "Europe/Zagreb",
+    "gender": "male"
+  },
+  "totalActiveVectors": 62,
+  "criterion": {
+    "criterionId": 4,
+    "title": "Direction, Timing & Macro-Scaling Architecture",
+    "totalVectors": 62,
+    "coherenceScore": 88,
+    "crossEngineAlerts": [
+      "TIMING_LIQUIDITY_MISMATCH",
+      "SOVEREIGN_SPATIAL_ALIGNMENT",
+      "MACRO_LEGACY_SYNCHRONICITY",
+      "STRUCTURAL_KNOT_BREAKTHROUGH",
+      "CRITICAL_TIMING_CONVERGENCE"
+    ],
+    "dominantTheme": "SOVEREIGN_TIMING_ARCHITECT",
+    "engines": [
+      {
+        "engineId": "engine_1",
+        "inquiry": "What are the natural seasons, cycles of acceleration, and developmental windows of my life, and how do I harmonize my efforts with the rhythm of timing rather than forcing outcomes?",
+        "vectors": [
+          "VEC_DIR_CYCLE_RELEASE_PEAK_ACTIVE",
+          "VEC_DIR_FUTURE_PEAK_WINDOW",
+          "VEC_DIR_FUTURE_VALLEY_WINDOW",
+          "VEC_DIR_FUTURE_TRANSITION_PHASE",
+          "VEC_DIR_TIME_ARCHITECTURE_LEGACY",
+          "VEC_DIR_SUCCESS_TIMELINE_GOLDEN_WINDOW",
+          "VEC_DIR_SUCCESS_TIMELINE_OPTIMAL_LAUNCH",
+          "VEC_DIR_SUCCESS_TIMELINE_STRATEGIC_PAUSE",
+          "VEC_DIR_TEMPO_OVERCLOCK_ACTIVE",
+          "VEC_DIR_TEMPO_HIGH_BURN_RATE"
+        ],
+        "math": {
+          "daysToNextPeak": {
+            "value": 0,
+            "type": "DAYS",
+            "unit": "days",
+            "range": [
+              0,
+              365
+            ],
+            "description": "Estimated timeline in days to the next strategic acceleration inflection peak"
+          },
+          "personalYearNumber": {
+            "value": 9,
+            "type": "COUNT",
+            "unit": "number",
+            "range": [
+              1,
+              31
+            ],
+            "description": "Quantified constitutional telemetry metric for personalYearNumber"
+          },
+          "cycleCompletionPct": {
+            "value": 100,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Percentage completion of the active multi-year strategic cycle (0-100%)"
+          },
+          "alignmentStrengthScore": {
+            "value": 76,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Strength of synchronicity with macro temporal windows (scale 0-100)"
+          },
+          "timingConfidenceScore": {
+            "value": 94,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Confidence index in current multi-year strategic acceleration cycle (scale 0-100)"
+          },
+          "timeDilationFactor": {
+            "value": 1.29,
+            "type": "MULTIPLIER",
+            "unit": "x",
+            "range": [
+              1,
+              10
+            ],
+            "description": "Subjective temporal perception and strategic pacing factor"
+          },
+          "systemBurnRateTotal": {
+            "value": 2.47,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for systemBurnRateTotal"
+          }
+        }
+      },
+      {
+        "engineId": "engine_2",
+        "inquiry": "In what physical environments, directional orientations, and geographical spaces does my nervous system find optimal harmony, sovereign focus, and unconstrained creative power?",
+        "vectors": [
+          "VEC_DIR_SPATIAL_GRID_EUROPE",
+          "VEC_DIR_SPATIAL_GRID_OPTIMAL_ALIGNMENT",
+          "VEC_DIR_LOCAL_SPACE_NORTH_ALIGNMENT",
+          "VEC_DIR_LOCAL_SPACE_EAST_ALIGNMENT",
+          "VEC_DIR_ARCHITECTURE_NORTH_EAST_OPTIMAL",
+          "VEC_DIR_ARCHITECTURE_SOUTH_WEST_OPTIMAL",
+          "VEC_DIR_ARCHITECTURE_ELEMENTAL_ALIGNMENT"
+        ],
+        "math": {
+          "spatialResonanceScore": {
+            "value": 87,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Global geographical meridian harmony and creative flow resonance (scale 0-100)"
+          },
+          "localSpaceResonanceScore": {
+            "value": 84,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Local directional and workspace spatial alignment resonance (scale 0-100)"
+          },
+          "architecturalCompatibilityScore": {
+            "value": 88,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for architecturalCompatibilityScore"
+          },
+          "environmentalResonanceScore": {
+            "value": 86,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Immediate physical environment harmony and cognitive comfort (scale 0-100)"
+          },
+          "mandatoryIsolationHoursPerWeek": {
+            "value": 8,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for mandatoryIsolationHoursPerWeek"
+          }
+        }
+      },
+      {
+        "engineId": "engine_3",
+        "inquiry": "How do I cultivate unshakeable resilience against unforeseen crises, protect my livelihood from systemic volatility, and ensure that adversity strengthens rather than diminishes my purpose?",
+        "vectors": [
+          "VEC_DIR_LIQUIDITY_BUFFER_12_MONTHS",
+          "VEC_DIR_SYSTEMIC_LIQUIDATION_RISK_CRITICAL",
+          "VEC_DIR_SHARED_CAPITAL_FIREWALL_MANDATORY",
+          "VEC_DIR_ANTIFRAGILITY_APEX",
+          "VEC_DIR_CRISIS_PIVOT_RAPID",
+          "VEC_DIR_CHAOS_BENEFIT_CAPACITY_HIGH",
+          "VEC_DIR_MACRO_ANOMALY_EXPOSURE_HIGH",
+          "VEC_DIR_LEVERAGE_PROHIBITION",
+          "VEC_DIR_EXTREME_VOLATILITY_SENSITIVITY",
+          "VEC_DIR_OPERATIONAL_SABOTAGE_HIGH",
+          "VEC_DIR_SHADOW_SUCCESS_PATTERN",
+          "VEC_DIR_MONEY_BLOCK_SATURN",
+          "VEC_DIR_MONEY_BLOCK_PLUTO"
+        ],
+        "math": {
+          "liquidityBufferMonths": {
+            "value": 12,
+            "type": "MONTHS",
+            "unit": "months",
+            "range": [
+              0,
+              60
+            ],
+            "description": "Recommended liquid capital emergency runway in months to ensure sovereign freedom"
+          },
+          "antifragilityIndex": {
+            "value": 0.87,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Capacity to gain strength and multiply assets from market disruptions and crises (scale 0-100)"
+          },
+          "crisisPivotSpeedHours": {
+            "value": 12,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Estimated response agility in hours to pivot business operations during systemic shocks"
+          },
+          "chaosBenefitCapacity": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for chaosBenefitCapacity"
+          },
+          "pivotReadinessScore": {
+            "value": 82,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Operational flexibility and readiness score for structural strategic pivots (scale 0-100)"
+          },
+          "macroAnomalyExposureScore": {
+            "value": 74,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Resilience against black-swan systemic and geopolitical events (scale 0-100)"
+          },
+          "generationalDisruptionRisk": {
+            "value": 63,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for generationalDisruptionRisk"
+          },
+          "operationalSabotageIntensity": {
+            "value": 69,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for operationalSabotageIntensity"
+          }
+        }
+      },
+      {
+        "engineId": "engine_4",
+        "inquiry": "How does material abundance naturally assemble around my authentic gifts, what non-linear multipliers amplify my impact, and how do I steward profound financial blessings with integrity and wisdom?",
+        "vectors": [
+          "VEC_DIR_WINDFALL_POTENTIAL_HIGH",
+          "VEC_DIR_CAPITAL_MULTIPLIER_5_0X",
+          "VEC_DIR_INSTITUTIONAL_PATRONAGE_ACTIVE",
+          "VEC_DIR_STRUCTURAL_WEALTH_SOVEREIGN_POWER",
+          "VEC_DIR_MATERIAL_POWER_GUARANTEE",
+          "VEC_DIR_PROBABILITY_ANOMALY_DETECTED",
+          "VEC_DIR_MATRIX_GLITCH_OPPORTUNITY",
+          "VEC_DIR_RARE_CONFIGURATION_ACTIVE",
+          "VEC_DIR_RESONANCE_NODE_VICTORY",
+          "VEC_DIR_EFFORTLESS_FLOW_ACTIVE",
+          "VEC_DIR_FLOW_GOLDEN_CONDUCTIVITY_HIGH",
+          "VEC_DIR_FLOW_SUPER_LINKAGE_ACTIVE",
+          "VEC_DIR_FLOW_UNCOUPLED_VACUUM_ISOLATION"
+        ],
+        "math": {
+          "windfallPotentialScore": {
+            "value": 74,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Nonlinear asymmetric windfall and probability anomaly potential (scale 0-100)"
+          },
+          "capitalMultiplierMax": {
+            "value": 5,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Maximum theoretical capital multiplication coefficient across long-term horizons"
+          },
+          "structuralWealthScore": {
+            "value": 90,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Long-term enduring multi-generational wealth foundation score (scale 0-100)"
+          },
+          "probabilityAnomalyScore": {
+            "value": 72,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Frequency of serendipitous breakthrough occurrences in commercial timing (scale 0-100)"
+          },
+          "flowConductivityScore": {
+            "value": 39.37,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for flowConductivityScore"
+          },
+          "turbulentFrictionScore": {
+            "value": 23.25,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for turbulentFrictionScore"
+          },
+          "voidVacuumScore": {
+            "value": 18.18,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for voidVacuumScore"
+          },
+          "catalyticSuperLinkageCount": {
+            "value": 1,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for catalyticSuperLinkageCount"
+          },
+          "structuralClashCount": {
+            "value": 0,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of active indicators for structuralClashCount"
+          }
+        }
+      },
+      {
+        "engineId": "engine_5",
+        "inquiry": "How do I align my life's work with the great generational epochs, economic seasons, and natural macro-rhythms of our time so that my actions move in harmony with history?",
+        "vectors": [
+          "VEC_DIR_SOLAR_CYCLE_MAXIMUM_DISRUPTION",
+          "VEC_DIR_GLOBAL_EPOCH_AIR_INNOVATION",
+          "VEC_DIR_LONG_WAVE_WINTER_DEFLATION",
+          "VEC_DIR_UNIVERSAL_RESONANCE_MODERATE",
+          "VEC_DIR_SYNCHRONICITY_ALIGNMENT_HIGH",
+          "VEC_DIR_COLLECTIVE_FLOW_ALIGNED",
+          "VEC_DIR_COLLECTIVE_MUTATION_CROSSING_GATE",
+          "VEC_DIR_DNA_RESONANCE_HIGH",
+          "VEC_DIR_ADAPTATION_READINESS_ACTIVE"
+        ],
+        "math": {
+          "initiativeAlignmentScore": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Alignment of active business initiatives with prevailing historical trends (scale 0-100)"
+          },
+          "epochResonanceScore": {
+            "value": 90,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Resonance with the defining civilizational paradigm and generational themes (scale 0-100)"
+          },
+          "longWaveAlignmentScore": {
+            "value": 76,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Strategic harmony with multi-decade economic Kondratiev cycles (scale 0-100)"
+          },
+          "universalResonanceIndex": {
+            "value": 0.78,
+            "type": "RATIO",
+            "unit": "ratio",
+            "range": [
+              0,
+              1
+            ],
+            "description": "Harmonic resonance index with macro cosmic and seasonal cycles (scale 0-100)"
+          },
+          "synchronicityAlignmentScore": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for synchronicityAlignmentScore"
+          },
+          "dnaResonanceScore": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for dnaResonanceScore"
+          }
+        }
+      },
+      {
+        "engineId": "engine_6",
+        "inquiry": "How do I heal generational limitations, achieve authentic life sovereignty, and build an enduring legacy that blesses my family and future generations with freedom and wisdom?",
+        "vectors": [
+          "VEC_DIR_SOVEREIGN_WEALTH_TIER_MODERATE",
+          "VEC_DIR_SOVEREIGN_WEALTH_CRITICAL_GAPS",
+          "VEC_DIR_ESCAPE_VELOCITY_PARTIAL",
+          "VEC_DIR_FINANCIAL_AUTONOMY_APEX",
+          "VEC_DIR_LEGACY_STRUCTURAL_SYSTEMS",
+          "VEC_DIR_LEGACY_MULTIPLIER_100X",
+          "VEC_DIR_IP_SCALING_APEX",
+          "VEC_DIR_GENERATIONAL_KNOT_ISOLATION_EXILE",
+          "VEC_DIR_KNOT_RESOLUTION_READY",
+          "VEC_DIR_ANCESTRAL_BREAKTHROUGH_IMMINENT"
+        ],
+        "math": {
+          "ultimateCapitalIndex": {
+            "value": 73,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Overall personal financial sovereignty and systemic independence index (scale 0-100)"
+          },
+          "criticalGapCount": {
+            "value": 2,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [
+              0,
+              20
+            ],
+            "description": "Count of strategic vulnerabilities requiring structural remediation"
+          },
+          "systemicIndependenceScore": {
+            "value": 71,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Independence score from fragile centralized economic institutions (scale 0-100)"
+          },
+          "financialAutonomyScore": {
+            "value": 75,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Permanent sovereign financial autonomy and freedom score (scale 0-100)"
+          },
+          "operationalFreedomScore": {
+            "value": 60,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to maintain unconstrained operational velocity without institutional friction (scale 0-100)"
+          },
+          "socialIndependenceScore": {
+            "value": 80,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Psychological and sovereign independence from social consensus pressure (scale 0-100)"
+          },
+          "legacyMultiplicationScore": {
+            "value": 82,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to transmit lasting values, wisdom, and capital across generations (scale 0-100)"
+          },
+          "legacyMultiplierMax": {
+            "value": 100,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for legacyMultiplierMax"
+          },
+          "knotResolutionReadiness": {
+            "value": 84,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Psychological readiness score for resolving ancestral and relational knots (scale 0-100)"
+          },
+          "ancestralBurdenScore": {
+            "value": 41,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cumulative ancestral baggage and intergenerational constraint load (scale 0-100)"
+          }
+        }
+      }
+    ]
+  }
+}

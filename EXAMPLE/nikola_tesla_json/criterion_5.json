@@ -1,0 +1,553 @@
+{
+  "status": "success",
+  "criterionNumber": 5,
+  "profile": {
+    "name": "Nikola Tesla",
+    "birthDate": "1856-07-10",
+    "birthTime": "00:00",
+    "birthPlace": "Smiljan, Croatia",
+    "latitude": 44.5809,
+    "longitude": 15.3,
+    "timezone": "Europe/Zagreb",
+    "gender": "male"
+  },
+  "totalActiveVectors": 48,
+  "criterion": {
+    "criterionId": 5,
+    "title": "Operating Dynamics, Somatics & Energy Protocols",
+    "totalVectors": 48,
+    "coherenceScore": 60,
+    "crossEngineAlerts": [
+      "CELLULAR_ACOUSTIC_DEFENSE_REQUIRED"
+    ],
+    "dominantTheme": "SOMATIC_GROUNDING_AND_CELLULAR_PRESERVATION",
+    "engines": [
+      {
+        "engineId": "engine_1",
+        "inquiry": "How does my body and mind uniquely digest nutrition, information, and sensory stimuli, and what environments best protect my peace, vitality, and cognitive clarity?",
+        "vectors": [
+          "VEC_OM_DIET_SOLAR_DAY_DINING",
+          "VEC_OM_SENSORY_ABSORPTION_HIGH",
+          "VEC_OM_COGNITIVE_STRATEGIC_FOCUSED",
+          "VEC_OM_DATA_INTAKE_HIGH_BANDWIDTH",
+          "VEC_OM_INFORMATION_DENSITY_HIGH",
+          "VEC_OM_ENVIRONMENT_SHORES",
+          "VEC_OM_WORKSPACE_HYBRID_SANCTUARY",
+          "VEC_OM_DIGESTION_DIRECT_FAST",
+          "VEC_OM_PROCESSING_EFFICIENCY_HIGH"
+        ],
+        "math": {
+          "sensoryAbsorptionEfficiency": {
+            "value": 88,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Nutritional, sensory, and conceptual absorption efficiency (scale 0-100)"
+          },
+          "sensoryColorScore": {
+            "value": 1,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for sensoryColorScore"
+          },
+          "dataIntakeBandwidth": {
+            "value": 80,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Daily cognitive bandwidth for complex analytical information processing (scale 0-100)"
+          },
+          "environmentalResonanceScore": {
+            "value": 82,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Immediate physical environment harmony and cognitive comfort (scale 0-100)"
+          },
+          "processingEfficiency": {
+            "value": 79,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Mental processing efficiency under focused uninterrupted conditions (scale 0-100)"
+          },
+          "optimalTaskDuration": {
+            "value": 25,
+            "type": "MINUTES",
+            "unit": "minutes",
+            "range": [
+              0,
+              180
+            ],
+            "description": "Optimal deep-work sprint duration in minutes before neural fatigue sets in"
+          }
+        }
+      },
+      {
+        "engineId": "engine_2",
+        "inquiry": "How do I honor my need for deep nightly restoration, shield my sensitive subconscious mind during sleep, and wake up genuinely refreshed and centered in my true self?",
+        "vectors": [
+          "VEC_OM_SLEEP_ISOLATION_RADIUS_3M",
+          "VEC_OM_NOCTURNAL_DEFENSE_ACTIVATION_HIGH",
+          "VEC_OM_NOCTURNAL_FEEDING_LOOP",
+          "VEC_OM_SUBCONSCIOUS_REPROGRAMMING_RESISTANT",
+          "VEC_OM_SENSORY_CUTOFF_22H",
+          "VEC_OM_OFF_DUTY_SANCTUARY_ACTIVE"
+        ],
+        "math": {
+          "nocturnalDrainIndex": {
+            "value": 62,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Susceptibility to electromagnetic and environmental drain during sleep (scale 0-100)"
+          },
+          "minimumSleepHours": {
+            "value": 7,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Biologically mandated minimum sleep duration in hours for complete cognitive restoration"
+          },
+          "sleepEnvironmentScore": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quality and solitary boundary protection of the primary sleep sanctuary (scale 0-100)"
+          },
+          "nocturnalActivationScore": {
+            "value": 95,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Tendency toward nocturnal cognitive alertness and evening flow states (scale 0-100)"
+          },
+          "fieldAttachmentIndex": {
+            "value": 58,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Systemic index indicator (scale 0-100) for fieldAttachmentIndex"
+          },
+          "decompressionRitualDuration": {
+            "value": 30,
+            "type": "MINUTES",
+            "unit": "minutes",
+            "range": [
+              0,
+              180
+            ],
+            "description": "Recommended evening decompression and nervous system reset duration in minutes"
+          },
+          "cortisolResetEfficiency": {
+            "value": 82,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Efficiency of autonomic nervous system down-regulation and cortisol clearing (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_3",
+        "inquiry": "What is my authentic energetic constitution, when do my natural peak focus windows open during the day, and how do I nurture sustainable physical vitality without burnout?",
+        "vectors": [
+          "VEC_OM_METABOLIC_HYBRID_ADAPTIVE",
+          "VEC_OM_ELEMENT_WATER_DOMINANT",
+          "VEC_OM_PEAK_FOCUS_WINDOW_AFTERNOON",
+          "VEC_OM_CONSTITUTION_FIRE_WATER",
+          "VEC_OM_STRUCTURAL_STABILITY_HIGH",
+          "VEC_OM_DEEP_WORK_ENDURANCE_PROTOCOL",
+          "VEC_OM_EXERCISE_AFTERNOON_PEAK"
+        ],
+        "math": {
+          "kineticBurstCapacity": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Anaerobic and cognitive sprint capacity for short intense work bursts (scale 0-100)"
+          },
+          "sustainedEnduranceScore": {
+            "value": 80,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Aerobic and persistent stamina score for long uninterrupted marathons (scale 0-100)"
+          },
+          "optimalWorkSessionMinutes": {
+            "value": 60,
+            "type": "MINUTES",
+            "unit": "minutes",
+            "range": [
+              0,
+              180
+            ],
+            "description": "Recommended uninterrupted focus session length in minutes"
+          },
+          "fireStrength": {
+            "value": 53,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for fireStrength"
+          },
+          "earthStrength": {
+            "value": 50,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for earthStrength"
+          },
+          "waterStrength": {
+            "value": 80,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for waterStrength"
+          },
+          "constitutionAScore": {
+            "value": 38,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for constitutionAScore"
+          },
+          "constitutionBScore": {
+            "value": 65,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for constitutionBScore"
+          },
+          "constitutionCScore": {
+            "value": 63,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Normalized performance or alignment score (scale 0-100) for constitutionCScore"
+          },
+          "digestiveFireStrength": {
+            "value": 62,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Quantified constitutional telemetry metric for digestiveFireStrength"
+          },
+          "structuralStabilityScore": {
+            "value": 70,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Physical musculoskeletal stability and ergonomic endurance score (scale 0-100)"
+          },
+          "adaptiveFluidityIndex": {
+            "value": 34,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Behavioral agility and somatic adaptability index under shifting environments (scale 0-100)"
+          },
+          "optimalDeepWorkHours": {
+            "value": 6,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Optimal cumulative daily deep-work capacity in hours before cognitive returns diminish"
+          },
+          "recommendedSleepHours": {
+            "value": 8.5,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Optimal daily sleep target in hours for peak neurocognitive performance"
+          }
+        }
+      },
+      {
+        "engineId": "engine_4",
+        "inquiry": "What is the core vitality and resilience of my physical vessel, what environmental comfort best supports my nervous system, and how do I preserve my deepest life force over a long lifetime?",
+        "vectors": [
+          "VEC_OM_ESSENCE_PRANA_DOMINANT",
+          "VEC_OM_ESSENCE_BALANCE_HIGH",
+          "VEC_OM_D27_CELLULAR_FORTITUDE_HIGH",
+          "VEC_OM_RESILIENCE_MULTIPLIER_HIGH",
+          "VEC_OM_D16_MATERIAL_SUKHA_HIGH",
+          "VEC_OM_TRAVEL_SAFETY_HIGH",
+          "VEC_OM_MOBILE_SANCTUARY_HIGH_LUXURY",
+          "VEC_OM_D5_ELEMENT_WATER_DOMINANT"
+        ],
+        "math": {
+          "tejasScore": {
+            "value": 60,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Subtle metabolic and digestive vitality fire reserve score (scale 0-100)"
+          },
+          "pranaScore": {
+            "value": 74,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Cellular breath, oxygenation, and dynamic life-force score (scale 0-100)"
+          },
+          "ojasScore": {
+            "value": 68,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Deep somatic immunity, restorative reserve, and vitality foundation score (scale 0-100)"
+          },
+          "essenceBalanceIndex": {
+            "value": 79,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Harmonic balance index across foundational biological essences (scale 0-100)"
+          },
+          "resilienceMultiplier": {
+            "value": 1.13,
+            "type": "MULTIPLIER",
+            "unit": "x",
+            "range": [
+              1,
+              10
+            ],
+            "description": "Biological and cellular resilience multiplier against somatic fatigue (1.0x-2.0x)"
+          },
+          "fatigueThresholdHours": {
+            "value": 8.9,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [
+              0,
+              72
+            ],
+            "description": "Estimated daily waking exertion threshold in hours before systemic nervous fatigue sets in"
+          },
+          "cellularFortitudeScore": {
+            "value": 79,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Innate cellular resistance against environmental and microbial stressors (scale 0-100)"
+          },
+          "travelSafetyIndex": {
+            "value": 82,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Biological resilience against travel fatigue, jet lag, and spatiotemporal dislocation (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_5",
+        "inquiry": "How do I recover from deep physical fatigue, create sanctuary spaces for profound renewal, and access stillness to reset my nervous system and soul?",
+        "vectors": [
+          "VEC_OM_CONSTITUTION_KAPHA_EARTH_WATER",
+          "VEC_OM_CONSTITUTIONAL_HARMONY_HIGH",
+          "VEC_OM_DOPAMINE_RESET_AFTERNOON",
+          "VEC_OM_COMFORT_RADICAL_PURGE",
+          "VEC_OM_CRISIS_RECOVERY_RAPID",
+          "VEC_OM_MITOCHONDRIAL_STRESS_DETECTED",
+          "VEC_OM_EGO_DISSOLUTION_SILENT_MEDITATION",
+          "VEC_OM_ZERO_POINT_ACCESS_POTENTIAL"
+        ],
+        "math": {
+          "constitutionalHarmony": {
+            "value": 81,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Overall constitutional equilibrium and psychosomatic homeostasis score (scale 0-100)"
+          },
+          "dopamineResetScore": {
+            "value": 52,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Capacity to quickly reset neurotransmitter baselines through quietude (scale 0-100)"
+          },
+          "sensoryCutoffDuration": {
+            "value": 45,
+            "type": "MINUTES",
+            "unit": "minutes",
+            "range": [
+              0,
+              180
+            ],
+            "description": "Recommended sensory silence buffer in minutes prior to sleep for neural down-regulation"
+          },
+          "mitochondrialStressIndex": {
+            "value": 45,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Mitochondrial metabolic stress and energetic recovery index (scale 0-100)"
+          }
+        }
+      },
+      {
+        "engineId": "engine_6",
+        "inquiry": "How do I clear sensory saturation, attune my nervous system to restorative frequencies, and cultivate deep internal quietude to sustain clarity and inner peace?",
+        "vectors": [
+          "VEC_OM_BAND_DELTA_DOMINANT",
+          "VEC_OM_FREQUENCY_SYNC_HIGH",
+          "VEC_OM_ACOUSTIC_963_DIVINE_CONSCIOUSNESS",
+          "VEC_OM_SENSORY_DISSONANCE_HIGH",
+          "VEC_OM_ACOUSTIC_SHIELDING_REQUIRED",
+          "VEC_OM_ZODIACAL_ACOUSTIC_DISSONANCE",
+          "VEC_OM_QUIETUDE_ACCESS_PROFOUND",
+          "VEC_OM_MEDITATION_DEPTH_PROFOUND",
+          "VEC_OM_EGO_DISSOLUTION_RAPID",
+          "VEC_OM_BIOCHEMICAL_HARMONIC_ONTOLOGY_ACTIVE"
+        ],
+        "math": {
+          "primaryToneHz": {
+            "value": 963,
+            "type": "HERTZ",
+            "unit": "Hz",
+            "range": [
+              20,
+              2000
+            ],
+            "description": "Recommended acoustic resonance sound frequency in Hertz (e.g. 432 or 528 Hz)"
+          },
+          "acousticRemediationIndex": {
+            "value": 66,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Receptivity score to vibrational acoustic reset and sound therapy (scale 0-100)"
+          },
+          "sensoryDissonanceScore": {
+            "value": 60,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Sensitivity and vulnerability to harsh sensory noise and environmental chaos (scale 0-100)"
+          },
+          "quietudeAccessScore": {
+            "value": 77,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [
+              0,
+              100
+            ],
+            "description": "Ease of entering restorative states of absolute mental silence and peace (scale 0-100)"
+          }
+        }
+      }
+    ]
+  }
+}
