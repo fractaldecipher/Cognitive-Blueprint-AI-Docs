@@ -24,10 +24,10 @@ info:
     - **Criterion 5 [Mega Tier]**: `POST /v1/criterion/5` — Operating Dynamics, Somatics & Energy Protocols (6 Engines)
 
 
-    Full documentation, engine specifications, and vector dictionaries: https://github.com/cezy0/Cognitive-Blueprint-AI-Docs
+    Full documentation, engine specifications, and vector dictionaries: https://github.com/fractaldecipher/Cognitive-Blueprint-AI-Docs
   contact:
     name: Cognitive Blueprint Architecture Team
-    url: https://github.com/cezy0/Cognitive-Blueprint-AI-Docs
+    url: https://github.com/fractaldecipher/Cognitive-Blueprint-AI-Docs
   license:
     name: Proprietary Commercial License
 servers:
