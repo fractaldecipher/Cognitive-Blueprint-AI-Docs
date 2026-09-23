@@ -9,23 +9,45 @@
 
 **Cognitive Blueprint AI** is an advanced computational profiling engine designed specifically for **software engineers, indie developers, AI builders, and product creators** who want to integrate deep, human-centric intelligence into their applications.
 
-In modern software development, user personalization is often limited to generic demographics or surface-level questionnaires. Cognitive Blueprint AI changes that by providing a **multi-dimensional, lifelong profiling backend** that translates raw spatiotemporal birth coordinates into granular behavioral, energetic, and cognitive vectors.
+In modern software development, user personalization is often limited to generic demographics or surface-level questionnaires that users quickly abandon. Cognitive Blueprint AI changes that by providing a **multi-dimensional, lifelong profiling backend** that translates raw spatiotemporal birth coordinates into granular behavioral, energetic, and cognitive vectors.
 
-Because an individual's spatiotemporal birth coordinates remain permanent, the engine calculates an enduring **"Innate Cognitive & Constitutional Architecture"** for the user. Once generated, this telemetry serves as a reliable, lifelong foundation for personalizing your user's digital experience across months and years.
+Because an individual's spatiotemporal birth coordinates remain permanent, the engine calculates an enduring **"Innate Cognitive & Constitutional Architecture"** for the user. Once generated, this telemetry serves as a reliable, lifelong foundation for personalizing your user's digital experience across months and years—with zero wearable sensors, zero battery drain, and zero continuous tracking overhead.
 
-Whether you are building:
-
-- An autonomous AI life mentor that deeply understands its human counterpart's thinking and decision style,
-- A specialized deep-work and flow-state planner adapted to natural energy curves and endurance,
-- A sovereign solopreneur operating system tailored to natural craft and sustainable capital generation,
-- A personalized wellness and somatic restoration assistant that honors biological boundaries and nervous system pacing,
-- Or an intelligent agent that dynamically adapts its communication tone to the user's natural cognitive baseline,
-
-Cognitive Blueprint AI provides the computational infrastructure exclusively via RapidAPI, leaving full creative freedom to the developer.
+All computational infrastructure is delivered exclusively via **RapidAPI**, leaving full creative freedom to the developer to design custom interfaces, agents, and applications.
 
 ---
 
-## 🏛️ Foundations: Synthesis of Global Empirical Knowledge Systems
+## ⚡ How It Works: The Data Flow
+
+```text
+┌───────────────────────────┐
+│ User Birth Coordinates    │ (Date, Exact Time, Place of Birth)
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Cognitive Blueprint API   │ (33 Specialized Computational Engines)
+│ (RapidAPI Gateway)        │
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Standardized JSON Payload │ ➔ Active Vector Codes (e.g. VEC_ID_GEN_SACRAL, VEC_VOC_DIRECT_SALES)
+│                           │ ➔ Continuous Quantitative Metrics (0.00 – 1.00)
+│                           │ ➔ Sovereign Cross-Engine Alerts (e.g. SPLIT_DEFINITION_BRIDGE_TENSION)
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Your Application & LLM    │ ➔ Match vector codes against Dictionaries in this repo
+│ Prompt Enrichment Pipeline│ ➔ Inject precise clinical interpretations into agent context
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Hyper-Personalized UX     │ AI Life Mentors • Deep-Work Planners • Founder Alignment Tools
+└───────────────────────────┘
+```
+
+---
+
+## 🏛️ Foundations: Empirical Systems & Cybernetic Vector Modeling
 
 Beneath the computational matrix of the Cognitive Blueprint AI Engine lies a cross-synthesis of deep empirical systems spanning four distinct global traditions:
 
@@ -34,11 +56,11 @@ Beneath the computational matrix of the Cognitive Blueprint AI Engine lies a cro
 3. **Classical Hellenistic & European Geometry** (Mediterranean & Antiquity): Angular harmonics, essential dignities, and foundational cognitive temperaments.
 4. **Modern Biocybernetics & Neurocognitive Science**: Autonomous feedback loops, nervous system regulation, and energy throughput dynamics.
 
-### 🛡️ The Camouflaged Analytical Abstraction
+### 🔬 Pure Mathematical & Cybernetic Formulation
 
-Rather than relying on mystical, dogmatic, or fragmented terminology, the Engine extracts the **pure mathematical principles, operational mechanics, and natural patterns** of these cross-traditional frameworks, translating them into a unified **Cybernetic Vector Taxonomy** (`VEC_...`).
+The Engine extracts the **pure mathematical principles, operational mechanics, and natural patterns** of these cross-traditional frameworks, translating them into a unified **Cybernetic Vector Taxonomy** (`VEC_...`).
 
-The engine acts as a pure, objective computational calculator. It does not preach, speculate, or generalize. It calculates precise coordinates and emits active phenomenon vectors and raw mathematical metrics.
+The engine acts as a pure, objective computational calculator. It does not preach, speculate, or generalize. It calculates precise coordinates and emits active phenomenon vectors, quantitative telemetry metrics, and cross-engine structural alerts.
 
 ---
 
@@ -69,7 +91,7 @@ The Cognitive Blueprint AI framework is organized into **5 Comprehensive Analyti
 
 ---
 
-### 🔍 Detailed Criteria Overview & Core Questions Answered
+### 🔍 Criteria Overview & Core Questions Answered
 
 ```
 CRITERION 1 ──► "WHO IS THIS USER AT THEIR CORE?"
@@ -159,43 +181,65 @@ _Daily nervous system regulation, sensory intake, acoustic resonance, restorativ
 
 ---
 
-## 💡 Potential Application Ideas for Developers & Builders
+## ⚡ The Sovereign Cross-Engine Alert Network
 
-Because Cognitive Blueprint AI computes an enduring, lifelong baseline from fixed spatiotemporal coordinates, applications do not require continuous biometric sensors or intrusive real-time tracking. Instead, the engine provides an unshakeable **Constitutional Baseline** that enriches digital experiences across many categories:
+Beyond individual engine outputs, the API continuously evaluates circuit combinations across different engines. When systemic friction, paradoxical tensions, or amplified opportunities occur, the engine triggers **Sovereign Cross-Engine Alerts** (`criterion.crossEngineAlerts`).
+
+The 26 canonical alerts are documented in the [`ALERTS/`](ALERTS/) directory. Each alert provides a complete 3-part diagnostic framework:
+
+1. **System Tension / Mechanism**: The structural conflict or electromagnetic circuit condition detected between engines (e.g., an impulsive mental drive colliding with an open, receptive nervous system).
+2. **Mentor's Diagnosis**: A sharp, sovereign diagnostic insight detailing how this tension manifests in everyday life and decision-making.
+3. **Strategic Remediation**: Exactly 3 actionable, numbered operational protocols to neutralize friction and restore systemic alignment.
+
+---
+
+## 💡 What You Can Build: High-Value Developer Applications
+
+Because Cognitive Blueprint AI computes an enduring, lifelong baseline from fixed spatiotemporal coordinates, applications do not require wearable sensors or intrusive real-time tracking. Developers can leverage this rich telemetry to create compelling, next-generation products:
 
 1. **Context-Aware AI Mentors & Copilots**:
    Inject the user's permanent cognitive vector profile into LLM system prompts (via LangChain, LlamaIndex, or OpenAI/Anthropic APIs) so the AI immediately understands how the user processes decisions, whether they prefer thorough analytical depth vs. rapid holistic synthesis, and how to communicate with them respectfully without triggering defensive resistance.
+
 2. **Personalized Habit & Deep-Work Operating Systems**:
-   Build productivity platforms tailored to the user's natural constitutional pacing—structuring sprint sessions vs. sustained endurance blocks, and scheduling high-cognitive tasks during natural focus windows without generic advice.
+   Build productivity platforms tailored to the user's natural constitutional pacing—structuring sprint sessions vs. sustained endurance blocks, and scheduling high-cognitive tasks during natural focus windows without generic one-size-fits-all advice.
+
 3. **Solopreneur & Founder Alignment Platforms**:
    Create strategic advisors that evaluate business models, monetization avenues, and marketing postures against a creator's natural craft architecture (Criterion 3), preventing them from building businesses misaligned with their energetic boundaries.
+
 4. **Somatic Rest & Sleep Sanctuary Advisors**:
    Develop wellness tools that recommend customized digital detox timings, solitary sleep isolation perimeters, and restorative acoustic frequencies based on the user's bio-constitution (Criterion 5).
+
 5. **Adaptive Learning & Mastery Tools**:
    Build educational apps that deliver material according to the user's innate learning mechanics—whether they absorb knowledge through foundational research, iterative experimental testing, or intuitive synthesis.
+
 6. **Crisis Navigation & Antifragility Dashboards**:
    Provide strategic planners with personal liquidity buffer requirements, crisis turnaround modes, and optimal timing cycles (Criterion 4) to navigate economic volatility.
 
 ---
 
-## 📖 How to Integrate This Repository
+## 📖 Repository Structure & Integration
 
-This repository hosts the **Public Knowledge & Vector Dictionaries** for the Cognitive Blueprint AI Engine.
+This repository hosts the **Public Knowledge Base, OpenAPI Specifications, and Vector Dictionaries** for the Cognitive Blueprint AI Engine.
 
-- **`DICTIONARY/criterion-1-identity/`** to **`DICTIONARY/criterion-5-operating/`**: Complete clinical vector interpretation dictionaries for each of the 33 engines (`engine_1.md` to `engine_9.md`), detailing every active vector in high-resolution clinical format.
-- **`ALERTS/`**: Sovereign Cross-Engine Alerts Interpretation Dictionaries (`criterion_1_alerts_interpretation.md` to `criterion_5_alerts_interpretation.md`). Documents the 26 canonical cross-engine alert codes emitted in API responses under `criterion.crossEngineAlerts` (e.g. `SPLIT_DEFINITION_BRIDGE_TENSION`, `KARMIC_CAPITAL_LOCK`, `COMMAND_UNIFIED`). Each alert details:
-  - **System Tension / Mechanism**: Structural friction or systemic condition detected across analytical engines.
-  - **Mentor's Diagnosis**: Direct diagnostic insight from the perspective of sovereign human architecture.
-  - **Strategic Remediation / Actionable Guidance**: 3 concrete, actionable operational protocols to neutralize friction and restore sovereign alignment.
+- **[`DICTIONARY/`](DICTIONARY/)**: Complete vector interpretation dictionaries for all 33 computational engines across the 5 criteria:
+  - `criterion-1-identity/` (Engines 1–9)
+  - `criterion-2-blocks/` (Engines 1–6)
+  - `criterion-3-vocation/` (Engines 1–6)
+  - `criterion-4-direction/` (Engines 1–6)
+  - `criterion-5-operating/` (Engines 1–6)
+- **[`ALERTS/`](ALERTS/)**: Complete diagnostic interpretations for all 26 canonical cross-engine alerts (`criterion_1_alerts_interpretation.md` through `criterion_5_alerts_interpretation.md`).
+- **[`rapidapi.yaml`](rapidapi.yaml)**: Complete OpenAPI 3.0.3 specification ready for import into Postman, Swagger, or API gateways.
 
-### 🏛️ Standardized Cybernetic Vector Prefix Guide
+### 🏷️ Standardized Cybernetic Vector Prefixes
 
-When your application queries the API via **RapidAPI**, the engine returns clean, lightweight vector codes and numeric mathematical metrics. Each vector code starts with a designated prefix identifying its analytical criterion:
+Every active vector emitted by the engine carries a standardized prefix indicating its domain:
 
-- **`VEC_ID_...`** — **Identity & Core Architecture** (Criterion 1)
-- **`VEC_BLK_...`** — **Inhibitors, Shadows & Structural Blocks** (Criterion 2)
-- **`VEC_VOC_...`** — **Vocation, Craft & Capital Architecture** (Criterion 3)
-- **`VEC_DIR_...`** — **Direction, Evolution & Strategic Navigation** (Criterion 4)
-- **`VEC_OM_...`** — **Operating Mode, Somatics & Restorative Prescriptions** (Criterion 5)
+| Prefix | Domain & Analytical Criterion | Access Tier |
+| :--- | :--- | :--- |
+| `VEC_ID_...` | **Identity & Core Architecture** (Criterion 1) | **Free** / Pro / Mega |
+| `VEC_BLK_...` | **Inhibitors, Shadows & Structural Blocks** (Criterion 2) | **Pro** / Mega |
+| `VEC_VOC_...` | **Vocation, Craft & Capital Architecture** (Criterion 3) | **Pro** / Mega |
+| `VEC_DIR_...` | **Direction, Evolution & Strategic Navigation** (Criterion 4) | **Mega** |
+| `VEC_OM_...` | **Operating Mode, Somatics & Restorative Prescriptions** (Criterion 5) | **Mega** |
 
-Your LLM pipeline retrieves these active vector codes from RapidAPI (`vectors: ["VEC_ID_...", "VEC_VOC_..."]`), matches them against the markdown dictionaries in this repository, and generates profound, tailored insights for your end users.
+Your backend or LLM pipeline receives these vector codes from RapidAPI, cross-references them with the Markdown dictionaries in this repository, and generates profound, tailored insights for your end users.

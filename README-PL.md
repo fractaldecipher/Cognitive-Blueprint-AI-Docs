@@ -9,36 +9,57 @@
 
 **Cognitive Blueprint AI** to zaawansowany silnik profilowania analitycznego stworzony z myślą o **programistach, twórcach aplikacji, inżynierach AI i założycielach projektów cyfrowych**, którzy chcą wzbogacić swoje systemy o niespotykaną dotąd, głęboko ludzką personalizację.
 
-Współczesne aplikacje często opierają personalizację na płytkich ankietach lub prostych danych demograficznych. Cognitive Blueprint AI rozwiązuje ten problem, dostarczając **wielowymiarowy, trwały backend analityczny**, który przekształca surowe współrzędne czasoprzestrzenne narodzin w precyzyjne wektory poznawcze, decyzyjne i konstytucjonalne.
+Współczesne aplikacje często opierają personalizację na płytkich ankietach lub prostych danych demograficznych, z których użytkownicy szybko rezygnują. Cognitive Blueprint AI rozwiązuje ten problem, dostarczając **wielowymiarowy, trwały backend analityczny**, który przekształca surowe współrzędne czasoprzestrzenne narodzin w precyzyjne wektory poznawcze, decyzyjne i konstytucjonalne.
 
-Ponieważ współrzędne czasoprzestrzenne narodzin człowieka są stałe i niezmienne, silnik generuje dożywotnią, stabilną **"Wrodzoną Architekturę Kognitywno-Behawioralną"** użytkownika. Raz obliczone parametry stanowią wiarygodny fundament profilowania, który może zasilać aplikację użytkownika przez miesiące i lata.
+Ponieważ współrzędne czasoprzestrzenne narodzin człowieka są stałe i niezmienne, silnik generuje dożywotnią, stabilną **"Wrodzoną Architekturę Kognitywno-Behawioralną"** użytkownika. Raz obliczone parametry stanowią wiarygodny fundament profilowania przez miesiące i lata — bez konieczności stosowania opasek biometrycznych, bez drenowania baterii i bez uciążliwego śledzenia w czasie rzeczywistym.
 
-Niezależnie od tego, czy budujesz:
-
-- Autonomicznego agenta lub mentora AI, który głęboko rozumie styl myślenia i podejmowania decyzji swojego użytkownika,
-- Aplikację do planowania pracy głębokiej (Deep Work) dostosowaną do naturalnych krzywych energetycznych i biologicznego tempa,
-- System wspierający solopreneura w doborze harmonijnego modelu rynkowego i zrównoważonej akumulacji kapitału,
-- Platformę regeneracji somatycznej szanującą granice układu nerwowego i naturalną higienę snu,
-- Czy system, który w promptach systemowych LLM natychmiast adaptuje styl komunikacji AI do wrodzonego profilu poznawczego człowieka,
-
-Cognitive Blueprint AI dostarcza kompletną infrastrukturę obliczeniową wyłącznie za pośrednictwem platformy **RapidAPI**, pozostawiając pełną swobodę twórczą deweloperowi.
+Kompletna infrastruktura obliczeniowa dostarczana jest wyłącznie za pośrednictwem platformy **RapidAPI**, pozostawiając pełną swobodę twórczą deweloperowi w projektowaniu interfejsów, agentów i logiki aplikacji.
 
 ---
 
-## 🏛️ Fundamenty: Synteza Światowych Zbiorów Wiedzy Empirycznej
+## ⚡ Jak To Działa: Przepływ Danych
+
+```text
+┌───────────────────────────┐
+│ Dane Urodzeniowe          │ (Data, dokładna godzina i miejsce urodzenia)
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Bramka Cognitive Blueprint│ (33 wyspecjalizowane silniki obliczeniowe na RapidAPI)
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Zunifikowany Payload JSON │ ➔ Aktywne kody wektorów (np. VEC_ID_GEN_SACRAL, VEC_VOC_DIRECT_SALES)
+│                           │ ➔ Ilościowe wskaźniki matematyczne (0.00 – 1.00)
+│                           │ ➔ Suwerenne Alerty Międzysilnikowe (np. SPLIT_DEFINITION_BRIDGE_TENSION)
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Twoja Aplikacja & LLM     │ ➔ Dopasowanie kodów wektorów do słowników w tym repozytorium
+│ Wstrzyknięcie Kontekstu   │ ➔ Przekazanie precyzyjnych interpretacji klinicznych do promptu AI
+└─────────────┬─────────────┘
+              ▼
+┌───────────────────────────┐
+│ Hiper-Personalizowany UX  │ Asystenci AI • Planery Deep-Work • Strategia Przedsiębiorcy
+└───────────────────────────┘
+```
+
+---
+
+## 🏛️ Fundamenty: Tradycje Empiryczne i Modelowanie Cybernetyczne
 
 Pod obliczeniową maską silnika kryje się synteza wielkich empirycznych tradycji badawczych z czterech stron świata:
 
-1. **Klasyczną Metafizykę i Dynamikę Czasoprzestrzenną Dalekiego Wschodu** (Chiny): Matematykę cykli, matryce rozkładu energii oraz polaryzację żywiołów.
-2. **Tradycje Analityczne Indii**: Głęboką architekturę węzłów czasowych, konstrukcji egzystencjalnej i fundamentalnych motywacji.
-3. **Europejską i Antyczną Geometrię Śródziemnomorską**: Harmonię kątów, godności fundamentalne oraz pierwotne temperamenty poznawcze.
-4. **Współczesną Biocybernetykę i Neurokognitywistykę**: Samoregulujące się pętle sprzężenia zwrotnego, dynamikę układu nerwowego i przepustowość energetyczną.
+1. **Klasyczna Metafizyka i Dynamika Czasoprzestrzenna Dalekiego Wschodu** (Chiny): Matematyka cykli, matryce rozkładu energii oraz polaryzacja żywiołów.
+2. **Tradycje Analityczne Indii**: Głęboka architektura węzłów czasowych, konstrukcji egzystencjalnej i fundamentalnych motywacji.
+3. **Europejska i Antyczna Geometria Śródziemnomorska**: Harmonia kątów, godności fundamentalne oraz pierwotne temperamenty poznawcze.
+4. **Współczesna Biocybernetyka i Neurokognitywistyka**: Samoregulujące się pętle sprzężenia zwrotnego, dynamika układu nerwowego i przepustowość energetyczna.
 
-### 🛡️ Zakamuflowana Abstrakcja Analityczna
+### 🔬 Czyste Sformułowanie Matematyczne i Cybernetyczne
 
-Zamiast korzystać z mistycznego, dogmatycznego czy archaicznego nazewnictwa, silnik wyciąga **czyste zasady matematyczne, prawidłowości operacyjne oraz wzorce natury**, tłumacząc je na zunifikowaną **Cybernetyczną Taksonomię Wektorową** (`VEC_...`).
+Silnik wyciąga **czyste zasady matematyczne, prawidłowości operacyjne oraz wzorce natury**, tłumacząc je na zunifikowaną **Cybernetyczną Taksonomię Wektorową** (`VEC_...`).
 
-Silnik działa jak obiektywny kalkulator. Nie moralizuje, nie ocenia ani nie generuje banałów. Przelicza współrzędne czasoprzestrzenne na aktywne kody wektorów oraz surowe parametry liczbowe.
+Silnik działa jak obiektywny kalkulator. Nie moralizuje, nie spekuluje ani nie ocenia. Przelicza współrzędne czasoprzestrzenne na aktywne kody wektorów, surowe parametry liczbowe oraz strukturalne alerty napięć systemowych.
 
 ---
 
@@ -99,103 +120,125 @@ _Fundament wrodzonej konstytucji psychofizycznej, mechanizm decyzyjny i świadom
 
 ---
 
-### 2. Kryterium 2: Blokady, Cienie i Ograniczenia Strukturalne _(Pro / Mega)_
+### 2. Kryterium 2: Inhibitory, Cienie i Ograniczenia Strukturalne _(Pro / Mega)_
 
-_Mapa tarcia: gdzie użytkownik traci siły witalne, przejmuje obce uwarunkowania i ulega podświadomym sabotażom._
+_Mapa tarcia: gdzie użytkownik traci siły witalne, ulega warunkowaniu i doświadcza nieświadomego oporu._
 
 | Silnik | Kluczowe Pytanie i Funkcja Operacyjna |
 | :--- | :--- |
-| **Silnik 1** | **_Jakie reaktywne wzorce, inhibitory i głębokie cienie drenują energię użytkownika?_**<br>Identyfikuje somatyczne centra tarcia, nieświadome mechanizmy obronne, pętle reaktywności emocjonalnej oraz wycieki energii życiowej. |
-| **Silnik 2** | **_Jakie dziedziczone wzorce rodowe, pamięć epigenetyczna i obciążenia przodków ograniczają decyzje?_**<br>Diagnozuje wielopokoleniowe wzorce uwarunkowań, dziedziczone poczucie braku lub ciężaru egzystencjalnego oraz ograniczenia epigenetyczne. |
-| **Silnik 3** | **_Jakie pętle reinkarnacyjne, długi egzystencjalne i podświadome przysięgi blokują rozwój?_**<br>Skanuje powtarzające się sabotaże strukturalne, podświadome lojalności wobec trudu i walki, węzły karmiczne oraz ograniczające pętle myślowe. |
-| **Silnik 4** | **_Gdzie użytkownik traci kapitał, blokuje przepływ i napotyka nagłe straty?_**<br>Lokalizuje blokady finansowe, podświadome poczucie winy związane z obfitością, przechwycenia zasobów i nawracające tarcie przy akumulacji majątku. |
-| **Silnik 5** | **_Gdzie użytkownik jest narażony na ataki zewnętrzne, autosabotaż i ukryty drenaż cienia?_**<br>Ocenia podatność na presję psychiczną otoczenia, absorpcję cudzych emocji, autodestrukcyjny perfekcjonizm oraz głębokie projekcje cienia. |
-| **Silnik 6** | **_Co przeciąża system użytkownika, warunkuje go podświadomie i drenuje w czasie snu?_**<br>Bada wrażliwość na środowisko, ryzyko nocnego przejmowania uwarunkowań aury, drenaż podświadomy i brak przestrzeni do dekompresji. |
+| **Silnik 1** | **_Jakie reaktywne wzorce, inhibitory i głębokie klastry drenują energię użytkownika?_**<br>Identyfikuje somatyczne ogniska tarcia, nieświadome mechanizmy obronne, pętle reaktywności emocjonalnej i wycieki energii życiowej. |
+| **Silnik 2** | **_Jakie odziedziczone wzorce rodzinne, pamięć epigenetyczna i ciężary rodowe ograniczają decyzje?_**<br>Diagnozuje wielopokoleniowe pętle warunkowania, odziedziczone wzorce braku lub przeciążenia oraz ograniczenia behawioralne. |
+| **Silnik 3** | **_Jakie powtarzające się pętle, długi egzystencjalne i podświadome przysięgi blokują rozwój?_**<br>Skanuje nawracające sabotaże strukturalne, lojalności wobec trudu, węzły karmiczne i ograniczające pętle poznawcze. |
+| **Silnik 4** | **_Gdzie użytkownik napotyka tarcie kapitałowe, blokady przepływu i nagłe odpływy zasobów?_**<br>Lokalizuje blokady finansowe, podświadome poczucie winy wobec obfitości, przejmowanie zasobów i opór w akumulacji aktywów. |
+| **Silnik 5** | **_Gdzie użytkownik jest podatny na presję zewnętrzną, wewnętrzne zatrucie i drenujące cienie?_**<br>Bada podatność na cudzy wpływ psychiczny, absorpcję toksyczności emocjonalnej, autodestrukcyjny perfekcjonizm i projekcje cienia. |
+| **Silnik 6** | **_Co przeciąża system, warunkuje go podświadomie i drenuje podczas snu?_**<br>Ocenia wrażliwość środowiskową, ryzyko warunkowania aury w nocy oraz brak fizycznej przestrzeni do dekompresji. |
 
 ---
 
 ### 3. Kryterium 3: Powołanie, Rzemiosło i Architektura Kapitału _(Pro / Mega)_
 
-_Silnik monetyzacji i mistrzostwa: transformacja wewnętrznych wyzwań w rynkową dźwignię, architekturę kapitałową i przywództwo._
+_Silnik monetyzacji i mistrzostwa: transmutacja wewnętrznego tarcia w dźwignię rynkową, kapitał i przywództwo._
 
 | Silnik | Kluczowe Pytanie i Funkcja Operacyjna |
 | :--- | :--- |
-| **Silnik 1** | **_Jakie jest fundamentalne dzieło życia użytkownika, jak rdzenna rana zamienia się w rynkowy talent i jak wygląda geometria cyklu życia?_**<br>Ujawnia komercyjną misję zawodową, mechanizm przekształcania wrodzonej wrażliwości w unikalną wartość rynkową oraz kluczowe punkty zwrotne kariery. |
-| **Silnik 2** | **_Jakie sektory rynkowe, precyzyjne podsektory i domeny gospodarcze stwarzają najmniejsze tarcie dla generowania kapitału?_**<br>Wyznacza precyzyjne nisze rynkowe, wektory pozycjonowania ekonomicznego oraz gałęzie gospodarki, w których naturalne talenty generują największą dźwignię. |
-| **Silnik 3** | **_Jakie mikrowęzły, częstotliwości operacyjne i trasy motoryczne definiują architekturę rzemiosła?_**<br>Mapuje wyspecjalizowane klastry mikroumiejętności, połączenia biomechaniczne motorów i dominujące pasma częstotliwości w pracy rzemieślniczej. |
-| **Silnik 4** | **_Jaka struktura dowodzenia, rola rynkowa i styl przywództwa kognitywnego definiują egzekucję zawodową?_**<br>Identyfikuje styl podejmowania decyzji wykonawczych, jedno- vs wieloośrodkowy łańcuch dowodzenia, rolę rynkową oraz naturalną postawę zarządczą. |
-| **Silnik 5** | **_Jak akumuluje się kapitał użytkownika w oparciu o filary aktywów i dynamikę przepływów pieniężnych?_**<br>Analizuje optymalną strukturę twardych aktywów (własność intelektualna, udziały kapitałowe, nieruchomości), dynamikę przepływów oraz równowagę ekspansji i retencji. |
-| **Silnik 6** | **_W jaki sposób styl działania kinetycznego, granice suwerenności i mechanizmy multiplikacji skalują przedsięwzięcia?_**<br>Określa tempo i kinetykę egzekucji projektowej (zwinność, nieustępliwość, rygor), mechanizmy skalowania IP oraz szczelność granic decyzyjnych. |
+| **Silnik 1** | **_Co stanowi fundamentalne dzieło życia, transmutację talentu i oś cyklu życiowego?_**<br>Ujawnia komercyjną misję rdzenia, transmutację wrażliwości w geniusz rynkowy oraz kluczowe punkty zwrotne w cyklu życia. |
+| **Silnik 2** | **_Które sektory rynkowe, nisze gospodarcze i działy oferują najniższe tarcie w generowaniu kapitału?_**<br>Prowadzi przez precyzyjne nisze rynkowe, wektory pozycjonowania i domeny zawodowe o najwyższej dźwigni komercyjnej. |
+| **Silnik 3** | **_Jakie mikrowęzły, częstotliwości operacyjne i ścieżki motoryczne definiują rzemiosło?_**<br>Mapuje wyspecjalizowane klastry mikroumiejętności, łączność motoryczną oraz indywidualne vs. zespołowe pasma częstotliwości w pracy. |
+| **Silnik 4** | **_Jaka struktura dowodzenia, rola rynkowa i styl przywództwa cechują egzekucję zawodową?_**<br>Identyfikuje styl decyzyjny (jednoosobowy apex vs. rozproszony), archetyp rynkowy oraz naturalną postawę w organizacji. |
+| **Silnik 5** | **_Jak akumuluje się kapitał w oparciu o aktywa trwałe i polaryzację przepływów pieniężnych?_**<br>Analizuje preferencje twardych aktywów (IP, udziały, nieruchomości), dynamikę przepływów oraz równowagę ekspansji solarnej i ochrony lunarnej. |
+| **Silnik 6** | **_W jaki sposób kinetyka egzekucji, suwerenność granic i mechanika powielania IP skalują projekty?_**<br>Definiuje tempo kinetyczne projektów (zwinność, rygor), mechanizmy skalowania własności intelektualnej i suwerenność granic decyzyjnych. |
 
 ---
 
 ### 4. Kryterium 4: Kierunek, Ewolucja i Nawigacja Strategiczna _(Mega)_
 
-_Horyzont strategiczny: akceleracja czasowa, geometria przestrzenna, antykruchość rynkowa i kapitał suwerenny._
+_Horyzont strategiczny: makrotiming przyspieszenia, geometria przestrzenna, antykruchość i kapitał pokoleniowy._
 
 | Silnik | Kluczowe Pytanie i Funkcja Operacyjna |
 | :--- | :--- |
-| **Silnik 1** | **_Kiedy przypadają okna szczytowej akceleracji i optymalny timing dla kluczowych decyzji strategicznych?_**<br>Wyznacza wieloletnie okna szczytowej dynamiki, optymalne momenty na premiery i pivoty oraz fazy naturalnego spowolnienia i konsolidacji. |
-| **Silnik 2** | **_Gdzie użytkownik powinien operować przestrzennie i geograficznie, aby zmaksymalizować przepływ i rezonans?_**<br>Ocenia rzutowanie linii geograficznych na mapę świata, horyzontalne kierunki azymutalne oraz orientację architektoniczną przestrzeni roboczej. |
-| **Silnik 3** | **_Jak chronić aktywa, utrzymać płynność i dokonywać skutecznych pivotów w warunkach kryzysów rynkowych?_**<br>Kwantyfikuje wskaźnik antykruchości, zwinność zwrotu w kryzysie, niezbędny poziom poduszki płynnościowej oraz odporność na wstrząsy makroekonomiczne. |
-| **Silnik 4** | **_Jakie są geometryczne wektory majątku i potencjał użytkownika do nieliniowej ekspansji kapitału?_**<br>Wykrywa rzadkie anomalie prawdopodobieństwa, okazje asymetrycznych zysków kapitałowych, drożność kanałów redystrybucji oraz trwałe struktury majątkowe. |
-| **Silnik 5** | **_W jaki sposób synchronizować decyzje strategiczne z globalnymi makrocyklami i trendami długofalowymi?_**<br>Analizuje zbieżność decyzji z wielodekadowymi falami koniunkturalnymi, 11-letnim cyklem słonecznym oraz fazami mutacji kolektywnej. |
-| **Silnik 6** | **_Jaka jest ostateczna suwerenność kapitałowa, niezależność systemowa i potencjał multiplikacji dziedzictwa?_**<br>Mierzy prędkość ucieczki z ograniczeń systemowych, potencjał budowy trwałego majątku wielopokoleniowego oraz rozwiązanie odziedziczonych blokad rodowych. |
+| **Silnik 1** | **_Kiedy przypadają okna przyspieszenia i optymalny timing dla kluczowych decyzji?_**<br>Kalkuluje wieloletnie szczyty uwalniania energii, okna strategicznego przyspieszenia oraz naturalne okresy konsolidacji przed wdrożeniami. |
+| **Silnik 2** | **_Gdzie przestrzennie i geograficznie powinien działać użytkownik, aby osiągnąć rezonans?_**<br>Ocenia meridiany geograficzne na mapie świata, wektory kierunkowe otoczenia oraz orientację architektoniczną sprzyjającą skupieniu. |
+| **Silnik 3** | **_W jaki sposób użytkownik chroni aktywa, utrzymuje płynność i pivotuje w kryzysie?_**<br>Wyznacza wskaźniki antykruchości, zwinność manewrową w kryzysie, niezbędny bufor płynności i odporność na wstrząsy rynkowe. |
+| **Silnik 4** | **_Jakie geometryczne wektory bogactwa decydują o nieliniowym wzroście kapitału?_**<br>Wykrywa anomalie prawdopodobieństwa, asymetryczne okazje zysku, kanały redystrybucji harmonijnej oraz formacje strukturalnego dobrobytu. |
+| **Silnik 5** | **_Jak synchronizować decyzje strategiczne z globalnymi makrocyklami i długimi falami?_**<br>Syntetyzuje zgodność z wieloletnimi falami gospodarczymi, cyklami strumieni słonecznych i fazami mutacji cywilizacyjnych. |
+| **Silnik 6** | **_Jaka jest ostateczna suwerenność kapitałowa, niezależność systemowa i potencjał dziedzictwa?_**<br>Mierzy prędkość ucieczki z presji systemowej, potencjał zachowania majątku międzypokoleniowego i rozsupłanie rodowych węzłów finansowych. |
 
 ---
 
 ### 5. Kryterium 5: Tryb Operacyjny, Równowaga i Bio-Preskrypcje _(Mega)_
 
-_Codzienna regulacja układu nerwowego, reżim sensoryczny, rezonans akustyczny, regeneracja i higiena biologiczna._
+_Codzienna regulacja układu nerwowego, bodźce zmysłowe, rezonans akustyczny, sen regeneracyjny i higiena energetyczna._
 
 | Silnik | Kluczowe Pytanie i Funkcja Operacyjna |
 | :--- | :--- |
-| **Silnik 1** | **_Jaki jest optymalny reżim sensoryczny i fizyczne środowisko pracy dla maksymalnej absorpcji poznawczej?_**<br>Określa idealne warunki odżywiania i stymulacji sensorycznej, tempo przyswajania danych oraz krajobraz fizyczny zapobiegający mgle umysłowej. |
-| **Silnik 2** | **_W jaki sposób chronić aurę podczas snu i dekompresować układ nerwowy w prywatnym sanktuarium?_**<br>Ustala parametry samotnej aury snu, promień bezpiecznej izolacji fizycznej, harmonogram wygaszania zmysłów i dekompresję układu nerwowego. |
-| **Silnik 3** | **_Jaki jest wrodzony archetyp metaboliczny i optymalny dobowy rytm pracy oraz odpoczynku?_**<br>Identyfikuje typ metaboliczny (sprinter zrywny vs. długodystansowy diesel), dobowe okna żywiołowe szczytowego skupienia i tempo chroniące przed wypaleniem. |
-| **Silnik 4** | **_Jakie subtelne esencje witalne, odporność komórkowa i protokoły komfortu podtrzymują baterię biologiczną?_**<br>Mierzy poziom rezerw witalnych, mnożniki odporności komórkowej, bazę bezpieczeństwa w podróży oraz zapotrzebowanie na komfort środowiskowy. |
-| **Silnik 5** | **_W jaki sposób utrzymać równowagę konstytucyjną, resetować neurochemię i regenerować się po stresie komórkowym?_**<br>Mapuje równowagę homeostatyczną, okna resetu dopaminowego, dostęp do wyciszenia punktu zerowego i protokoły redukcji stresu mitochondrialnego. |
-| **Silnik 6** | **_Jak synchronizować częstotliwości mózgowe, stosować akustyczne bio-preskrypcje i wchodzić w stan głębokiej ciszy?_**<br>Dobiera regeneracyjne fale dźwiękowe (np. 528 Hz), identyfikuje dysonans sensoryczny hałasu oraz audytuje dostęp do głębokiego wyciszenia regeneracyjnego. |
+| **Silnik 1** | **_Jaki jest optymalny reżim sensoryczny i środowisko pracy dla maksymalnej absorpcji wiedzy?_**<br>Określa idealne warunki przyswajania bodźców i pożywienia, tempo asymilacji informacji oraz profil przestrzenny wspierający jasność umysłu. |
+| **Silnik 2** | **_Jak chronić aurę podczas snu i skutecznie dekompresować układ nerwowy?_**<br>Ustala protokoły nocnego wyciszenia, parametry snu w odosobnieniu, granice izolacji fizycznej i odcięcie od bodźców zewnętrznych. |
+| **Silnik 3** | **_Jaki jest archetyp metaboliczny i optymalny dobowy rytm pracy i odpoczynku?_**<br>Rozróżnia sprinty metaboliczne od wydłużonej wytrzymałości, dobowe okna skupienia żywiołowego i mechanizmy chroniące przed wypaleniem. |
+| **Silnik 4** | **_Jakie są subtelne esencje witalne, odporność komórkowa i protokoły komfortu?_**<br>Mierzy rezerwy energii rdzennej, mnożniki siły komórkowej, bazę bezpieczeństwa w podróży i środowiskowe potrzeby dobrostanu. |
+| **Silnik 5** | **_Jak utrzymać równowagę konstytucyjną, zresetować neurochemię i odzyskać siły po stresie?_**<br>Mapuje bilans biologiczny, okna resetu dopaminowego, dostęp do dekompresji punktu zerowego i regenerację mitochondrialną. |
+| **Silnik 6** | **_Jak synchronizować fale mózgowe, stosować preskrypcje akustyczne i wejść w głębokie wyciszenie?_**<br>Dobiera pasma częstotliwości dźwiękowych (np. 528 Hz), wykrywa dysonanse hałasu i audytuje dostęp do głębokiego wyciszenia medytacyjnego. |
 
 ---
 
-## 💡 Pomysły na Zastosowania dla Programistów i Twórców
+## ⚡ Sieć Suwerennych Alertów Międzysilnikowych
 
-Ponieważ Cognitive Blueprint AI oblicza trwały, dożywotni profil na podstawie stałych danych czasoprzestrzennych, aplikacja nie wymaga podłączania inwazyjnych czujników biometrycznych ani śledzenia w czasie rzeczywistym. Silnik dostarcza niezmienny **Fundament Konstytucjonalny**, który otwiera zupełnie nowe możliwości:
+Oprócz danych z pojedynczych silników, API nieustannie ewaluuje wzajemne zależności i kombinacje obwodów pomiędzy różnymi silnikami. W przypadku wykrycia tarcia strukturalnego, paradoksalnych napięć lub wyjątkowych szans, system emituje **Suwerenne Alerty Międzysilnikowe** (`criterion.crossEngineAlerts`).
 
-1. **Kontekstowi Asystenci i Inteligentni Mentorzy AI**:
-   Wstrzyknięcie trwałego profilu wektorowego użytkownika do promptu systemowego LLM (np. przez LangChain, LlamaIndex lub API OpenAI/Anthropic), dzięki czemu AI od pierwszej sekundy rozumie, jak człowiek podejmuje decyzje, czy woli pogłębioną analizę czy holistyczną syntezę, i jak formułować wnioski z poszanowaniem jego granic poznawczych.
+Wszystkie 26 kanonicznych alertów zostało udokumentowanych w katalogu [`ALERTS/`](ALERTS/). Każdy alert opiera się na 3-częściowej strukturze diagnostycznej:
+
+1. **System Tension / Mechanism**: Strukturalny konflikt lub stan obwodu wykryty pomiędzy silnikami (np. impulsywny napęd mentalny zderzający się z otwartym, chłonnym układem nerwowym).
+2. **Mentor's Diagnosis**: Celna, bezkompromisowa diagnoza wyjaśniająca, jak to napięcie manifestuje się w codziennym życiu i wyborach.
+3. **Strategic Remediation**: Dokładnie 3 konkretne, ponumerowane protokoły operacyjne neutralizujące tarcie i przywracające suwerenną równowagę.
+
+---
+
+## 💡 Co Możesz Zbudować: Praktyczne Zastosowania dla Twórców
+
+Dzięki temu, że silnik oblicza stały, dożywotni fundament z niezmiennych współrzędnych czasoprzestrzennych, aplikacje nie wymagają zewnętrznych sensorów ani inwazyjnego śledzenia. Deweloperzy mogą wykorzystać tę telemetrię do budowy innowacyjnych produktów:
+
+1. **Kontekstowi Mentorzy i Agenci AI**:
+   Wstrzyknięcie trwałego profilu poznawczego do promptu systemowego LLM (przez LangChain, LlamaIndex, OpenAI lub Anthropic), aby AI od pierwszej sekundy rozumiało styl podejmowania decyzji użytkownika i komunikowało się z nim z naturalnym szacunkiem bez wywoływania mechanizmów obronnych.
+
 2. **Personalizowane Systemy Nawyków i Pracy Głębokiej (Deep Work)**:
-   Budowa platform produktywnościowych dopasowanych do biologicznego tempa użytkownika — planowanie bloków pracy sprinterskiej vs. ciągłej oraz wyznaczanie trudnych zadań poznawczych w naturalnych oknach skupienia, zamiast stosowania generycznych metod pomodoro.
-3. **Cyfrowy Doradca dla Solopreneurów i Twórców**:
-   Narzędzia strategiczne oceniające modele biznesowe, ścieżki monetyzacji i styl komunikacji w odniesieniu do wrodzonej architektury rzemiosła i granic decyzyjnych twórcy (Kryterium 3), chroniąc przed budowaniem biznesu sprzecznego z własną energią.
-4. **Protokoły Regeneracji Somatycznej i Higieny Snu**:
-   Aplikacje wellness podpowiadające spersonalizowane godziny odcięcia od bodźców cyfrowych, parametry izolacji sypialni oraz dźwiękowe fale wyciszające (Kryterium 5) dopasowane do profilu nerwowego.
-5. **Systemy Adaptacyjnej Edukacji i Rozwoju Kompetencji**:
-   Aplikacje edukacyjne serwujące wiedzę w sposób dostosowany do naturalnej mechaniki uczenia się — czy użytkownik przyswaja materiał poprzez pogłębione badania teoretyczne, czy empiryczną metodę prób i błędów.
+   Aplikacje produktywnościowe dopasowane do wrodzonego tempa konstytucyjnego — organizujące pracę w intensywne sprinty lub długie bloki wytrzymałościowe w optymalnych oknach dobowych, zamiast generycznych porad z internetu.
+
+3. **Platformy Dopasowania Strategicznego dla Przedsiębiorców i Twórców**:
+   Doradcy strategiczni badający modele biznesowe, ścieżki monetyzacji i formy marketingu pod kątem wrodzonej architektury rzemiosła twórcy (Kryterium 3), co zapobiega budowaniu firm wbrew własnym granicom energetycznym.
+
+4. **Doradcy Somatyczni i Sanktuaria Regeneracji**:
+   Narzędzia wellness rekomendujące zindywidualizowany cyfrowy detoks, parametry snu w odosobnieniu oraz regenerujące częstotliwości akustyczne dobrane do biokonstytucji użytkownika (Kryterium 5).
+
+5. **Narzędzia Adaptacyjnego Uczenia się i Rozwoju**:
+   Aplikacje edukacyjne serwujące wiedzę w sposób dostosowany do naturalnej mechaniki uczenia się — czy użytkownik przyswaja wiedzę poprzez pogłębione badania teoretyczne, czy empiryczną metodę prób i błędów.
+
 6. **Nawigacja Kryzysowa i Antykruchość Finansowa**:
-   Planery strategiczne kalkulujące indywidualnie wymaganą poduszkę płynnościową, tryb zwrotu w kryzysie oraz optymalny timing makroekonomiczny (Kryterium 4) do bezpiecznego skalowania projektów.
+   Planery strategiczne kalkulujące indywidualnie wymaganą poduszkę płynnościową, tryb zwrotu w kryzysie oraz optymalny timing makroekonomiczny (Kryterium 4) do bezpiecznego skalowania projektów w obliczu zmienności rynkowej.
 
 ---
 
-## 📖 Jak Integrować to Repozytorium z Własną Aplikacją
+## 📖 Struktura Repozytorium i Integracja
 
-Niniejsze repozytorium stanowi **Otwarte Słowniki i Bazę Wiedzy** dla silnika Cognitive Blueprint AI:
+Niniejsze repozytorium stanowi **Otwartą Bazę Wiedzy, Specyfikację OpenAPI oraz Słowniki Wektorów** dla silnika Cognitive Blueprint AI.
 
-- **`DICTIONARY/criterion-1-identity/`** do **`DICTIONARY/criterion-5-operating/`**: Kompletne słowniki interpretacji wektorów dla każdego z 33 silników (`engine_1.md` do `engine_9.md`), prezentujące każdy aktywny wektor w klinicznym formacie wysokiej rozdzielczości.
-- **`ALERTS/`**: Słowniki Interpretacji Suwerennych Alertów Międzysilnikowych (`criterion_1_alerts_interpretation.md` do `criterion_5_alerts_interpretation.md`). Dokumentują 26 kanonicznych kodów alertów zwracanych w odpowiedzi API w polu `criterion.crossEngineAlerts` (np. `SPLIT_DEFINITION_BRIDGE_TENSION`, `KARMIC_CAPITAL_LOCK`, `COMMAND_UNIFIED`). Każdy alert zawiera:
-  - **System Tension / Mechanism**: Tarcie strukturalne lub stan obwodu wykryty pomiędzy silnikami.
-  - **Mentor's Diagnosis**: Bezpośrednia diagnoza z perspektywy suwerennej architektury człowieka.
-  - **Strategic Remediation / Actionable Guidance**: 3 konkretne, ponumerowane protokoły naprawcze przywracające suwerenną równowagę.
+- **[`DICTIONARY/`](DICTIONARY/)**: Kompletne słowniki interpretacji wektorów dla wszystkich 33 silników obliczeniowych w 5 kryteriach:
+  - `criterion-1-identity/` (Silniki 1–9)
+  - `criterion-2-blocks/` (Silniki 1–6)
+  - `criterion-3-vocation/` (Silniki 1–6)
+  - `criterion-4-direction/` (Silniki 1–6)
+  - `criterion-5-operating/` (Silniki 1–6)
+- **[`ALERTS/`](ALERTS/)**: Kompletne interpretacje diagnostyczne dla wszystkich 26 kanonicznych alertów międzysilnikowych (`criterion_1_alerts_interpretation.md` do `criterion_5_alerts_interpretation.md`).
+- **[`rapidapi.yaml`](rapidapi.yaml)**: Pełna specyfikacja OpenAPI 3.0.3 gotowa do zaimportowania w Postmanie, Swaggerze lub bramkach API.
 
-### 🏛️ Przewodnik po Prefiksach Cybernetycznych Wektorów
+### 🏷️ Standardowe Prefiksy Wektorów Cybernetycznych
 
-Gdy Twoja aplikacja odpytuje silnik za pośrednictwem platformy **RapidAPI**, backend zwraca lekkie identyfikatory wektorów oraz surowe parametry matematyczne. Każdy kod wektora rozpoczyna się od dedykowanego prefiksu określającego przynależność do danego kryterium:
+Każdy aktywny wektor zwracany przez silnik posiada znormalizowany prefiks określający jego domenę:
 
-- **`VEC_ID_...`** — **Tożsamość i Architektura Rdzenna** (Kryterium 1)
-- **`VEC_BLK_...`** — **Blokady, Cienie i Ograniczenia Strukturalne** (Kryterium 2)
-- **`VEC_VOC_...`** — **Powołanie, Rzemiosło i Architektura Kapitału** (Kryterium 3)
-- **`VEC_DIR_...`** — **Kierunek, Ewolucja i Nawigacja Strategiczna** (Kryterium 4)
-- **`VEC_OM_...`** — **Tryb Operacyjny, Somatyka i Bio-Preskrypcje** (Kryterium 5)
+| Prefiks | Domena i Kryterium Analityczne | Poziom Dostępności |
+| :--- | :--- | :--- |
+| `VEC_ID_...` | **Tożsamość i Architektura Rdzenna** (Kryterium 1) | **Darmowy (Free)** / Pro / Mega |
+| `VEC_BLK_...` | **Inhibitory, Cienie i Ograniczenia Strukturalne** (Kryterium 2) | **Pro** / Mega |
+| `VEC_VOC_...` | **Powołanie, Rzemiosło i Architektura Kapitału** (Kryterium 3) | **Pro** / Mega |
+| `VEC_DIR_...` | **Kierunek, Ewolucja i Nawigacja Strategiczna** (Kryterium 4) | **Mega** |
+| `VEC_OM_...` | **Tryb Operacyjny, Somatyka i Bio-Preskrypcje** (Kryterium 5) | **Mega** |
 
-Twój potok AI odbiera aktywne kody wektorów z RapidAPI (`vectors: ["VEC_ID_...", "VEC_VOC_..."]`), dopasowuje je do plików markdown w tym repozytorium i generuje dla użytkownika końcowego precyzyjny, spersonalizowany raport.
+Twój backend lub potok AI odbiera aktywne kody wektorów z platformy RapidAPI, łączy je z interpretacjami ze słowników w tym repozytorium i generuje precyzyjny, spersonalizowany raport dla użytkownika końcowego.
