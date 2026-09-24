@@ -1,6 +1,7 @@
-# Inquiry 32: "How do I recover from deep physical fatigue, create sanctuary spaces for profound renewal, and access stillness to reset my nervous system and soul?"
+# [NT] Inquiry 32: "How do I recover from deep physical fatigue, create sanctuary spaces for profound renewal, and access stillness to reset my nervous system and soul?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 5 (Operating Dynamics, Somatics & Energy Protocols)**
 > **Active Phenomenon Vectors**: **8**

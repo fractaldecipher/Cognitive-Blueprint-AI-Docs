@@ -1,6 +1,7 @@
-# Inquiry 06: "What subtle constitutional tendencies, somatic rhythms, and inner stamina shape my lived experience?"
+# [NT] Inquiry 06: "What subtle constitutional tendencies, somatic rhythms, and inner stamina shape my lived experience?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 1 (Identity & Sovereign Architecture)**
 > **Active Phenomenon Vectors**: **5**

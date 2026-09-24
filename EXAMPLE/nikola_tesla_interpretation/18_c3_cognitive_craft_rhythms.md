@@ -1,6 +1,7 @@
-# Inquiry 18: "What specific cognitive engines, energetic rhythms, and innate talent clusters power my professional craft, and how do I deploy them without friction or exhaustion?"
+# [NT] Inquiry 18: "What specific cognitive engines, energetic rhythms, and innate talent clusters power my professional craft, and how do I deploy them without friction or exhaustion?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 3 (Vocation, Craft & Capital Architecture)**
 > **Active Phenomenon Vectors**: **8**

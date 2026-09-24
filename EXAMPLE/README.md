@@ -4,6 +4,10 @@
 
 This directory provides a full, concrete benchmark using **Nikola Tesla** (`1856-07-10 00:00`, Smiljan, Croatia) to demonstrate how developers can integrate Cognitive Blueprint AI into their systems.
 
+> 📑 **Illustrated Historical Benchmark Presentation (PDF)**:  
+> Download the visual slide deck matching computational engine telemetry with verified historical facts and life events of Nikola Tesla:  
+> 👉 [**`Tesla_AI_Clinical_Benchmark.pdf`**](Tesla_AI_Clinical_Benchmark.pdf)
+
 ---
 
 ## 1. Directory Structure
@@ -11,6 +15,7 @@ This directory provides a full, concrete benchmark using **Nikola Tesla** (`1856
 ```text
 EXAMPLE/
 ├── README.md                          <-- You are here (Integration guide & architecture)
+├── Tesla_AI_Clinical_Benchmark.pdf    <-- Comprehensive Illustrated Clinical Deck & Historical Fact Validation
 ├── nikola_tesla_json/                 <-- Raw API responses per criterion (as returned by RapidAPI)
 │   ├── criterion_1.json               # Identity & Sovereign Architecture (45 vectors, Coherence: 60)
 │   ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 vectors, 2 alerts, Coherence: 30)

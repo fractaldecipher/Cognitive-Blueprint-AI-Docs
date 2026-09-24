@@ -1,6 +1,7 @@
-# Inquiry 16: "What is my true vocational calling and authentic market role, how do I focus my core craft into unshakeable mastery, and how do I bring my gifts into sustainable, impactful service?"
+# [NT] Inquiry 16: "What is my true vocational calling and authentic market role, how do I focus my core craft into unshakeable mastery, and how do I bring my gifts into sustainable, impactful service?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 3 (Vocation, Craft & Capital Architecture)**
 > **Active Phenomenon Vectors**: **15**

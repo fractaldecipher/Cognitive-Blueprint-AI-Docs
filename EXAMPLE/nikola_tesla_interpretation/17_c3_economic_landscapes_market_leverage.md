@@ -1,6 +1,7 @@
-# Inquiry 17: "In which economic landscapes and professional sectors does my unique craft produce the highest leverage, and how do I focus my strategic resources to build an enduring legacy?"
+# [NT] Inquiry 17: "In which economic landscapes and professional sectors does my unique craft produce the highest leverage, and how do I focus my strategic resources to build an enduring legacy?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 3 (Vocation, Craft & Capital Architecture)**
 > **Active Phenomenon Vectors**: **9**

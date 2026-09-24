@@ -1,6 +1,7 @@
-# Inquiry 28: "How does my body and mind uniquely digest nutrition, information, and sensory stimuli, and what environments best protect my peace, vitality, and cognitive clarity?"
+# [NT] Inquiry 28: "How does my body and mind uniquely digest nutrition, information, and sensory stimuli, and what environments best protect my peace, vitality, and cognitive clarity?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 5 (Operating Dynamics, Somatics & Energy Protocols)**
 > **Active Phenomenon Vectors**: **9**

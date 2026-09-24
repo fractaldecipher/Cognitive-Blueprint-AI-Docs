@@ -1,6 +1,7 @@
-# Inquiry 27: "How do I heal generational limitations, achieve authentic life sovereignty, and build an enduring legacy that blesses my family and future generations with freedom and wisdom?"
+# [NT] Inquiry 27: "How do I heal generational limitations, achieve authentic life sovereignty, and build an enduring legacy that blesses my family and future generations with freedom and wisdom?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 4 (Direction, Timing & Macro-Scaling Architecture)**
 > **Active Phenomenon Vectors**: **10**

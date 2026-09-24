@@ -1,6 +1,7 @@
-# Inquiry 29: "How do I honor my need for deep nightly restoration, shield my sensitive subconscious mind during sleep, and wake up genuinely refreshed and centered in my true self?"
+# [NT] Inquiry 29: "How do I honor my need for deep nightly restoration, shield my sensitive subconscious mind during sleep, and wake up genuinely refreshed and centered in my true self?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 5 (Operating Dynamics, Somatics & Energy Protocols)**
 > **Active Phenomenon Vectors**: **6**

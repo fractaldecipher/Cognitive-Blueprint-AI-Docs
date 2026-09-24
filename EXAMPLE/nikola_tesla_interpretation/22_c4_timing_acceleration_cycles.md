@@ -1,6 +1,7 @@
-# Inquiry 22: "What are the natural seasons, cycles of acceleration, and developmental windows of my life, and how do I harmonize my efforts with the rhythm of timing rather than forcing outcomes?"
+# [NT] Inquiry 22: "What are the natural seasons, cycles of acceleration, and developmental windows of my life, and how do I harmonize my efforts with the rhythm of timing rather than forcing outcomes?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 4 (Direction, Timing & Macro-Scaling Architecture)**
 > **Active Phenomenon Vectors**: **10**

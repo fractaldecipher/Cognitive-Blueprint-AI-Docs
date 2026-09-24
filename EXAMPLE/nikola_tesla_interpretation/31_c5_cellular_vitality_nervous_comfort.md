@@ -1,6 +1,7 @@
-# Inquiry 31: "What is the core vitality and resilience of my physical vessel, what environmental comfort best supports my nervous system, and how do I preserve my deepest life force over a long lifetime?"
+# [NT] Inquiry 31: "What is the core vitality and resilience of my physical vessel, what environmental comfort best supports my nervous system, and how do I preserve my deepest life force over a long lifetime?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 5 (Operating Dynamics, Somatics & Energy Protocols)**
 > **Active Phenomenon Vectors**: **8**

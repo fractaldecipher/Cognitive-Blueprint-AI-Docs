@@ -1,6 +1,7 @@
-# Inquiry 19: "What is my authentic leadership archetype, how do I wield executive authority with wisdom and integrity, and how do I structure decision-making to achieve lasting impact?"
+# [NT] Inquiry 19: "What is my authentic leadership archetype, how do I wield executive authority with wisdom and integrity, and how do I structure decision-making to achieve lasting impact?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 3 (Vocation, Craft & Capital Architecture)**
 > **Active Phenomenon Vectors**: **7**

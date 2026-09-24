@@ -1,6 +1,7 @@
-# Inquiry 11: "What ancestral patterns, inherited survival fears, and intergenerational burdens are imprinted in my cellular memory, and how do I transform them into sovereign strength?"
+# [NT] Inquiry 11: "What ancestral patterns, inherited survival fears, and intergenerational burdens are imprinted in my cellular memory, and how do I transform them into sovereign strength?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 2 (Blocks, Defense & Lineage Architecture)**
 > **Active Phenomenon Vectors**: **8**

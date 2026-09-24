@@ -1,6 +1,7 @@
-# Inquiry 24: "How do I cultivate unshakeable resilience against unforeseen crises, protect my livelihood from systemic volatility, and ensure that adversity strengthens rather than diminishes my purpose?"
+# [NT] Inquiry 24: "How do I cultivate unshakeable resilience against unforeseen crises, protect my livelihood from systemic volatility, and ensure that adversity strengthens rather than diminishes my purpose?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 4 (Direction, Timing & Macro-Scaling Architecture)**
 > **Active Phenomenon Vectors**: **13**

@@ -5,8 +5,11 @@
 
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-Cognitive_Blueprint_AI_Engine-blue?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Presentation: PDF](https://img.shields.io/badge/Deck-Project_Presentation_PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Cognitive_Blueprint_AI_Engine.pdf)
+[![Terms of Use](https://img.shields.io/badge/Terms-Terms_of_Use-blueviolet.svg?style=for-the-badge)](TERMS_OF_USE.md)
 [![Disclaimer](https://img.shields.io/badge/Notice-Disclaimer-orange.svg?style=for-the-badge)](DISCLAIMER.md)
 > 🌐 **RapidAPI Hub**: [https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)
+> 📑 **Project Whitepaper & Deck**: [**Cognitive_Blueprint_AI_Engine.pdf**](Cognitive_Blueprint_AI_Engine.pdf) (Executive overview, 33-engine architecture & spatiotemporal foundations)
 
 ---
 
@@ -21,6 +24,15 @@ By mapping spatiotemporal birth coordinates into deep, multi-dimensional behavio
 This repository acts as the **mentoring guide and interpretative compass** for that architecture. It provides creators, developers, and AI designers with the language, dictionaries, and alert protocols needed to build software that respects human boundaries, fosters genuine self-knowledge, and offers guidance rooted in authentic wisdom rather than mechanical pressure.
 
 All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine), giving builders complete freedom to craft supportive interfaces, life mentors, and transformative tools.
+
+### 💎 Core Architectural Capabilities
+
+- **5 Comprehensive Analytical Criteria**: Identity, Blocks & Defense, Vocation & Capital, Direction & Timing, Operating Mode & Somatics.
+- **33 Specialized Computational Engines**: Each criterion contains 6–9 discrete engines evaluating precise operational dimensions.
+- **900 Deterministic Vectors**: Standardized, machine-readable taxonomy (`VEC_ID_`, `VEC_BLK_`, `VEC_VOC_`, `VEC_DIR_`, `VEC_OM_`).
+- **Curated Numeric Telemetry**: 0–100 scores, percentages, hour latencies, and ratios for direct, drift-free LLM context injection.
+- **26 Sovereign Cross-Engine Alerts**: Systemic tension flags and friction protocols for advanced diagnostic synthesis.
+- **Zero Biometric Dependencies**: Computes lifelong baseline architecture strictly from spatiotemporal coordinates—no wearables, trackers, or real-time surveillance sensors required.
 
 ---
 
@@ -55,6 +67,13 @@ All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.co
 │ Supportive Human Experience│ Compassionate AI Mentors • Sustainable Work Planners • Sovereign Guidance
 └───────────────────────────┘
 ```
+
+### 🔄 The 4-Step Developer Integration Model
+
+1. **Query Engine via RapidAPI**: Client application sends `POST /v1/criterion/{1-5}` with subject spatiotemporal birth coordinates (date, time, latitude, longitude, timezone offset).
+2. **Receive Deterministic Telemetry**: Engine computes active standardized vector codes (`VEC_...`) and curated numeric metrics (0–100 scores, deliberation latencies, ratios).
+3. **Cross-Reference Public Dictionaries**: Client matches emitted vector codes against the open Markdown dictionaries in this repository (`DICTIONARY/` and `ALERTS/`).
+4. **Context Injection for LLMs**: Client injects the grounded telemetry and dictionary mentor notes directly into the system prompt of LLMs (Claude, GPT-4, Llama) for hyper-personalized, consistent user guidance.
 
 ---
 
@@ -229,6 +248,7 @@ Tesla serves as an ideal historical example of a brilliant, highly sensitive ind
 ```text
 EXAMPLE/
 ├── README.md                          <-- Integration walkthrough & architectural philosophy
+├── Tesla_AI_Clinical_Benchmark.pdf    <-- Comprehensive Illustrated Clinical Deck & Historical Fact Validation
 ├── nikola_tesla_json/                 <-- Modular raw API responses (Criteria 1 through 5)
 │   ├── criterion_1.json               # Identity & Sovereign Architecture (45 vectors, Coherence: 60)
 │   ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 vectors, 2 alerts, Coherence: 30)
@@ -241,6 +261,10 @@ EXAMPLE/
     └── 33_c5_sensory_reset_acoustic_quietude.md
 ```
 
+> 📑 **Illustrated Historical Benchmark Presentation**:  
+> For a visual slide-by-slide case study examining Nikola Tesla's life milestones, historical biographical facts, and computational vector correlations, view the dedicated deck:  
+> 👉 [**`EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf`**](EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf)
+
 ### From Raw Telemetry to Mentoring Wisdom
 
 1. **The Raw API Output** ([`nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/)): Provides clean numeric indicators (0–100 scores, ratios, hour spans) alongside emitted vector keys.
@@ -250,24 +274,33 @@ EXAMPLE/
 
 ---
 
-## 💡 What You Can Build: Human-Centered Applications
+## 💡 What You Can Build: Human-Centered Applications & Who It's For
 
 Because Cognitive Blueprint AI calculates an enduring constitutional foundation from fixed spatiotemporal coordinates, applications do not require intrusive real-time surveillance or battery-draining sensors. Creators can leverage this telemetry to build deeply respectful, transformative software:
 
-1. **Compassionate AI Life Mentors & Executive Advisors**:
-   Equip AI agents (via LangChain, LlamaIndex, Claude, or GPT-4) with a foundational understanding of how the user naturally makes decisions, how they handle stress, and how to communicate without provoking defensive friction.
+1. **🤖 AI Agent Developers & LLM Engineers**:
+   - *Use Case*: Inject permanent user cognitive baselines into LLM system prompts (LangChain, LlamaIndex, Claude, GPT-4) for hyper-personalized communication without prompt drift.
+   - *Key Advantage*: Prevents hallucinations by anchoring the agent's tone, pacing, and advice to the user's permanent decision-making compass and perceptual style.
 
-2. **Sustainable Work & Daily Rhythm Planners**:
-   Build productivity tools that honor the user's authentic metabolic rhythm—respecting sprint-and-recovery temperaments instead of forcing rigid, factory-style 8-hour uniformity.
+2. **👥 Coaching & Mentorship Platforms**:
+   - *Use Case*: Deliver deep vocational, behavioral, and somatic guidance at scale for executive advisory and personal growth.
+   - *Key Advantage*: Provides mentors with an objective, neutral structural map of clients' core decision styles, blind spots, and natural craft orientation before the first session.
 
-3. **Creator & Founder Alignment Navigators**:
-   Develop advisory tools that help founders choose business models, pricing strategies, and team structures that align with their natural craft architecture (Criterion 3), preventing the exhaustion of building businesses hostile to their nature.
+3. **⏱️ Productivity & Deep-Work Systems**:
+   - *Use Case*: Build productivity tools that honor the user's authentic metabolic rhythm—respecting sprint-and-recovery temperaments instead of forcing rigid 8-hour factory uniformity.
+   - *Key Advantage*: Structures daily sprints around natural peak focus windows and deliberation latencies (e.g. 48-hour emotional integration vs. immediate intuitive response).
 
-4. **Restorative Sleep & Nervous System Sanctuaries**:
-   Create holistic well-being apps that suggest personalized sensory boundaries, evening wind-down rituals, and quiet environments tailored to the user's constitutional sensitivity (Criterion 5).
+4. **🌿 Wellness, Recovery & Somatic Platforms**:
+   - *Use Case*: Recommend personalized sleep protocols, sensory boundaries, evening wind-down rituals, and acoustic bio-prescriptions tailored to constitutional sensitivity (Criterion 5).
+   - *Key Advantage*: Promotes sustainable nervous system regeneration without invasive biometric wearables or surveillance.
 
-5. **Adaptive, Respectful Learning Companions**:
-   Design educational platforms that deliver knowledge in harmony with the user's natural learning mechanics—honoring whether they learn through deep theoretical study, hands-on experimentation, or intuitive contemplation.
+5. **💼 Career, Business & Founder Alignment Advisors**:
+   - *Use Case*: Route founders and creators toward optimal market sectors, business models, leadership postures, and capital strategies that match their innate craft architecture (Criterion 3).
+   - *Key Advantage*: Prevents founder burnout by eliminating the friction of scaling businesses hostile to their natural wiring.
+
+6. **📚 Adaptive, Respectful Learning Companions**:
+   - *Use Case*: Design educational platforms that deliver knowledge in harmony with the user's natural learning mechanics.
+   - *Key Advantage*: Respects whether an individual absorbs wisdom through deep foundational study, empirical trial-and-error, or intuitive synthesis.
 
 ---
 
@@ -301,21 +334,28 @@ Your application or AI pipeline receives these vector codes from RapidAPI, cross
 
 ---
 
-## ⚖️ Legal & Advisory Disclaimer
+## ⚖️ Legal, Terms of Use & Ethical Policy
 
 The Cognitive Blueprint AI framework, its documentation, dictionaries, alerts, and API telemetry are provided strictly for **educational, exploratory, and personal contemplation purposes on an "AS IS" and "AS AVAILABLE" basis**.
 
-- **No Medical or Psychiatric Advice**: The constitutional patterns, metabolic cycles, and sensory hygiene guidelines (Criterion 5) do not constitute medical, psychiatric, or clinical therapy advice, nor do they diagnose, treat, or prevent any health condition.
-- **No Financial or Legal Advice**: Vocational, capital, and timing metrics (Criteria 3 & 4) represent archetypal, structural, and behavioral reflections—not licensed financial, tax, or legal counsel.
-- **Limitation of Liability**: Under no circumstances shall the authors, maintainers, or Fractal Decipher Syndicate be held liable for any direct, indirect, incidental, or consequential outcomes, decisions, or damages arising from the use or interpretation of this repository, its dictionaries, or the API.
-- **Personal Sovereignty**: Every user and developer assumes sole responsibility and sovereignty over the choices, implementations, and actions they make.
+### 🛡️ Acceptable Use & Ethical Boundaries
+- **Permitted Applications**: Personal self-exploration, AI agent context enrichment, coaching/mentorship support, productivity systems, holistic wellness protocols, and architectural research.
+- **Strictly Prohibited Applications**: Medical, psychiatric, or clinical diagnosis; licensed financial, investment, or legal advice; adverse discriminatory practices (employment hiring/firing screening, insurance underwriting, tenancy scoring); and manipulative or coercive algorithms.
 
-For the full terms and liability provisions, please read the complete [**DISCLAIMER.md**](DISCLAIMER.md).
+### 📋 Governing Documents
+- **Terms of Use & Acceptable Use Policy**: Please review the comprehensive [**TERMS_OF_USE.md**](TERMS_OF_USE.md) for data handling, intellectual property, acceptable use, and liability limits.
+- **Advisory Disclaimer**: Read the detailed [**DISCLAIMER.md**](DISCLAIMER.md) regarding non-medical and non-financial guidance.
 
 ---
 
 ## 📄 License
 
-This repository and its documentation, specifications, and benchmark examples are open source and available under the [MIT License](LICENSE).
+This repository and its documentation, specifications, vector dictionaries, and benchmark examples are open source and available under the [MIT License](LICENSE).
 
 Copyright (c) 2026 Fractal Decipher Syndicate.
+
+---
+
+## 🔍 Discovery & Developer Keywords
+
+`personality profiling API`, `behavioral analysis API`, `cognitive architecture`, `birth chart calculator`, `natal chart analysis`, `life path calculator`, `psychometric profiling`, `human potential analysis`, `AI personalization engine`, `LLM context enrichment`, `vocational guidance API`, `career aptitude API`, `decision-making style analysis`, `bio-rhythm optimization`, `somatic wellness API`, `constitutional profiling`, `holistic assessment`, `spiritual profiling API`, `astrology computation API`, `numerology engine`, `timing optimization API`, `strategic planning API`, `deep user profiling`, `autonomous AI agent context`, `personalized coaching backend`, `cognitive telemetry`, `behavioral vectors`, `energy profiling`, `talent mapping API`, `capital architecture analysis`

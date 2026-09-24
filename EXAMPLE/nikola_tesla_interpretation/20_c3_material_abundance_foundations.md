@@ -1,6 +1,7 @@
-# Inquiry 20: "How do I cultivate, preserve, and circulate material abundance with wisdom, ensuring that my financial foundations support my true purpose and generational security?"
+# [NT] Inquiry 20: "How do I cultivate, preserve, and circulate material abundance with wisdom, ensuring that my financial foundations support my true purpose and generational security?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 3 (Vocation, Craft & Capital Architecture)**
 > **Active Phenomenon Vectors**: **5**

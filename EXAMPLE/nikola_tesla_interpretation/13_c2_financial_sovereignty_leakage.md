@@ -1,6 +1,7 @@
-# Inquiry 13: "Where am I leaking resources, underpricing my authentic value, or fearing commercial expansion, and how do I construct an unassailable foundation of financial sovereignty?"
+# [NT] Inquiry 13: "Where am I leaking resources, underpricing my authentic value, or fearing commercial expansion, and how do I construct an unassailable foundation of financial sovereignty?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 2 (Blocks, Defense & Lineage Architecture)**
 > **Active Phenomenon Vectors**: **4**

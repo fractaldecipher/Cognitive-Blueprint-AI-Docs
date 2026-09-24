@@ -1,6 +1,7 @@
-# Inquiry 14: "How do I protect my sovereign boundaries from external friction and predatory dynamics, integrate my exiled shadow instincts, and transmute inner bitterness into focused mastery?"
+# [NT] Inquiry 14: "How do I protect my sovereign boundaries from external friction and predatory dynamics, integrate my exiled shadow instincts, and transmute inner bitterness into focused mastery?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 2 (Blocks, Defense & Lineage Architecture)**
 > **Active Phenomenon Vectors**: **11**

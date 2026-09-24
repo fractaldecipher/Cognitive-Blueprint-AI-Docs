@@ -1,6 +1,7 @@
-# Inquiry 25: "How does material abundance naturally assemble around my authentic gifts, what non-linear multipliers amplify my impact, and how do I steward profound financial blessings with integrity and wisdom?"
+# [NT] Inquiry 25: "How does material abundance naturally assemble around my authentic gifts, what non-linear multipliers amplify my impact, and how do I steward profound financial blessings with integrity and wisdom?"
 
-> **Analytical Profile**: `Nikola Tesla`
+> **Analytical Profile**: `Nikola Tesla` (`NT`)
+> **Subject Initials**: `NT`
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 4 (Direction, Timing & Macro-Scaling Architecture)**
 > **Active Phenomenon Vectors**: **13**
