@@ -85,20 +85,34 @@ Inspect your Criterion 1 vectors—your natural decision-making compass (whether
 
 ---
 
-## 🏗️ Architecture: Access Tiers & 5 Core Criteria
+## 🛡️ Zero-Data Retention: Complete Statelessness & Architectural Amnesia
 
-The framework is organized into **5 Comprehensive Analytical Criteria** spanning **33 specialized analytical engines**, structured into accessible tiers:
+**The Cognitive Blueprint AI Engine is a pure analytical processor with zero memory of who it calculates.**
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                              TIER STRUCTURE                            │
-├────────────────────────────────────────────────────────────────────────┤
-│  [ FREE TIER ]     $0   — Criterion 1 (Identity & Core Architecture)   │
-│  [ PRO TIER ]      $79  — Criteria 1, 2, 3 (+ Blocks & Vocation)       │
-│  [ MEGA TIER ]     $149 — Criteria 1, 2, 3, 4, 5 (Full Sovereign Matrix│
-│  [ SCALE / ENT ]   Custom / High-Volume RapidAPI Quota Plans           │
-└────────────────────────────────────────────────────────────────────────┘
-```
+In an era of invasive data harvesting and corporate surveillance, this engine is built on strict **ephemeral statelessness**:
+
+* ⚡ **Pure In-Memory Calculation**: Incoming coordinates (birth date, time, location) are processed strictly in volatile RAM for ~15–30 milliseconds using native astronomical and mathematical algorithms.
+* 🔒 **Zero Persistence & No Database**: The engine has no database, no caching layer for personal details, and no user tracking tables.
+* 🧠 **Architectural Amnesia**: The instant the structured JSON telemetry payload is returned through RapidAPI to your application, the memory buffer is wiped clean. The engine possesses complete amnesia—it does not know, log, or remember who was analyzed.
+* 🌍 **Privacy & Compliance by Design**: Because zero personally identifiable information (PII) is ever stored, builders and enterprises can integrate the API into sensitive coaching, HR, executive development, or consumer apps with full peace of mind and effortless GDPR/data-privacy compliance.
+
+---
+
+## 🏗️ Architecture: Access Tiers, Quotas & 5 Core Criteria
+
+The framework is organized into **5 Comprehensive Analytical Criteria** spanning **33 specialized analytical engines**.
+
+Because each requested criterion corresponds to one discrete analytical computation (`1 criterion = 1 request`), quotas directly map to full profile generation:
+
+| Tier | Price | Monthly Quota | Scope & Included Engines | Profile Capacity | Architectural Focus |
+| :---: | :---: | :---: | :--- | :---: | :--- |
+| **🟢 FREE** | **$0** | **20 req / mo** | **Criterion 1** *(9 Engines)* | **20 Profiles** | **Core Identity Baseline**: Sandbox for developer testing, integration validation, and personal exploration. |
+| **🔵 PRO** | **$79** | **999 req / mo** | **Criteria 1, 2, 3** *(21 Engines)* | **333 Full Profiles** *(999 / 3)* | **The Constitutional Blueprint**: Full specification of the human vessel—core identity, hidden friction blocks, and authentic vocational mastery. |
+| **🟣 MEGA** | **$149** | **2,500 req / mo** | **Criteria 1, 2, 3, 4, 5** *(33 Engines)* | **500 Full Profiles** *(2,500 / 5)* | **The Complete Sovereign Matrix**: Adds strategic life seasons & timing (C4) plus daily operational maintenance, nervous restoration, and sensory stewardship (C5) for optimal life navigation. |
+| **👑 SCALE** | Custom | Custom | All 33 Engines | Volume-Based | High-scale consumer platforms & enterprise agent systems. |
+
+> 💡 **The Pro vs. Mega Architectural Synergy**:  
+> While the **PRO Tier** provides the complete structural specification of the individual (their core nature, shadow blocks, and authentic vocation across 21 engines), the **MEGA Tier** introduces the essential operational stewardship across all 33 engines. Analogous to an advanced vessel, PRO reveals the build and technical specifications, while MEGA provides the navigation compass, life seasons, and daily maintenance protocols (restorative sleep, sensory reset, acoustic quietude) required for optimal, sustainable life navigation without burnout.
 
 ---
 
