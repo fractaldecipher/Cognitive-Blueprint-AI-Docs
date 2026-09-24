@@ -4,7 +4,6 @@
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 4 (Direction, Timing & Macro-Scaling Architecture)**
 > **Active Phenomenon Vectors**: **13**
-> **Active Criterion Alerts**: `TIMING_LIQUIDITY_MISMATCH`, `SOVEREIGN_SPATIAL_ALIGNMENT`, `MACRO_LEGACY_SYNCHRONICITY`, `STRUCTURAL_KNOT_BREAKTHROUGH`, `CRITICAL_TIMING_CONVERGENCE`
 
 ---
 
@@ -260,65 +259,6 @@ The following entries are extracted directly from the official Cognitive Bluepri
 - **Clinical Interpretation**: Identifies a valuable talent, archive of knowledge, or creative creation operating in isolation from the main flow of life. This represents an underutilized body of work, a forgotten body of research, or an unmonetized skill that has not yet been woven into the active vocational expression.
 - **Actionable Advice**: Take inventory of all your past writings, skills, and creations. Thoughtfully build bridges to integrate these dormant assets into your current offerings and teachings.
 - **System Friction (To Avoid)**: Leaving valuable creations and insights locked away in drawers due to a lack of simple packaging and presentation.
-
----
-
-## 4. ⚡ Active Cross-Engine Alerts (Criterion 4: Direction, Timing & Macro-Scaling Architecture)
-
-Cross-engine alerts represent high-voltage systemic tensions or friction loops detected across the entire criterion. In clinical report synthesis, these alerts contextualize the inquiry's findings and dictate non-negotiable operational safeguards:
-
-### 1. Alert: `TIMING_LIQUIDITY_MISMATCH` — Timing Window vs. Capital Liquidity Mismatch
-
-* **System Tension / Mechanism**: A severe temporal-financial mismatch where a massive strategic acceleration window opens (e.g., ZRC Peak, Major Transit Ingress, or Solar Maximum), but the operator's balance sheet lacks the necessary 12-to-24 month liquid cash buffer (D-8 Liquidity Deficit). The operator sees the incredible market opportunity clearly but cannot capitalize on it because their capital is locked in illiquid assets or consumed by high corporate overhead. Attempting to launch aggressively without liquidity forces the operator into predatory high-interest debt or desperate, dilutive equity deals.
-* **Mentor's Diagnosis**: You are standing in front of a golden door without the cash key to open it. Prematurely launching an expansion wave on empty tanks will result in financial strangulation midway through the ascent. Opportunity without liquidity is a death trap.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Immediate Strategic Pause*: Halt all major capital expansion launches until a baseline liquid buffer (minimum 12 months operational expense) is secured.
-  2. *Emergency Asset Liquidation*: Monetize non-core assets, secondary IP, or excess inventory to build an immediate cash war chest.
-  3. *Non-Dilutive Financing*: If external capital is required, negotiate revenue-based financing or strategic pre-sales rather than giving away permanent equity under time pressure.
-
----
-
-### 2. Alert: `SOVEREIGN_SPATIAL_ALIGNMENT` — Sovereign Spatial & Geographic Alignment
-
-* **System Tension / Mechanism**: A state of structural spatial resonance where the operator's physical location, office orientation, or astrocartography planetary lines (Astrocartography Grid / Vastu North-East/South-West axis) align perfectly with their natal wealth and authority vectors. Being in the correct geographical node amplifies cognitive clarity, magnetizes high-value alliances, and neutralizes systemic friction. Conversely, operating in a dissonant spatial node acts as a constant drain on vitality and capital.
-* **Mentor's Diagnosis**: Geography is destiny. You cannot run a Tier-1 sovereign enterprise while anchored in a suppressed or hostile spatial node. Changing your geographical coordinates or office ergonomics can instantly dissolve years of mysterious operational drag.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Astrocartography Audit*: Map your primary corporate headquarters, bank accounts, and personal residence against your zenith and benefic planetary lines (Sun, Jupiter, Mercury, Venus lines).
-  2. *Vastu Workspace Optimization*: Position your primary executive desk in the South-West sector (Command Anchor) facing North or East (Growth/Ideation Direction).
-  3. *Geographic Relocation*: If operating in a heavily dissonant jurisdiction, establish a secondary operational hub or tax residency in a high-resonance sovereign jurisdiction.
-
----
-
-### 3. Alert: `MACRO_LEGACY_SYNCHRONICITY` — Macro-Cycle Legacy Synchronicity
-
-* **System Tension / Mechanism**: Perfect temporal alignment between the operator's personal execution timeline and multi-decadal civilizational macro-cycles (Great Mutation Air Epoch 2020–2219, Kondratiev Long-Wave Spring/Summer, 2027 Sleeping Phoenix Mutation). The operator's products, services, and vision address the exact structural demands of the coming epoch (decentralization, AI automation, sovereign health, data autonomy). Execution momentum is multiplied by global macro-forces, generating generational legacy value.
-* **Mentor's Diagnosis**: You are sailing with a gale-force tailwind of history behind you. Your individual ambition is supported by the megatrends of civilizational evolution. What would take decades of hard labor in a dying epoch happens in months when aligned with the new macro-wave.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Epochal Positioning*: Frame all company messaging and product architecture around Post-2027 sovereign paradigms (decentralization, self-sovereign identity, autonomous systems).
-  2. *Legacy IP Building*: Shift focus from short-term transactional cashflow to building long-term, multi-generational intellectual property, enduring methodologies, and sovereign resource trusts.
-  3. *Institutional Decoupling*: Systematically divest from legacy institutions (centralized banking, dying industrial sectors) and re-invest in Air-Epoch digital and sovereign infrastructure.
-
----
-
-### 4. Alert: `STRUCTURAL_KNOT_BREAKTHROUGH` — Generational Knot Breakthrough Imminent
-
-* **System Tension / Mechanism**: A monumental evolutionary threshold where the operator reaches complete readiness (Generational Gordian Knot Resolver / D-7 Saptamsa) to permanently dissolve a multi-generational ancestral bottleneck—such as inherited poverty, bankruptcy loops, institutional exile, or tragic self-sabotage. All energetic, financial, and cognitive prerequisites are met. Crossing this threshold severs the ancestral karma for all future descendants and establishes a new generational dynasty.
-* **Mentor's Diagnosis**: You are the designated breaker of chains in your lineage. The accumulated friction of three generations has compressed into a single diamond point in your lifetime. You stand at the exact moment where the ancestral loop ends and sovereign dynasty begins.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Decisive Execution*: Do not hesitate or look back. Execute the required strategic moves (business sale, international relocation, structural debt severance) without guilt.
-  2. *Family Trust Architecture*: Establish a permanent Family Office / Asset Trust with strict governance rules to ensure the newly created wealth cannot be squandered by un-deconditioned heirs.
-  3. *Codify the Blueprint*: Document your transformation methodology into a written family charter and operational manual for future generations.
-
----
-
-### 5. Alert: `CRITICAL_TIMING_CONVERGENCE` — Critical Timing Windows Convergence
-
-* **System Tension / Mechanism**: A rare, high-amplitude temporal event where at least 3 major acceleration systems converge simultaneously (e.g., Zodiacal Releasing Peak Phase L1/L2, Major Solar Return Acceleration, Planetary Age Threshold, and Macro-Cycle Ingress). This creates an ultra-dense, 3-to-6 month "Golden Window" where strategic actions produce 10x–100x their normal impact. However, the extreme time dilation and pressure can cause executive panic or cognitive freeze if the operator is unprepared.
-* **Mentor's Diagnosis**: The stars have aligned in a rare, high-voltage eclipse of opportunity. This is your historical window of maximum leverage. Missing this window through hesitation, perfectionism, or distraction means waiting another 12 to 30 years for a similar alignment.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Clear the Decks*: Cancel all secondary projects, travel, administrative chores, and low-priority commitments for the duration of the convergence window.
-  2. *All-In Execution*: Channel 100% of available capital, marketing throughput, and executive focus into your primary breakthrough campaign.
-  3. *Ruthless Speed*: Prioritize speed of deployment over flawless perfection. Launch, iterate rapidly, and capture the market while the window is wide open.
 
 ---
 

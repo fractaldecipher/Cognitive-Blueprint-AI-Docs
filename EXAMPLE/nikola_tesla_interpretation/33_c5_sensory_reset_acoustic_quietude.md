@@ -180,9 +180,9 @@ The following entries are extracted directly from the official Cognitive Bluepri
 
 ---
 
-## 4. ⚡ Active Cross-Engine Alerts (Criterion 5: Operating Dynamics, Somatics & Energy Protocols)
+## 4. ⚡ Systemic Cross-Engine Alerts (Criterion 5 Synthesis)
 
-Cross-engine alerts represent high-voltage systemic tensions or friction loops detected across the entire criterion. In clinical report synthesis, these alerts contextualize the inquiry's findings and dictate non-negotiable operational safeguards:
+As the culminating engine of Criterion 5 (Operating Dynamics, Somatics & Energy Protocols), this section presents the overarching systemic tensions, friction loops, and emergency safeguards detected across the entire criterion. These alerts contextualize all preceding inquiry findings and dictate non-negotiable operational protocols:
 
 ### 1. Alert: `CELLULAR_ACOUSTIC_DEFENSE_REQUIRED` — Mandatory Cellular & Acoustic Environmental Defense
 

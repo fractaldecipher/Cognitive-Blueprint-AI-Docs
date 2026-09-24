@@ -4,7 +4,6 @@
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 2 (Blocks, Defense & Lineage Architecture)**
 > **Active Phenomenon Vectors**: **8**
-> **Active Criterion Alerts**: `KARMIC_CAPITAL_LOCK`, `NOCTURNAL_PARASITE_DRAIN`
 
 ---
 
@@ -215,32 +214,6 @@ The following entries are extracted directly from the official Cognitive Bluepri
 - **Clinical Interpretation**: Triggers the conscious release of artificial identities and inherited roles (such as the perpetual caretaker, the family hero, the scapegoat, or the black sheep). As these outdated masks fall away, the individual may experience a temporary disorientation before authentic, self-authored identity takes root.
 - **Actionable Advice**: Embrace the quiet intermediate space as a necessary clearing. Redefine your values and priorities based entirely on your genuine inner resonance rather than external familial expectations.
 - **System Friction (To Avoid)**: Desperately clinging to old social labels to appease relatives, compromising personal integrity for false belonging, or fearing the stillness before new clarity forms.
-
----
-
-## 4. ⚡ Active Cross-Engine Alerts (Criterion 2: Blocks, Defense & Lineage Architecture)
-
-Cross-engine alerts represent high-voltage systemic tensions or friction loops detected across the entire criterion. In clinical report synthesis, these alerts contextualize the inquiry's findings and dictate non-negotiable operational safeguards:
-
-### 1. Alert: `KARMIC_CAPITAL_LOCK` — Karmic Capital Lock & Recurrent Financial Sabotage
-
-* **System Tension / Mechanism**: A destructive feedback loop operating across the 2nd/8th financial axis, D-30 self-sabotage scanner, or 14/16/19 Karmic Debt numbers. Capital accumulates to a specific quantitative threshold, whereupon an automated subconscious trigger fires, causing rapid asset dissipation—reckless investments, unvetted loans to partners, sudden legal disputes, or organizational collapse. This pattern repeats cyclically, keeping the operator trapped in a perpetual cycle of "build, collapse, rebuild."
-* **Mentor's Diagnosis**: You have an invisible wealth ceiling imprinted into your financial nervous system. Every time your balance sheet crosses your subconscious threshold of familiarity, your somatic system panics and triggers a crisis to disperse the "excess" capital. You are treating capital as emotional toxicity rather than sovereign energy.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Automated Wealth Vaulting*: Establish automated capital sweeps that instantly move 30-50% of incoming profits into inaccessible, hard-asset vaults (gold, real estate, locked trusts) before your mind can touch or re-invest it.
-  2. *No-Bailout Rule*: Strictly prohibit emergency loans, gifts, or speculative investments with friends, family, or unvetted partners.
-  3. *Financial Thermostat Reset*: Gradually increase your liquid cash holding threshold by 20% every quarter, forcing your nervous system to acclimatize to high liquidity without panicking.
-
----
-
-### 2. Alert: `NOCTURNAL_PARASITE_DRAIN` — Nocturnal Parasite Drain & Sleep Field Contamination
-
-* **System Tension / Mechanism**: Severe aura vulnerability during NREM/REM sleep cycles caused by sleeping in shared aura fields (within 3–5 meters of another human), high EMF exposure, or open receptive centers absorbing ambient environmental conditioning. During sleep, the somatic defenses drop, allowing foreign emotional turbulence, mental pressure, and vegetative conditioning to infiltrate the operator's subconscious psyche and somatic memory. The result is waking up exhausted, anxious, or burdened with "mysterious" negative states that do not belong to the operator.
-* **Mentor's Diagnosis**: Your aura and nervous system remain completely unshielded all night. While you sleep, your receptive centers passively absorb and process the emotional turbulence and anxieties of whoever shares your physical aura radius. You cannot build a sovereign empire when your nocturnal recovery is compromised by ambient psychological noise.
-* **Strategic Remediation / Actionable Guidance**:
-  1. *Mandatory Solitary Sleep*: Sleep in a completely isolated aura sanctuary (minimum 3–5 meters away from any other person's physical body/bed).
-  2. *EMF & Digital Quarantine*: Eliminate all Wi-Fi routers, smartphones, and active electronics from the sleeping sanctuary. Shut down screens by 22:00.
-  3. *Evening Hydro-Purging*: Execute a mandatory evening saltwater bath or cold shower ritual prior to bed to wash off daytime somatic conditioning.
 
 ---
 

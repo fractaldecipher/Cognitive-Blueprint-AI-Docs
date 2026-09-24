@@ -4,7 +4,6 @@
 > **Coordinates**: `1856-07-10 00:00` (`UTC+1.02`) | Lat: `44.5809°`, Lon: `15.3°` | Gender: `male`
 > **System Classification**: **Criterion 1 (Identity & Sovereign Architecture)**
 > **Active Phenomenon Vectors**: **3**
-> **Active Criterion Alerts**: *None (Nominal)*
 
 ---
 
@@ -82,8 +81,4 @@ The following entries are extracted directly from the official Cognitive Bluepri
 - **System Friction (To Avoid)**: Avoid overriding your body's need for rest with artificial stimulants or sheer willpower; ignoring physical signals leads to exhaustion and diminishes your natural healing vitality.
 
 ---
-
-## 4. ⚡ Active Cross-Engine Alerts (Criterion 1: Identity & Sovereign Architecture)
-
-*No cross-engine alerts triggered for Criterion 1. The operator's cognitive architecture exhibits nominal systemic cohesion across this analytical domain.*
 
