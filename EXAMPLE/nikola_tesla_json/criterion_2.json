@@ -5,10 +5,9 @@
     "name": "Nikola Tesla",
     "birthDate": "1856-07-10",
     "birthTime": "00:00",
-    "birthPlace": "Smiljan, Croatia",
+    "timezoneOffset": 1.02,
     "latitude": 44.5809,
     "longitude": 15.3,
-    "timezone": "Europe/Zagreb",
     "gender": "male"
   },
   "totalActiveVectors": 58,
@@ -25,7 +24,7 @@
     "engines": [
       {
         "engineId": "engine_1",
-        "inquiry": "What reactive defense patterns, unconscious inhibitors, and deep emotional patterns drain my vital energy, and how can they be transformed into wisdom?",
+        "description": "What reactive defense patterns, unconscious inhibitors, and deep emotional patterns drain my vital energy, and how can they be transformed into wisdom?",
         "vectors": [
           "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
           "VEC_BLK_REACTIVITY_NODE_054_COMPULSIVE_GREED",
@@ -124,7 +123,7 @@
       },
       {
         "engineId": "engine_2",
-        "inquiry": "What ancestral patterns, inherited survival fears, and intergenerational burdens are imprinted in my cellular memory, and how do I transform them into sovereign strength?",
+        "description": "What ancestral patterns, inherited survival fears, and intergenerational burdens are imprinted in my cellular memory, and how do I transform them into sovereign strength?",
         "vectors": [
           "VEC_BLK_LINEAGE_GENERAL_HARDWARE_IMPRINT",
           "VEC_BLK_LINEAGE_MATERNAL_SCARCITY_LOCK",
@@ -240,7 +239,7 @@
       },
       {
         "engineId": "engine_3",
-        "inquiry": "What unresolved life lessons, unexamined vows, and cyclical developmental crossroads shape my journey, and how do I transform past inertia into purposeful mastery?",
+        "description": "What unresolved life lessons, unexamined vows, and cyclical developmental crossroads shape my journey, and how do I transform past inertia into purposeful mastery?",
         "vectors": [
           "VEC_BLK_KARMIC_TOWER_COLLAPSE_16",
           "VEC_BLK_KARMIC_DEGREE_IMPRINT_ACTIVE",
@@ -349,7 +348,7 @@
       },
       {
         "engineId": "engine_4",
-        "inquiry": "Where am I leaking resources, underpricing my authentic value, or fearing commercial expansion, and how do I construct an unassailable foundation of financial sovereignty?",
+        "description": "Where am I leaking resources, underpricing my authentic value, or fearing commercial expansion, and how do I construct an unassailable foundation of financial sovereignty?",
         "vectors": [
           "VEC_BLK_CAPITAL_FLOW_MARKET_DISRUPTION",
           "VEC_BLK_CRISIS_DRAIN_SUDDEN_LIQUIDATION",
@@ -411,7 +410,7 @@
       },
       {
         "engineId": "engine_5",
-        "inquiry": "How do I protect my sovereign boundaries from external friction and predatory dynamics, integrate my exiled shadow instincts, and transmute inner bitterness into focused mastery?",
+        "description": "How do I protect my sovereign boundaries from external friction and predatory dynamics, integrate my exiled shadow instincts, and transmute inner bitterness into focused mastery?",
         "vectors": [
           "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
           "VEC_BLK_POISON_INNER_SABOTAGE_LOOP",
@@ -580,7 +579,7 @@
       },
       {
         "engineId": "engine_6",
-        "inquiry": "How do I protect my nervous system from chronic depletion, prevent burnout, and cultivate deep, sovereign restoration during sleep?",
+        "description": "How do I protect my nervous system from chronic depletion, prevent burnout, and cultivate deep, sovereign restoration during sleep?",
         "vectors": [
           "VEC_BLK_BURNOUT_CRITICAL",
           "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",

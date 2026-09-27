@@ -5,10 +5,9 @@
     "name": "Nikola Tesla",
     "birthDate": "1856-07-10",
     "birthTime": "00:00",
-    "birthPlace": "Smiljan, Croatia",
+    "timezoneOffset": 1.02,
     "latitude": 44.5809,
     "longitude": 15.3,
-    "timezone": "Europe/Zagreb",
     "gender": "male"
   },
   "totalActiveVectors": 50,
@@ -24,7 +23,7 @@
     "engines": [
       {
         "engineId": "engine_1",
-        "inquiry": "What is my true vocational calling and authentic market role, how do I focus my core craft into unshakeable mastery, and how do I bring my gifts into sustainable, impactful service?",
+        "description": "What is my true vocational calling and authentic market role, how do I focus my core craft into unshakeable mastery, and how do I bring my gifts into sustainable, impactful service?",
         "vectors": [
           "VEC_VOC_CORE_MISSION_DORMANT",
           "VEC_VOC_EXECUTION_VECTOR_ACTIVE",
@@ -157,7 +156,7 @@
       },
       {
         "engineId": "engine_2",
-        "inquiry": "In which economic landscapes and professional sectors does my unique craft produce the highest leverage, and how do I focus my strategic resources to build an enduring legacy?",
+        "description": "In which economic landscapes and professional sectors does my unique craft produce the highest leverage, and how do I focus my strategic resources to build an enduring legacy?",
         "vectors": [
           "VEC_VOC_PRECISION_DRIVER_SYSTEMIC_CONSOLIDATION",
           "VEC_VOC_PRECISION_SENTINEL_EXECUTIVE_FOCUS",
@@ -254,7 +253,7 @@
       },
       {
         "engineId": "engine_3",
-        "inquiry": "What specific cognitive engines, energetic rhythms, and innate talent clusters power my professional craft, and how do I deploy them without friction or exhaustion?",
+        "description": "What specific cognitive engines, energetic rhythms, and innate talent clusters power my professional craft, and how do I deploy them without friction or exhaustion?",
         "vectors": [
           "VEC_VOC_TALENT_CLUSTER_STRUCTURAL_ENGINEERING",
           "VEC_VOC_MOTOR_ROUTE_SACRAL_DEFINED",
@@ -300,7 +299,7 @@
       },
       {
         "engineId": "engine_4",
-        "inquiry": "What is my authentic leadership archetype, how do I wield executive authority with wisdom and integrity, and how do I structure decision-making to achieve lasting impact?",
+        "description": "What is my authentic leadership archetype, how do I wield executive authority with wisdom and integrity, and how do I structure decision-making to achieve lasting impact?",
         "vectors": [
           "VEC_VOC_MARKET_ROLE_BUILDER",
           "VEC_VOC_PLANETARY_STRENGTH_APEX",
@@ -355,7 +354,7 @@
       },
       {
         "engineId": "engine_5",
-        "inquiry": "How do I cultivate, preserve, and circulate material abundance with wisdom, ensuring that my financial foundations support my true purpose and generational security?",
+        "description": "How do I cultivate, preserve, and circulate material abundance with wisdom, ensuring that my financial foundations support my true purpose and generational security?",
         "vectors": [
           "VEC_VOC_CAPITAL_RESERVOIR_BALANCED",
           "VEC_VOC_ASSET_PILLAR_TRUST_FUND",
@@ -458,7 +457,7 @@
       },
       {
         "engineId": "engine_6",
-        "inquiry": "How do I translate visionary intention into grounded, sustainable execution, maintain my sovereignty against external pressures, and scale my craft to endure beyond myself?",
+        "description": "How do I translate visionary intention into grounded, sustainable execution, maintain my sovereignty against external pressures, and scale my craft to endure beyond myself?",
         "vectors": [
           "VEC_VOC_KINETIC_ACTION_RIGOR",
           "VEC_VOC_KINETIC_ACTION_AGILITY",

@@ -5,10 +5,9 @@
     "name": "Nikola Tesla",
     "birthDate": "1856-07-10",
     "birthTime": "00:00",
-    "birthPlace": "Smiljan, Croatia",
+    "timezoneOffset": 1.02,
     "latitude": 44.5809,
     "longitude": 15.3,
-    "timezone": "Europe/Zagreb",
     "gender": "male"
   },
   "totalActiveVectors": 48,
@@ -24,7 +23,7 @@
     "engines": [
       {
         "engineId": "engine_1",
-        "inquiry": "How does my body and mind uniquely digest nutrition, information, and sensory stimuli, and what environments best protect my peace, vitality, and cognitive clarity?",
+        "description": "How does my body and mind uniquely digest nutrition, information, and sensory stimuli, and what environments best protect my peace, vitality, and cognitive clarity?",
         "vectors": [
           "VEC_OM_DIET_SOLAR_DAY_DINING",
           "VEC_OM_SENSORY_ABSORPTION_HIGH",
@@ -101,7 +100,7 @@
       },
       {
         "engineId": "engine_2",
-        "inquiry": "How do I honor my need for deep nightly restoration, shield my sensitive subconscious mind during sleep, and wake up genuinely refreshed and centered in my true self?",
+        "description": "How do I honor my need for deep nightly restoration, shield my sensitive subconscious mind during sleep, and wake up genuinely refreshed and centered in my true self?",
         "vectors": [
           "VEC_OM_SLEEP_ISOLATION_RADIUS_3M",
           "VEC_OM_NOCTURNAL_DEFENSE_ACTIVATION_HIGH",
@@ -185,7 +184,7 @@
       },
       {
         "engineId": "engine_3",
-        "inquiry": "What is my authentic energetic constitution, when do my natural peak focus windows open during the day, and how do I nurture sustainable physical vitality without burnout?",
+        "description": "What is my authentic energetic constitution, when do my natural peak focus windows open during the day, and how do I nurture sustainable physical vitality without burnout?",
         "vectors": [
           "VEC_OM_METABOLIC_HYBRID_ADAPTIVE",
           "VEC_OM_ELEMENT_WATER_DOMINANT",
@@ -340,7 +339,7 @@
       },
       {
         "engineId": "engine_4",
-        "inquiry": "What is the core vitality and resilience of my physical vessel, what environmental comfort best supports my nervous system, and how do I preserve my deepest life force over a long lifetime?",
+        "description": "What is the core vitality and resilience of my physical vessel, what environmental comfort best supports my nervous system, and how do I preserve my deepest life force over a long lifetime?",
         "vectors": [
           "VEC_OM_ESSENCE_PRANA_DOMINANT",
           "VEC_OM_ESSENCE_BALANCE_HIGH",
@@ -436,7 +435,7 @@
       },
       {
         "engineId": "engine_5",
-        "inquiry": "How do I recover from deep physical fatigue, create sanctuary spaces for profound renewal, and access stillness to reset my nervous system and soul?",
+        "description": "How do I recover from deep physical fatigue, create sanctuary spaces for profound renewal, and access stillness to reset my nervous system and soul?",
         "vectors": [
           "VEC_OM_CONSTITUTION_KAPHA_EARTH_WATER",
           "VEC_OM_CONSTITUTIONAL_HARMONY_HIGH",
@@ -492,7 +491,7 @@
       },
       {
         "engineId": "engine_6",
-        "inquiry": "How do I clear sensory saturation, attune my nervous system to restorative frequencies, and cultivate deep internal quietude to sustain clarity and inner peace?",
+        "description": "How do I clear sensory saturation, attune my nervous system to restorative frequencies, and cultivate deep internal quietude to sustain clarity and inner peace?",
         "vectors": [
           "VEC_OM_BAND_DELTA_DOMINANT",
           "VEC_OM_FREQUENCY_SYNC_HIGH",

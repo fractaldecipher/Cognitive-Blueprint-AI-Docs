@@ -90,17 +90,16 @@ Calling the API endpoints for Nikola Tesla generates the exact JSON structures f
 
 ## 4. Step 1: Input Coordinates (Nikola Tesla)
 
-Your client application sends immutable spatiotemporal coordinates to the [RapidAPI endpoint](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine):
+Your client application sends immutable spatiotemporal coordinates to the [RapidAPI endpoint](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine) adhering to the `ProfileInput` schema:
 
 ```json
 {
   "name": "Nikola Tesla",
   "birthDate": "1856-07-10",
   "birthTime": "00:00",
-  "birthPlace": "Smiljan, Croatia",
+  "timezoneOffset": 1.02,
   "latitude": 44.5809,
   "longitude": 15.3,
-  "timezone": "Europe/Zagreb",
   "gender": "male"
 }
 ```
@@ -109,41 +108,92 @@ Your client application sends immutable spatiotemporal coordinates to the [Rapid
 
 ## 5. Step 2: What You Receive From the API (Modular Criterion JSON)
 
-For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns a lean, structured payload containing **sanitized quantitative metrics (`math`)**, **active phenomenon vectors (`vectors`)**, and **systemic tension alerts (`crossEngineAlerts`)**:
+For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns the standardized `CriterionEnvelopeResponse` containing **sanitized quantitative metrics (`math`)**, **active standardized vectors (`vectors`)**, and **systemic tension alerts (`crossEngineAlerts`)**:
 
 ```json
 {
   "status": "success",
-  "criterionId": 2,
-  "criterionName": "Inhibitors, Shadows & Structural Blocks",
-  "engineCount": 6,
-  "coherenceScore": 30,
-  "crossEngineAlerts": [
-    "KARMIC_CAPITAL_LOCK",
-    "NOCTURNAL_PARASITE_DRAIN"
-  ],
-  "engines": {
-    "circadian_metabolic_engine": {
-      "math": {
-        "restorationLatencyHours": {
-          "value": 11,
-          "description": "Required latency in hours to reach baseline parasympathetic recovery"
-        },
-        "parasympatheticFloorScore": {
-          "value": 28,
-          "description": "Lowest autonomic nervous threshold during nocturnal cycles (scale 0-100)"
-        },
-        "burnoutVelocityIndex": {
-          "value": 0.88,
-          "description": "Rate of cellular and cognitive depletion under unmoderated mental load (scale 0.0-1.0)"
+  "criterionNumber": 2,
+  "profile": {
+    "name": "Nikola Tesla",
+    "birthDate": "1856-07-10",
+    "birthTime": "00:00",
+    "timezoneOffset": 1.02,
+    "latitude": 44.5809,
+    "longitude": 15.3,
+    "gender": "male"
+  },
+  "totalActiveVectors": 58,
+  "criterion": {
+    "criterionId": 2,
+    "title": "Blocks, Defense & Lineage Architecture",
+    "totalVectors": 58,
+    "coherenceScore": 30,
+    "crossEngineAlerts": [
+      "KARMIC_CAPITAL_LOCK",
+      "NOCTURNAL_PARASITE_DRAIN"
+    ],
+    "dominantTheme": "CAPITAL_LOCK",
+    "engines": [
+      {
+        "engineId": "engine_1",
+        "description": "What reactive defense patterns, unconscious inhibitors, and deep emotional patterns drain my vital energy, and how can they be transformed into wisdom?",
+        "vectors": [
+          "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
+          "VEC_BLK_REACTIVITY_NODE_054_COMPULSIVE_GREED",
+          "VEC_BLK_CORE_WOUND_ANNIHILATION",
+          "VEC_BLK_CATALYST_TRANSMUTATION_ACTIVE"
+        ],
+        "math": {
+          "activePatternClustersCount": {
+            "value": 9,
+            "type": "COUNT",
+            "unit": "count",
+            "range": [0, 20],
+            "description": "Count of activated genetic pattern clusters"
+          },
+          "reactivityScore": {
+            "value": 78,
+            "type": "SCORE",
+            "unit": "pts",
+            "range": [0, 100],
+            "description": "Total shadow reactivity and somatic defense threshold (scale 0-100)"
+          }
         }
       },
-      "vectors": [
-        "VEC_CIR_DRAIN_NOCTURNAL_PARASITISM",
-        "VEC_CIR_RECOVERY_COMPROMISED",
-        "VEC_CIR_AUTONOMIC_FRAGILITY"
-      ]
-    }
+      {
+        "engineId": "engine_6",
+        "description": "How do I protect my nervous system from chronic depletion, prevent burnout, and cultivate deep, sovereign restoration during sleep?",
+        "vectors": [
+          "VEC_BLK_BURNOUT_CRITICAL",
+          "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
+          "VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY"
+        ],
+        "math": {
+          "totalBurnoutRiskPct": {
+            "value": 99,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [0, 100],
+            "description": "Systemic nervous system burnout and cognitive overload risk percentage (0-100%)"
+          },
+          "recommendedIsolationHoursPerWeek": {
+            "value": 19.8,
+            "type": "HOURS",
+            "unit": "hours",
+            "range": [0, 168],
+            "description": "Mandatory solitary decompression and auric reset hours required per week"
+          },
+          "sleepAuraIntegrityPct": {
+            "value": 45,
+            "type": "PERCENTAGE",
+            "unit": "%",
+            "range": [0, 100],
+            "description": "Solitary nocturnal aura protection and restorative sleep integrity percentage (0-100%)"
+          }
+        }
+      }
+    ]
   }
 }
 ```
@@ -157,7 +207,7 @@ By pairing the emitted `vectors` and `crossEngineAlerts` codes with the Markdown
 | Emitted Code | Matched Source File | Clinical Insight Extracted |
 | :--- | :--- | :--- |
 | `VEC_ID_CORE_KINETIC_BUILDER` | `DICTIONARY/criterion-1-identity/engine_1.md` | Innate regenerative stamina designed for dedicated step-by-step physical and intellectual creation. Must navigate by gut availability rather than mental urgency. |
-| `VEC_CIR_DRAIN_NOCTURNAL_PARASITISM` | `DICTIONARY/criterion-2-inhibitors/engine_6.md` | Sleep architecture vulnerable to nocturnal energetic and cognitive leaks. Rest cycles fail to restore parasympathetic floor. |
+| `VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY` | `DICTIONARY/criterion-2-blocks/engine_6.md` | Sleep architecture vulnerable to nocturnal energetic conditioning and environmental noise. Rest cycles fail to restore parasympathetic floor without strict aura isolation. |
 | `NOCTURNAL_PARASITE_DRAIN` | `ALERTS/criterion_2_alerts_interpretation.md` | **Mechanism**: Severe nocturnal energy hemorrhage and dream-state cognitive processing without somatic rest.<br>**Remediation**: Mandatory acoustic shielding, complete darkness, and cessation of intellectual work 3 hours prior to sleep. |
 | `KARMIC_CAPITAL_LOCK` | `ALERTS/criterion_2_alerts_interpretation.md` | **Mechanism**: Recurring systemic sabotage in capital monetisation and IP ownership contracts.<br>**Remediation**: Establish external fiduciary proxy and third-party commercial verification before signing licensing agreements. |
 

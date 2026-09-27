@@ -5,10 +5,9 @@
     "name": "Nikola Tesla",
     "birthDate": "1856-07-10",
     "birthTime": "00:00",
-    "birthPlace": "Smiljan, Croatia",
+    "timezoneOffset": 1.02,
     "latitude": 44.5809,
     "longitude": 15.3,
-    "timezone": "Europe/Zagreb",
     "gender": "male"
   },
   "totalActiveVectors": 45,
@@ -22,7 +21,7 @@
     "engines": [
       {
         "engineId": "engine_1",
-        "inquiry": "What is my core life role, and through what natural compass do I make authentic decisions?",
+        "description": "What is my core life role, and through what natural compass do I make authentic decisions?",
         "vectors": [
           "VEC_ID_CORE_KINETIC_BUILDER",
           "VEC_ID_DECISION_EMOTIONAL_WAVE",
@@ -143,7 +142,7 @@
       },
       {
         "engineId": "engine_2",
-        "inquiry": "How do I naturally process reality, and what environment and calling truly nourish my mind and spirit?",
+        "description": "How do I naturally process reality, and what environment and calling truly nourish my mind and spirit?",
         "vectors": [
           "VEC_ID_ENV_SHORES",
           "VEC_ID_MOTIVATION_INNOCENCE",
@@ -176,7 +175,7 @@
       },
       {
         "engineId": "engine_3",
-        "inquiry": "What is my authentic path of learning, self-mastery, and sharing wisdom with the world?",
+        "description": "What is my authentic path of learning, self-mastery, and sharing wisdom with the world?",
         "vectors": [
           "VEC_ID_LEARNING_EVOLVING_MASTER",
           "VEC_ID_KNOWLEDGE_HERMETIC_ALCHEMY"
@@ -196,7 +195,7 @@
       },
       {
         "engineId": "engine_4",
-        "inquiry": "How does my mind perceive time, orient toward challenges, and navigate contemplative thresholds?",
+        "description": "How does my mind perceive time, orient toward challenges, and navigate contemplative thresholds?",
         "vectors": [
           "VEC_ID_OPS_NIGHT_COVERT",
           "VEC_ID_MIND_PIONEER_FORWARD",
@@ -227,7 +226,7 @@
       },
       {
         "engineId": "engine_5",
-        "inquiry": "What is my unshakeable moral compass, my soul's core impulse, and what protects me from self-betrayal?",
+        "description": "What is my unshakeable moral compass, my soul's core impulse, and what protects me from self-betrayal?",
         "vectors": [
           "VEC_ID_INTEGRITY_ETHICAL_DRIFT_RISK",
           "VEC_ID_INTEGRITY_SOUL_ANCHOR",
@@ -300,7 +299,7 @@
       },
       {
         "engineId": "engine_6",
-        "inquiry": "What subtle constitutional tendencies, somatic rhythms, and inner stamina shape my lived experience?",
+        "description": "What subtle constitutional tendencies, somatic rhythms, and inner stamina shape my lived experience?",
         "vectors": [
           "VEC_ID_SUBSTRATE_BIO_SERIAL_SOVEREIGN",
           "VEC_ID_SUBSTRATE_CELLULAR_STAMINA_HIGH",
@@ -483,7 +482,7 @@
       },
       {
         "engineId": "engine_7",
-        "inquiry": "What overarching archetypal journey, life lessons, and soul longings shape my personal pilgrimage?",
+        "description": "What overarching archetypal journey, life lessons, and soul longings shape my personal pilgrimage?",
         "vectors": [
           "VEC_ID_NUM_LIFE_PATH_1_SOVEREIGN_INITIATOR",
           "VEC_ID_NUM_EXPRESSION_MASTER_11",
@@ -528,7 +527,7 @@
       },
       {
         "engineId": "engine_8",
-        "inquiry": "What higher archetypal ideals, subtle currents, and conscious aspirations guide my presence?",
+        "description": "What higher archetypal ideals, subtle currents, and conscious aspirations guide my presence?",
         "vectors": [
           "VEC_ID_STELLAR_HONOR",
           "VEC_ID_STELLAR_ANALYTICAL_SYNAPSE"
@@ -568,7 +567,7 @@
       },
       {
         "engineId": "engine_9",
-        "inquiry": "What vibrational signature, social resonance, and tangible footprint does my expressed identity carry in the world?",
+        "description": "What vibrational signature, social resonance, and tangible footprint does my expressed identity carry in the world?",
         "vectors": [
           "VEC_ID_TRANSMISSION_POSITION_SEAL",
           "VEC_ID_TRANSMISSION_RESONANCE_DELEGATED",

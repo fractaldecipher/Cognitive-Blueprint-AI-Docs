@@ -5,10 +5,9 @@
     "name": "Nikola Tesla",
     "birthDate": "1856-07-10",
     "birthTime": "00:00",
-    "birthPlace": "Smiljan, Croatia",
+    "timezoneOffset": 1.02,
     "latitude": 44.5809,
     "longitude": 15.3,
-    "timezone": "Europe/Zagreb",
     "gender": "male"
   },
   "totalActiveVectors": 62,
@@ -28,7 +27,7 @@
     "engines": [
       {
         "engineId": "engine_1",
-        "inquiry": "What are the natural seasons, cycles of acceleration, and developmental windows of my life, and how do I harmonize my efforts with the rhythm of timing rather than forcing outcomes?",
+        "description": "What are the natural seasons, cycles of acceleration, and developmental windows of my life, and how do I harmonize my efforts with the rhythm of timing rather than forcing outcomes?",
         "vectors": [
           "VEC_DIR_CYCLE_RELEASE_PEAK_ACTIVE",
           "VEC_DIR_FUTURE_PEAK_WINDOW",
@@ -116,7 +115,7 @@
       },
       {
         "engineId": "engine_2",
-        "inquiry": "In what physical environments, directional orientations, and geographical spaces does my nervous system find optimal harmony, sovereign focus, and unconstrained creative power?",
+        "description": "In what physical environments, directional orientations, and geographical spaces does my nervous system find optimal harmony, sovereign focus, and unconstrained creative power?",
         "vectors": [
           "VEC_DIR_SPATIAL_GRID_EUROPE",
           "VEC_DIR_SPATIAL_GRID_OPTIMAL_ALIGNMENT",
@@ -181,7 +180,7 @@
       },
       {
         "engineId": "engine_3",
-        "inquiry": "How do I cultivate unshakeable resilience against unforeseen crises, protect my livelihood from systemic volatility, and ensure that adversity strengthens rather than diminishes my purpose?",
+        "description": "How do I cultivate unshakeable resilience against unforeseen crises, protect my livelihood from systemic volatility, and ensure that adversity strengthens rather than diminishes my purpose?",
         "vectors": [
           "VEC_DIR_LIQUIDITY_BUFFER_12_MONTHS",
           "VEC_DIR_SYSTEMIC_LIQUIDATION_RISK_CRITICAL",
@@ -282,7 +281,7 @@
       },
       {
         "engineId": "engine_4",
-        "inquiry": "How does material abundance naturally assemble around my authentic gifts, what non-linear multipliers amplify my impact, and how do I steward profound financial blessings with integrity and wisdom?",
+        "description": "How does material abundance naturally assemble around my authentic gifts, what non-linear multipliers amplify my impact, and how do I steward profound financial blessings with integrity and wisdom?",
         "vectors": [
           "VEC_DIR_WINDFALL_POTENTIAL_HIGH",
           "VEC_DIR_CAPITAL_MULTIPLIER_5_0X",
@@ -393,7 +392,7 @@
       },
       {
         "engineId": "engine_5",
-        "inquiry": "How do I align my life's work with the great generational epochs, economic seasons, and natural macro-rhythms of our time so that my actions move in harmony with history?",
+        "description": "How do I align my life's work with the great generational epochs, economic seasons, and natural macro-rhythms of our time so that my actions move in harmony with history?",
         "vectors": [
           "VEC_DIR_SOLAR_CYCLE_MAXIMUM_DISRUPTION",
           "VEC_DIR_GLOBAL_EPOCH_AIR_INNOVATION",
@@ -470,7 +469,7 @@
       },
       {
         "engineId": "engine_6",
-        "inquiry": "How do I heal generational limitations, achieve authentic life sovereignty, and build an enduring legacy that blesses my family and future generations with freedom and wisdom?",
+        "description": "How do I heal generational limitations, achieve authentic life sovereignty, and build an enduring legacy that blesses my family and future generations with freedom and wisdom?",
         "vectors": [
           "VEC_DIR_SOVEREIGN_WEALTH_TIER_MODERATE",
           "VEC_DIR_SOVEREIGN_WEALTH_CRITICAL_GAPS",
