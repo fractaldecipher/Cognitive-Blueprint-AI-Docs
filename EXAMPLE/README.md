@@ -8,6 +8,10 @@ This directory provides a full, concrete benchmark using **Nikola Tesla** (`1856
 > Download the visual slide deck matching computational engine telemetry with verified historical facts and life events of Nikola Tesla:  
 > 👉 [**`Tesla_AI_Clinical_Benchmark.pdf`**](Tesla_AI_Clinical_Benchmark.pdf)
 
+<p align="center">
+  <img src="../ASSETS/infographic_tesla_benchmark.png" alt="Cognitive Blueprint AI - Nikola Tesla Benchmark Implementation" width="100%" />
+</p>
+
 ---
 
 ## 1. Directory Structure

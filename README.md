@@ -74,6 +74,10 @@ All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.co
 └───────────────────────────┘
 ```
 
+<p align="center">
+  <img src="ASSETS/infographic_hallucination_killer.png" alt="Cognitive Blueprint AI - Eliminating LLM Hallucinations with Grounded Telemetry" width="100%" />
+</p>
+
 ### 🔄 The 4-Step Developer Integration Model
 
 1. **Query Engine via RapidAPI**: Client application sends `POST /v1/criterion/{1-5}` with subject spatiotemporal birth coordinates (date, time, latitude, longitude, timezone offset).
@@ -121,6 +125,10 @@ In an era of invasive data harvesting and corporate surveillance, this engine is
 * 🧠 **Architectural Amnesia**: The instant the structured JSON telemetry payload is returned through RapidAPI to your application, the memory buffer is wiped clean. The engine possesses complete amnesia—it does not know, log, or remember who was analyzed.
 * 🌍 **Privacy & Compliance by Design**: Because zero personally identifiable information (PII) is ever stored, builders and enterprises can integrate the API into sensitive coaching, HR, executive development, or consumer apps with full peace of mind and effortless GDPR/data-privacy compliance.
 
+<p align="center">
+  <img src="ASSETS/infographic_architectural_amnesia.png" alt="Cognitive Blueprint AI - Ephemeral In-Memory Calculation & Architectural Amnesia" width="100%" />
+</p>
+
 ---
 
 ## 🏗️ Architecture: Access Tiers, Quotas & 5 Core Criteria
@@ -138,6 +146,10 @@ Because each requested criterion corresponds to one discrete analytical computat
 
 > 💡 **The Pro vs. Mega Architectural Synergy**:  
 > While the **PRO Tier** provides the complete structural specification of the individual (their core nature, shadow blocks, and authentic vocation across 21 engines), the **MEGA Tier** introduces the essential operational stewardship across all 33 engines. Analogous to an advanced vessel, PRO reveals the build and technical specifications, while MEGA provides the navigation compass, life seasons, and daily maintenance protocols (restorative sleep, sensory reset, acoustic quietude) required for optimal, sustainable life navigation without burnout.
+
+<p align="center">
+  <img src="ASSETS/infographic_sovereign_matrix.png" alt="Cognitive Blueprint AI - The Sovereign Matrix (5 Criteria & 33 Engines)" width="100%" />
+</p>
 
 ---
 
@@ -323,6 +335,10 @@ This repository hosts the **Public Knowledge Base, OpenAPI Specifications, Vecto
 - **[`ALERTS/`](ALERTS/)**: Complete diagnostic interpretations for all 26 canonical cross-engine alerts (`criterion_1_alerts_interpretation.md` through `criterion_5_alerts_interpretation.md`).
 - **[`EXAMPLE/`](EXAMPLE/)**: Real-world implementation benchmark featuring **Nikola Tesla** (`EXAMPLE/README.md`) with 5 modular JSON files and 33 complete engine synthesis documents.
 - **[RapidAPI Interactive Gateway](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)**: Live endpoint console, key generation, and subscription tiers.
+
+<p align="center">
+  <img src="ASSETS/infographic_tesla_benchmark.png" alt="Cognitive Blueprint AI - Real-World Benchmark Implementation (Nikola Tesla)" width="100%" />
+</p>
 
 ### 🏷️ Standardized Vector Taxonomy
 
