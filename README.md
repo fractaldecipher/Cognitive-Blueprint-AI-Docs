@@ -4,11 +4,17 @@
 > _A profound analytical foundation illuminating cognitive depth, natural rhythms, vocational alignment, and decision-making clarity—serving as a compass for authentic human potential._
 
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-Cognitive_Blueprint_AI_Engine-blue?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)
+[![FAQ](https://img.shields.io/badge/Docs-Developer_FAQ-informational?style=for-the-badge&logo=markdown)](FAQ/QUESTIONS.md)
+[![Time Sensitivity](https://img.shields.io/badge/Study-Exact_Time_Impact-critical?style=for-the-badge&logo=clockify)](FAQ/EXACT_TIME.md)
+[![RAG Quickstart](https://img.shields.io/badge/Guide-RAG_Quickstart-blueviolet?style=for-the-badge&logo=markdown)](FAQ/RAG_QUICKSTART.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Presentation: PDF](https://img.shields.io/badge/Deck-Project_Presentation_PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Cognitive_Blueprint_AI_Engine.pdf)
-[![Terms of Use](https://img.shields.io/badge/Terms-Terms_of_Use-blueviolet.svg?style=for-the-badge)](TERMS_OF_USE.md)
+[![Terms of Use](https://img.shields.io/badge/Terms-Terms_of_Use-lightgrey.svg?style=for-the-badge)](TERMS_OF_USE.md)
 [![Disclaimer](https://img.shields.io/badge/Notice-Disclaimer-orange.svg?style=for-the-badge)](DISCLAIMER.md)
 > 🌐 **RapidAPI Hub**: [https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)
+> ❓ **Developer FAQ & Architecture**: [**FAQ/QUESTIONS.md**](FAQ/QUESTIONS.md) (Lifelong caching, MEGA soft limit pricing, zero data retention)
+> ⏱️ **Exact Birth Time Study**: [**FAQ/EXACT_TIME.md**](FAQ/EXACT_TIME.md) (Empirical analysis of 33 engines & precision distortion margins)
+> 🚀 **RAG Integration Quickstart**: [**FAQ/RAG_QUICKSTART.md**](FAQ/RAG_QUICKSTART.md) (How to build lifelong clinical syntheses using local dictionaries & LLMs)
 > 📑 **Project Whitepaper & Deck**: [**Cognitive_Blueprint_AI_Engine.pdf**](Cognitive_Blueprint_AI_Engine.pdf) (Executive overview, 33-engine architecture & spatiotemporal foundations)
 
 ---
@@ -331,6 +337,103 @@ Every active vector emitted by the engine carries a standardized prefix indicati
 | `VEC_OM_...` | **Operating Mode, Somatics & Restorative Prescriptions** (Criterion 5) | **Mega** |
 
 Your application or AI pipeline receives these vector codes from RapidAPI, cross-references them with the Markdown dictionaries in this repository, and generates profound, tailored guidance for your users.
+
+---
+
+## 🚀 RAG & LLM Quickstart: Building Lifelong Syntheses
+
+Integrating Cognitive Blueprint AI with modern LLMs (OpenAI GPT-4o, Anthropic Claude 3.5 Sonnet, Google Gemini, or local models) allows you to deliver deeply personalized, clinically rigorous guidance without hallucinations or generic fluff.
+
+> 📖 **Comprehensive Implementation Guide**: See the dedicated [**`FAQ/RAG_QUICKSTART.md`**](FAQ/RAG_QUICKSTART.md) for full Python & TypeScript code examples, vector database indexing, and LLM prompt templates.
+
+### 🌟 The Core RAG Concept: Grounded Decoupling
+
+```text
+┌─────────────────────────────────┐
+│ RapidAPI Calculation Engine     │ ➔ Emits lean JSON telemetry (math metrics, vector codes, alerts)
+└────────────────┬────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────┐
+│ Local Application DB / Cache    │ ➔ Permanently stored keyed by user (LIFELONG, zero repeat API calls)
+└────────────────┬────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────┐
+│ Open Markdown Dictionaries      │ ➔ Matches VEC_* in DICTIONARY/ and alerts in ALERTS/
+└────────────────┬────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────┐
+│ LLM Synthesis Engine            │ ➔ Produces 33 deep clinical reports (like EXAMPLE/nikola_tesla_interpretation/)
+└─────────────────────────────────┘
+```
+
+1. **One-Time Query**: Query `POST /v1/criterion/{1..5}` for a user profile via RapidAPI.
+2. **Lifelong Caching**: Save the returned telemetry JSON in your local database (PostgreSQL, MongoDB, Redis, or disk). Because birth coordinates never change, this blueprint is immutable for life—read from local cache indefinitely with zero recurring API costs.
+3. **Local Semantic Enrichment**: Match the active vector codes (e.g. `VEC_ID_CORE_KINETIC_BUILDER`, `VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY`) with the Markdown dictionaries in [`DICTIONARY/`](DICTIONARY/) and [`ALERTS/`](ALERTS/).
+4. **Clinical LLM Synthesis**: Feed the quantitative metrics and vector definitions into an LLM to generate profound, inquiry-driven guidance.
+5. **Real-World Benchmark**: Inspect the 33 complete synthesis files in [`EXAMPLE/nikola_tesla_interpretation/`](EXAMPLE/nikola_tesla_interpretation/) to see how raw telemetry is transformed into structured, actionable reports.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+> 📚 **Detailed FAQ Guides in [`FAQ/`](FAQ/)**:
+> - ❓ [**`FAQ/QUESTIONS.md`**](FAQ/QUESTIONS.md) — Comprehensive technical, caching & commercial Q&A
+> - ⏱️ [**`FAQ/EXACT_TIME.md`**](FAQ/EXACT_TIME.md) — Empirical precision study on the 33 engines & birth time sensitivity
+> - 🚀 [**`FAQ/RAG_QUICKSTART.md`**](FAQ/RAG_QUICKSTART.md) — Production code and architecture for RAG synthesis pipelines
+
+### 1. Are generated user blueprints lifelong, or do they expire?
+**Every generated blueprint is permanent and lifelong.**  
+Because spatiotemporal birth coordinates (date, time, latitude, longitude) are fixed points in spacetime, an individual's innate architecture, 900+ vectors, and quantitative baselines never change.  
+* **Architecture Recommendation**: Query each criterion **once per user**, store the resulting JSON payload permanently in your application's database or key-value cache (PostgreSQL, MongoDB, SQLite, Redis, etc.), and read from local cache for all subsequent user sessions. There is zero need to re-query the API for returning users.
+
+### 2. How does pricing work, and what is the MEGA plan soft limit?
+The API is available via [RapidAPI](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine) under three tiers:
+- **Free Plan**: Free access to Criterion 1 (Identity & Sovereign Architecture). Perfect for testing, prototyping, and personal exploration.
+- **Pro Plan**: Access to Criteria 1, 2, and 3 (Identity, Blocks & Shadows, Vocation & Capital).
+- **Mega Plan**: Complete, unrestricted access to all 5 Criteria (all 33 engines, 900+ active vectors, and 26 cross-engine systemic alerts).
+  - 🛡️ **Soft Limit of 2,500 Requests**: The MEGA plan includes a monthly soft quota of **2,500 requests**.
+  - 📈 **Overage Billing ($0.12 / request)**: If your application exceeds 2,500 requests within the billing month, service is **never interrupted or blocked**. Additional requests are seamlessly fulfilled at a flat rate of **$0.12 per request**. This gives production systems guaranteed uptime during viral traffic surges while maintaining predictable infrastructure expenses.
+
+### 3. How do the Markdown dictionaries in this repository work with the API?
+The RapidAPI gateway serves as a high-speed, lean calculation engine. It computes spatiotemporal mathematics in milliseconds and emits compact JSON containing:
+- Quantitative metrics (`math`)
+- Standardized phenomenon vector codes (`vectors`)
+- Systemic tension alerts (`crossEngineAlerts`)
+
+This open-source GitHub repository provides the complete, human-readable and LLM-ready semantic explanations in [`DICTIONARY/`](DICTIONARY/) and [`ALERTS/`](ALERTS/). By decoupling heavy text descriptions from API payloads, your network calls stay sub-50ms and lightweight, while you retain full flexibility to bundle, customize, or RAG-index the markdown documentation locally.
+
+### 4. Why are the 33 engines split into 5 modular criteria instead of one giant endpoint?
+Modularity protects both **application latency** and **LLM context efficiency**:
+- Dumping 33 engines, 260+ active vectors, and dozens of metrics into a single response would produce massive payloads and overwhelm LLM context windows.
+- Splitting into 5 focused criteria (`Identity`, `Blocks`, `Vocation`, `Direction`, `Operating Mode`) allows your app to request only what is relevant to the user's immediate question (e.g. query Criterion 3 for career/capital planning, or Criterion 5 for sleep/somatic recovery).
+
+### 5. Does Cognitive Blueprint AI store user data or require GDPR cookie banners?
+**Zero data retention & complete architectural amnesia.**  
+The calculation engine is entirely stateless:
+- Coordinates are processed in volatile RAM in ~15–30 ms using native mathematical and astronomical algorithms.
+- The engine has **no database, no user logs, and no persistent storage**.
+- The instant the JSON telemetry payload is returned through RapidAPI, the RAM buffer is wiped clean. We do not know, store, or track who was calculated.
+
+### 6. Where can I see a real-world example of how to use this data?
+Explore the [`EXAMPLE/`](EXAMPLE/) directory:
+- [`EXAMPLE/README.md`](EXAMPLE/README.md): Walkthrough of the end-to-end integration flow using **Nikola Tesla** as a benchmark.
+- [`EXAMPLE/nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/): Raw JSON payloads for all 5 criteria as returned by RapidAPI.
+- [`EXAMPLE/nikola_tesla_interpretation/`](EXAMPLE/nikola_tesla_interpretation/): 33 comprehensive clinical inquiry reports synthesized by feeding the raw telemetry and markdown dictionaries into an LLM.
+
+### 7. What is the exact impact of an unknown or default birth time (12:00)?
+Earth rotates 1° every 4 minutes, causing local angular axes to move continuously. Substituting a default time (such as 12:00 solar noon) does **not** guarantee an accurate clinical blueprint:
+- **🟢 4 of 33 Engines (12%) remain 100% Identical** across all 24 hours (`C1_E7` Numerology, `C1_E9` Name Signature, `C2_E6` Neural Defense, `C4_E6` Legacy Capital).
+- **🟡 24 of 33 Engines (73%) retain ~75%–85% Macro Accuracy** (Generational blocks, broad vocational calling, macro-epochs).
+- **🔴 5 of 33 Engines (15%) suffer CRITICAL Distortion (<60% accuracy)**:
+  - `C1_E1` (Sovereign Core Design & Decision Compass) drops to **~38% accuracy**!
+  - `C1_E2` (Cognitive Processing & Environment) drops to **~40% accuracy**!
+  - `C5_E1` (Sensory Intake & Nutrition) drops to **~56% accuracy**!
+
+Using a default time introduces an overall **18% to 22% distortion margin** (~50+ altered or missing vectors). If exact time is unknown, applications should flag the profile as `APPROXIMATE_TIME_MODE` and avoid presenting critical decision authority or nutritional protocols as absolute facts.  
+👉 **Read the full empirical benchmark**: [**`FAQ/EXACT_TIME.md`**](FAQ/EXACT_TIME.md)
 
 ---
 
