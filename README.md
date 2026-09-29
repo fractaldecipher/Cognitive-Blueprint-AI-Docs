@@ -1,4 +1,4 @@
-# Cognitive Blueprint AI — Public Documentation & Vector Dictionaries
+# Cognitive Blueprint AI — Public Documentation & Developer Guides
 
 > **A Navigational Beacon & Human-Centric Profiling Architecture for Next-Generation Applications & AI Mentors.**  
 > _A profound analytical foundation illuminating cognitive depth, natural rhythms, vocational alignment, and decision-making clarity—serving as a compass for authentic human potential._
@@ -6,7 +6,7 @@
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-Cognitive_Blueprint_AI_Engine-blue?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)
 [![FAQ](https://img.shields.io/badge/Docs-Developer_FAQ-informational?style=for-the-badge&logo=markdown)](FAQ/QUESTIONS.md)
 [![Time Sensitivity](https://img.shields.io/badge/Study-Exact_Time_Impact-critical?style=for-the-badge&logo=clockify)](FAQ/EXACT_TIME.md)
-[![RAG Quickstart](https://img.shields.io/badge/Guide-RAG_Quickstart-blueviolet?style=for-the-badge&logo=markdown)](FAQ/RAG_QUICKSTART.md)
+[![LLM Integration](https://img.shields.io/badge/Guide-LLM_Integration-blueviolet?style=for-the-badge&logo=markdown)](FAQ/LLM_INTEGRATION.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Presentation: PDF](https://img.shields.io/badge/Deck-Project_Presentation_PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Cognitive_Blueprint_AI_Engine.pdf)
 [![Terms of Use](https://img.shields.io/badge/Terms-Terms_of_Use-lightgrey.svg?style=for-the-badge)](TERMS_OF_USE.md)
@@ -14,7 +14,7 @@
 > 🌐 **RapidAPI Hub**: [https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)
 > ❓ **Developer FAQ & Architecture**: [**FAQ/QUESTIONS.md**](FAQ/QUESTIONS.md) (Lifelong caching, MEGA soft limit pricing, zero data retention)
 > ⏱️ **Exact Birth Time Study**: [**FAQ/EXACT_TIME.md**](FAQ/EXACT_TIME.md) (Empirical analysis of 33 engines & precision distortion margins)
-> 🚀 **RAG Integration Quickstart**: [**FAQ/RAG_QUICKSTART.md**](FAQ/RAG_QUICKSTART.md) (How to build lifelong clinical syntheses using local dictionaries & LLMs)
+> 🚀 **LLM Integration Guide**: [**FAQ/LLM_INTEGRATION.md**](FAQ/LLM_INTEGRATION.md) (Direct LLM context injection without RAG overhead)
 > 📑 **Project Whitepaper & Deck**: [**Cognitive_Blueprint_AI_Engine.pdf**](Cognitive_Blueprint_AI_Engine.pdf) (Executive overview, 33-engine architecture & spatiotemporal foundations)
 
 ---
@@ -27,7 +27,7 @@ In modern technology, user personalization is often reduced to superficial quest
 
 By mapping spatiotemporal birth coordinates into deep, multi-dimensional behavioral, cognitive, and constitutional vectors, the engine provides an unchanging **"Innate Architectural Map"**. 
 
-This repository acts as the **mentoring guide and interpretative compass** for that architecture. It provides creators, developers, and AI designers with the language, dictionaries, and alert protocols needed to build software that respects human boundaries, fosters genuine self-knowledge, and offers guidance rooted in authentic wisdom rather than mechanical pressure.
+This repository acts as the **developer guide and integration compass** for that architecture. It provides creators, developers, and AI designers with OpenAPI specifications, empirical guides, and benchmark implementation profiles to build software that respects human boundaries, fosters genuine self-knowledge, and offers guidance rooted in authentic wisdom rather than mechanical pressure.
 
 All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine), giving builders complete freedom to craft supportive interfaces, life mentors, and transformative tools.
 
@@ -57,15 +57,15 @@ All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.co
               │
               ▼
 ┌───────────────────────────┐
-│ Standardized JSON Payload │ ➔ Active Vector Codes (e.g. VEC_ID_GEN_SACRAL, VEC_VOC_DIRECT_SALES)
-│                           │ ➔ Continuous Quantitative Indicators (0.00 – 1.00 / 0 – 100)
-│                           │ ➔ Systemic Navigational Alerts (e.g. SPLIT_DEFINITION_BRIDGE_TENSION)
+│ Enriched JSON Payload     │ ➔ Active Vector Codes & Numeric Indicators (0.00–1.00 / 0–100)
+│ (RapidAPI Gateway)        │ ➔ Self-Contained Clinical Phenomenon & Mentor Advice Inline
+│                           │ ➔ Cross-Engine Alerts & 3-Step Remediation Protocols Inline
 └─────────────┬─────────────┘
               │
               ▼
 ┌───────────────────────────┐
-│ Application & LLM Context │ ➔ Match vector codes against Dictionaries in this repo
-│ Prompt Enrichment Pipeline│ ➔ Inject deep, respectful mentor interpretations into agent context
+│ Application & LLM Context │ ➔ Direct Context Injection (Zero local dictionary joins needed)
+│ Prompt Enrichment Pipeline│ ➔ Lifelong local caching for zero recurring API costs
 └─────────────┬─────────────┘
               │
               ▼
@@ -82,8 +82,8 @@ All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.co
 
 1. **Query Engine via RapidAPI**: Client application sends `POST /v1/criterion/{1-5}` with subject spatiotemporal birth coordinates (date, time, latitude, longitude, timezone offset).
 2. **Receive Deterministic Telemetry**: Engine computes active standardized vector codes (`VEC_...`) and curated numeric metrics (0–100 scores, deliberation latencies, ratios).
-3. **Cross-Reference Public Dictionaries**: Client matches emitted vector codes against the open Markdown dictionaries in this repository (`DICTIONARY/` and `ALERTS/`).
-4. **Context Injection for LLMs**: Client injects the grounded telemetry and dictionary mentor notes directly into the system prompt of LLMs (Claude, GPT-4, Llama) for hyper-personalized, consistent user guidance.
+3. **Automatic Semantic Enrichment**: Every active vector and alert is pre-interpreted directly within the response payload (phenomenon, mentor advice, clinical interpretation, actionable advice, systemic friction, and alert remediation steps).
+4. **Direct Context Injection for LLMs**: Client injects the grounded telemetry and pre-interpreted mentor notes directly into the system prompt of LLMs (Claude, GPT-4, Llama) for hyper-personalized, consistent user guidance without complex local lookups.
 
 ---
 
@@ -245,11 +245,11 @@ _Daily living sanctuary: nervous system restoration, sensory harmony, restorativ
 
 ## ⚡ The Sovereign Cross-Engine Alert Network
 
-### 🏮 The Repository as a Navigational Beacon (Latarnia & Drogowskaz)
+### 🏮 The Engine as a Navigational Beacon (Latarnia & Drogowskaz)
 
 Just as a maritime lighthouse warns navigators of hidden sandbars, rocky shoals, and treacherous reefs without ever judging the ship, the **Cross-Engine Alert Network** (`crossEngineAlerts`) illuminates points of internal friction, chronic strain, and systemic blind spots before they lead to burnout or crises.
 
-The 26 canonical alerts are thoroughly documented in the [`ALERTS/`](ALERTS/) directory. Each alert provides a complete, dignified 3-part mentoring framework:
+The 26 canonical alerts are calculated across criteria and delivered directly inline within API payloads. Each alert provides a complete, dignified 3-part mentoring framework:
 
 1. **System Tension / Mechanism**: The underlying energetic, psychological, or situational dynamic detected between distinct engines (e.g., an ambitious mental drive outrunning a sensitive, contemplative nervous system).
 2. **Mentor's Diagnosis**: A compassionate, insightful reflection detailing how this tension manifests in everyday decisions, relationships, or creative work.
@@ -259,36 +259,31 @@ The 26 canonical alerts are thoroughly documented in the [`ALERTS/`](ALERTS/) di
 
 ## 🔬 Real-World Implementation Showcase: Nikola Tesla
 
-To demonstrate how creators translate raw engine telemetry into deep, humane intelligence, this repository includes an extensive benchmark profile for **Nikola Tesla** (`1856-07-10 00:00`, Smiljan, Croatia).
+To demonstrate how creators translate engine telemetry into deep, humane intelligence, this repository includes an extensive benchmark profile for **Nikola Tesla** (`1856-07-10 00:00`, Smiljan, Croatia).
 
 Tesla serves as an ideal historical example of a brilliant, highly sensitive individual whose life reflected extraordinary gifts alongside severe systemic friction (extreme nocturnal strain, financial vulnerabilities, and intense nervous sensitivity).
 
 ```text
 EXAMPLE/
-├── README.md                          <-- Integration walkthrough & architectural philosophy
+├── README.md                          <-- Integration walkthrough & architecture
 ├── Tesla_AI_Clinical_Benchmark.pdf    <-- Comprehensive Illustrated Clinical Deck & Historical Fact Validation
-├── nikola_tesla_json/                 <-- Modular raw API responses (Criteria 1 through 5)
-│   ├── criterion_1.json               # Identity & Sovereign Architecture (45 vectors, Coherence: 60)
-│   ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 vectors, 2 alerts, Coherence: 30)
-│   ├── criterion_3.json               # Vocation, Craft & Capital Architecture (50 vectors, 1 alert, Coherence: 75)
-│   ├── criterion_4.json               # Direction, Evolution & Navigation (62 vectors, 5 alerts, Coherence: 88)
-│   └── criterion_5.json               # Operating Mode & Bio-Prescriptions (48 vectors, 1 alert, Coherence: 60)
-└── nikola_tesla_interpretation/       <-- 33 Deep Clinical Inquiry Syntheses (The Mentoring Benchmark)
-    ├── 01_c1_core_life_role_decision_compass.md
-    ...
-    └── 33_c5_sensory_reset_acoustic_quietude.md
+└── nikola_tesla_json/                 <-- Modular enriched API responses (Criteria 1 through 5)
+    ├── criterion_1.json               # Identity & Sovereign Architecture (45 vectors, Coherence: 60)
+    ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 vectors, 2 alerts, Coherence: 30)
+    ├── criterion_3.json               # Vocation, Craft & Capital Architecture (50 vectors, 1 alert, Coherence: 75)
+    ├── criterion_4.json               # Direction, Evolution & Navigation (62 vectors, 5 alerts, Coherence: 88)
+    └── criterion_5.json               # Operating Mode & Bio-Prescriptions (48 vectors, 1 alert, Coherence: 60)
 ```
 
 > 📑 **Illustrated Historical Benchmark Presentation**:  
 > For a visual slide-by-slide case study examining Nikola Tesla's life milestones, historical biographical facts, and computational vector correlations, view the dedicated deck:  
 > 👉 [**`EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf`**](EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf)
 
-### From Raw Telemetry to Mentoring Wisdom
+### From Enriched Telemetry to Mentoring Wisdom
 
-1. **The Raw API Output** ([`nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/)): Provides clean numeric indicators (0–100 scores, ratios, hour spans) alongside emitted vector keys.
-2. **The Knowledge Dictionaries** ([`DICTIONARY/`](DICTIONARY/)): Supply the rich archetypal meaning, developmental context, and potential traps for each vector.
-3. **The Alert Protocols** ([`ALERTS/`](ALERTS/)): Supply the mentor's diagnosis and actionable remedies when conflicting circuits produce acute strain.
-4. **The Synthesized Inquiry Reports** ([`nikola_tesla_interpretation/`](EXAMPLE/nikola_tesla_interpretation/)): Show how an application or AI agent synthesizes these elements into profound, purpose-driven guidance that truly understands the human behind the numbers.
+1. **The Enriched API Output** ([`nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/)): Provides clean numeric indicators (0–100 scores, ratios, hour spans) alongside inline vector interpretations (`phenomenon`, `mentorsMessage`, `clinicalInterpretation`, `actionableAdvice`, `systemFriction`).
+2. **Self-Contained Alert Protocols**: Supplies the mentor's diagnosis, systemic tension mechanism, and actionable remedies when conflicting circuits produce acute strain.
+3. **Direct Prompt Injection**: Shows how an application or AI agent injects these elements directly into system prompts for profound, purpose-driven guidance that truly understands the human behind the numbers.
 
 ---
 
@@ -324,16 +319,13 @@ Because Cognitive Blueprint AI calculates an enduring constitutional foundation 
 
 ## 📖 Repository Structure & Integration
 
-This repository hosts the **Public Knowledge Base, OpenAPI Specifications, Vector Dictionaries, and Benchmark Profiles** for the Cognitive Blueprint AI Engine.
+This repository hosts the **Public Developer Guides, FAQ, Architectural Studies, and Implementation Benchmarks** for the Cognitive Blueprint AI Engine.
 
-- **[`DICTIONARY/`](DICTIONARY/)**: Complete vector interpretation dictionaries for all 33 computational engines across the 5 criteria:
-  - `criterion-1-identity/` (Engines 1–9)
-  - `criterion-2-blocks/` (Engines 1–6)
-  - `criterion-3-vocation/` (Engines 1–6)
-  - `criterion-4-direction/` (Engines 1–6)
-  - `criterion-5-operating/` (Engines 1–6)
-- **[`ALERTS/`](ALERTS/)**: Complete diagnostic interpretations for all 26 canonical cross-engine alerts (`criterion_1_alerts_interpretation.md` through `criterion_5_alerts_interpretation.md`).
-- **[`EXAMPLE/`](EXAMPLE/)**: Real-world implementation benchmark featuring **Nikola Tesla** (`EXAMPLE/README.md`) with 5 modular JSON files and 33 complete engine synthesis documents.
+- **[`EXAMPLE/`](EXAMPLE/)**: Real-world implementation benchmark featuring **Nikola Tesla** (`EXAMPLE/README.md`) with 5 modular enriched JSON files and an illustrated historical presentation deck.
+- **[`FAQ/`](FAQ/)**: Technical developer guides, empirical precision studies, and integration quickstarts:
+  - [`FAQ/QUESTIONS.md`](FAQ/QUESTIONS.md): Technical Q&A, lifelong caching, pricing, data privacy.
+  - [`FAQ/EXACT_TIME.md`](FAQ/EXACT_TIME.md): Empirical study on birth time sensitivity across all 33 engines.
+  - [`FAQ/LLM_INTEGRATION.md`](FAQ/LLM_INTEGRATION.md): Step-by-step guide for direct LLM context injection with zero RAG or vector database overhead.
 - **[RapidAPI Interactive Gateway](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)**: Live endpoint console, key generation, and subscription tiers.
 
 <p align="center">
@@ -352,21 +344,21 @@ Every active vector emitted by the engine carries a standardized prefix indicati
 | `VEC_DIR_...` | **Direction, Evolution & Strategic Navigation** (Criterion 4) | **Mega** |
 | `VEC_OM_...` | **Operating Mode, Somatics & Restorative Prescriptions** (Criterion 5) | **Mega** |
 
-Your application or AI pipeline receives these vector codes from RapidAPI, cross-references them with the Markdown dictionaries in this repository, and generates profound, tailored guidance for your users.
+Your application or AI pipeline receives these vector codes and their complete semantic interpretations directly from RapidAPI, enabling immediate generation of profound, tailored guidance for your users.
 
 ---
 
-## 🚀 RAG & LLM Quickstart: Building Lifelong Syntheses
+## 🚀 Direct LLM Integration: Building Lifelong Syntheses
 
 Integrating Cognitive Blueprint AI with modern LLMs (OpenAI GPT-4o, Anthropic Claude 3.5 Sonnet, Google Gemini, or local models) allows you to deliver deeply personalized, clinically rigorous guidance without hallucinations or generic fluff.
 
-> 📖 **Comprehensive Implementation Guide**: See the dedicated [**`FAQ/RAG_QUICKSTART.md`**](FAQ/RAG_QUICKSTART.md) for full Python & TypeScript code examples, vector database indexing, and LLM prompt templates.
+> 📖 **Comprehensive Implementation Guide**: See the dedicated [**`FAQ/LLM_INTEGRATION.md`**](FAQ/LLM_INTEGRATION.md) for full Python & TypeScript code examples, prompt templates, and lifelong local caching architecture.
 
-### 🌟 The Core RAG Concept: Grounded Decoupling
+### 🌟 The Core Concept: Direct Context Injection (Zero RAG Overhead)
 
 ```text
 ┌─────────────────────────────────┐
-│ RapidAPI Calculation Engine     │ ➔ Emits lean JSON telemetry (math metrics, vector codes, alerts)
+│ RapidAPI Calculation Engine     │ ➔ Emits fully interpreted, enriched JSON telemetry
 └────────────────┬────────────────┘
                  │
                  ▼
@@ -376,20 +368,15 @@ Integrating Cognitive Blueprint AI with modern LLMs (OpenAI GPT-4o, Anthropic Cl
                  │
                  ▼
 ┌─────────────────────────────────┐
-│ Open Markdown Dictionaries      │ ➔ Matches VEC_* in DICTIONARY/ and alerts in ALERTS/
-└────────────────┬────────────────┘
-                 │
-                 ▼
-┌─────────────────────────────────┐
-│ LLM Synthesis Engine            │ ➔ Produces 33 deep clinical reports (like EXAMPLE/nikola_tesla_interpretation/)
+│ LLM Synthesis & UI Pipelines    │ ➔ Direct Context Injection (Phenomenon, Mentor Message, Alerts)
 └─────────────────────────────────┘
 ```
 
 1. **One-Time Query**: Query `POST /v1/criterion/{1..5}` for a user profile via RapidAPI.
 2. **Lifelong Caching**: Save the returned telemetry JSON in your local database (PostgreSQL, MongoDB, Redis, or disk). Because birth coordinates never change, this blueprint is immutable for life—read from local cache indefinitely with zero recurring API costs.
-3. **Local Semantic Enrichment**: Match the active vector codes (e.g. `VEC_ID_CORE_KINETIC_BUILDER`, `VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY`) with the Markdown dictionaries in [`DICTIONARY/`](DICTIONARY/) and [`ALERTS/`](ALERTS/).
-4. **Clinical LLM Synthesis**: Feed the quantitative metrics and vector definitions into an LLM to generate profound, inquiry-driven guidance.
-5. **Real-World Benchmark**: Inspect the 33 complete synthesis files in [`EXAMPLE/nikola_tesla_interpretation/`](EXAMPLE/nikola_tesla_interpretation/) to see how raw telemetry is transformed into structured, actionable reports.
+3. **Direct Inline Intelligence**: Access pre-interpreted clinical descriptions, mentor advice, actionable guidance, and alert remediations directly from the cached payload.
+4. **Clinical LLM Synthesis**: Feed the quantitative metrics and vector definitions into an LLM system prompt to generate profound, inquiry-driven guidance without complex local joins.
+5. **Real-World Benchmark**: Inspect the enriched JSON payloads in [`EXAMPLE/nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/) to see how the API delivers self-contained clinical depth.
 
 ---
 
@@ -398,7 +385,7 @@ Integrating Cognitive Blueprint AI with modern LLMs (OpenAI GPT-4o, Anthropic Cl
 > 📚 **Detailed FAQ Guides in [`FAQ/`](FAQ/)**:
 > - ❓ [**`FAQ/QUESTIONS.md`**](FAQ/QUESTIONS.md) — Comprehensive technical, caching & commercial Q&A
 > - ⏱️ [**`FAQ/EXACT_TIME.md`**](FAQ/EXACT_TIME.md) — Empirical precision study on the 33 engines & birth time sensitivity
-> - 🚀 [**`FAQ/RAG_QUICKSTART.md`**](FAQ/RAG_QUICKSTART.md) — Production code and architecture for RAG synthesis pipelines
+> - 🚀 [**`FAQ/LLM_INTEGRATION.md`**](FAQ/LLM_INTEGRATION.md) — Production code and architecture for direct LLM context injection
 
 ### 1. Are generated user blueprints lifelong, or do they expire?
 **Every generated blueprint is permanent and lifelong.**  
@@ -413,13 +400,13 @@ The API is available via [RapidAPI](https://rapidapi.com/fractaldeciphersyndicat
   - 🛡️ **Soft Limit of 2,500 Requests**: The MEGA plan includes a monthly soft quota of **2,500 requests**.
   - 📈 **Overage Billing ($0.12 / request)**: If your application exceeds 2,500 requests within the billing month, service is **never interrupted or blocked**. Additional requests are seamlessly fulfilled at a flat rate of **$0.12 per request**. This gives production systems guaranteed uptime during viral traffic surges while maintaining predictable infrastructure expenses.
 
-### 3. How do the Markdown dictionaries in this repository work with the API?
-The RapidAPI gateway serves as a high-speed, lean calculation engine. It computes spatiotemporal mathematics in milliseconds and emits compact JSON containing:
-- Quantitative metrics (`math`)
-- Standardized phenomenon vector codes (`vectors`)
-- Systemic tension alerts (`crossEngineAlerts`)
+### 3. How are vector interpretations and systemic alerts delivered?
+Interpretations and alerts are delivered **directly inline within the API JSON response**. The engine automatically enriches every activated vector and alert with its complete clinical guidance:
+- **Quantitative metrics** (`math`): Clean numeric indicators, scores (0–100), and latency thresholds.
+- **Enriched Vectors** (`vectors`): Each vector includes `phenomenon`, `mentorsMessage`, `clinicalInterpretation`, `actionableAdvice`, and `systemFriction` (compensatory conditioning to avoid).
+- **Systemic Alerts** (`crossEngineAlerts`): Each alert includes `title`, `systemTension`, `mentorsDiagnosis`, and concrete `strategicRemediation` protocols.
 
-This open-source GitHub repository provides the complete, human-readable and LLM-ready semantic explanations in [`DICTIONARY/`](DICTIONARY/) and [`ALERTS/`](ALERTS/). By decoupling heavy text descriptions from API payloads, your network calls stay sub-50ms and lightweight, while you retain full flexibility to bundle, customize, or RAG-index the markdown documentation locally.
+Developers receive all semantic interpretation text directly in the payload, eliminating the need to parse external dictionary files or build local lookup mappings. Proprietary ontological dictionaries remain secure on-server.
 
 ### 4. Why are the 33 engines split into 5 modular criteria instead of one giant endpoint?
 Modularity protects both **application latency** and **LLM context efficiency**:
@@ -436,8 +423,8 @@ The calculation engine is entirely stateless:
 ### 6. Where can I see a real-world example of how to use this data?
 Explore the [`EXAMPLE/`](EXAMPLE/) directory:
 - [`EXAMPLE/README.md`](EXAMPLE/README.md): Walkthrough of the end-to-end integration flow using **Nikola Tesla** as a benchmark.
-- [`EXAMPLE/nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/): Raw JSON payloads for all 5 criteria as returned by RapidAPI.
-- [`EXAMPLE/nikola_tesla_interpretation/`](EXAMPLE/nikola_tesla_interpretation/): 33 comprehensive clinical inquiry reports synthesized by feeding the raw telemetry and markdown dictionaries into an LLM.
+- [`EXAMPLE/nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/): Modular enriched JSON payloads for all 5 criteria as returned by RapidAPI.
+- [`EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf`](EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf): Comprehensive visual slide deck validating the computational telemetry against verified historical facts and life events of Nikola Tesla.
 
 ### 7. What is the exact impact of an unknown or default birth time (12:00)?
 Earth rotates 1° every 4 minutes, causing local angular axes to move continuously. Substituting a default time (such as 12:00 solar noon) does **not** guarantee an accurate clinical blueprint:
@@ -455,7 +442,7 @@ Using a default time introduces an overall **18% to 22% distortion margin** (~50
 
 ## ⚖️ Legal, Terms of Use & Ethical Policy
 
-The Cognitive Blueprint AI framework, its documentation, dictionaries, alerts, and API telemetry are provided strictly for **educational, exploratory, and personal contemplation purposes on an "AS IS" and "AS AVAILABLE" basis**.
+The Cognitive Blueprint AI framework, its documentation, benchmark examples, specifications, and API telemetry are provided strictly for **educational, exploratory, and personal contemplation purposes on an "AS IS" and "AS AVAILABLE" basis**.
 
 ### 🛡️ Acceptable Use & Ethical Boundaries
 - **Permitted Applications**: Personal self-exploration, AI agent context enrichment, coaching/mentorship support, productivity systems, holistic wellness protocols, and architectural research.
@@ -469,7 +456,7 @@ The Cognitive Blueprint AI framework, its documentation, dictionaries, alerts, a
 
 ## 📄 License
 
-This repository and its documentation, specifications, vector dictionaries, and benchmark examples are open source and available under the [MIT License](LICENSE).
+This repository and its documentation, specifications, integration guides, and benchmark examples are open source and available under the [MIT License](LICENSE).
 
 Copyright (c) 2026 Fractal Decipher Syndicate.
 

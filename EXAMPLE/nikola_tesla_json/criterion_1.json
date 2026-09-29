@@ -16,26 +16,119 @@
     "title": "Identity & Sovereign Architecture",
     "totalVectors": 45,
     "coherenceScore": 60,
+    "crossEngineAlertsCount": 0,
     "crossEngineAlerts": [],
     "dominantTheme": "KINETIC_BUILDER_ARCHITECTURE",
     "engines": [
       {
         "engineId": "engine_1",
         "description": "What is my core life role, and through what natural compass do I make authentic decisions?",
+        "totalVectors": 13,
         "vectors": [
-          "VEC_ID_CORE_KINETIC_BUILDER",
-          "VEC_ID_DECISION_EMOTIONAL_WAVE",
-          "VEC_ID_AUTONOMY_BRIDGE_REQUIRED",
-          "VEC_ID_AVATAR_MASK_KINETIC_PIONEER",
-          "VEC_ID_ZENITH_LEGACY_INSTITUTIONAL_BUILDER",
-          "VEC_ID_STRATEGY_TO_RESPOND",
-          "VEC_ID_STEERSMAN_MERCURIAL_SYNAPSE",
-          "VEC_ID_STEERSMAN_DIGNITY_SOVEREIGN",
-          "VEC_ID_DYNAMICS_ELEMENT_EARTH_STRUCTURAL",
-          "VEC_ID_DYNAMICS_MODALITY_CARDINAL_INITIATOR",
-          "VEC_ID_DYNAMICS_POLARITY_YIN_CONTAINED",
-          "VEC_ID_DYNAMICS_FACADE_CORE_POLARIZED_TENSION",
-          "VEC_ID_DYNAMICS_STELLIUM_CONVERGENCE"
+          {
+            "vectorId": "VEC_ID_CORE_KINETIC_BUILDER",
+            "phenomenon": "Sustained Life-Force Mastery",
+            "mentorsMessage": "Your vitality is a sacred river meant to nourish what you truly love. Do not pour your precious life into dry sands out of duty; wait for the deep, joyful hum that says: this is mine to build.",
+            "clinicalInterpretation": "Your constitution contains an innate regenerative stamina designed for dedicated, step-by-step creation and craftsmanship. When you engage with projects that bring you deep satisfaction, your vitality sustains focused effort until mastery and fulfillment are achieved.",
+            "actionableAdvice": "Navigate life through authentic visceral response rather than mental pressure. Let meaningful requests, problems, or opportunities present themselves, then listen to your inner vitality before committing your energy. Engage your energy fully in satisfying endeavors each day to support peaceful sleep and deep rejuvenation.",
+            "systemFriction": "Never commit your energy purely out of mental guilt, external expectations, or fear. Dedicating your vital stamina to unfulfilling pursuits leads to chronic exhaustion and frustration."
+          },
+          {
+            "vectorId": "VEC_ID_DECISION_EMOTIONAL_WAVE",
+            "phenomenon": "Wave Deliberation Authority",
+            "mentorsMessage": "Ride the wave of feeling with patient grace. The crest brings enthusiasm and the trough brings doubt, but only in the quiet calm that follows does your true wisdom speak.",
+            "clinicalInterpretation": "Your emotional and decision-making clarity unfolds like a natural wave. You operate with a built-in need for time: spontaneous impulses in the immediate moment rarely reflect your complete truth. True clarity emerges by observing how an option feels across the highs, lows, and quiet valleys of your emotional cycle.",
+            "actionableAdvice": "Give yourself permission to pause before major commitments. Communicate with calm confidence: _\"This is very interesting; I will sleep on it and give you my thoughtful answer tomorrow.\"_ Wait until calm, neutral clarity settles in.",
+            "systemFriction": "Avoid impulsive commitments made at the euphoric peak or despondent low of an emotional wave. Decisions made under intense transient feelings often lead to regret once your natural balance returns."
+          },
+          {
+            "vectorId": "VEC_ID_AUTONOMY_BRIDGE_REQUIRED",
+            "phenomenon": "Split Autonomous Circuit Interface",
+            "mentorsMessage": "Do not mistake a gap in your circuit for a lack in your soul. You are whole as you are; step into relationships from conscious choice rather than the ache of needing to be completed.",
+            "clinicalInterpretation": "Your cognitive and energetic architecture is configured as two distinct, independent neurological processing streams that do not communicate continuously within your own body. You operate with a built-in electromagnetic receptor gap, creating an unconscious systemic urge to seek relational bridges or catalytic environments to connect your circuits into a unified stream.",
+            "actionableAdvice": "Recognize that feelings of internal incompleteness are purely mechanical rather than personal flaws. Do not make permanent life decisions solely to maintain a bridge; enter collaborative partnerships with conscious autonomy rather than dependency.",
+            "systemFriction": "Avoid rushing into codependent agreements or tolerating draining environments simply because an external person or group mechanically bridges your dual circuits."
+          },
+          {
+            "vectorId": "VEC_ID_AVATAR_MASK_KINETIC_PIONEER",
+            "phenomenon": "Dynamic Breakthrough Demeanor",
+            "mentorsMessage": "You carry the spark that kindles new dawn. Move forward with bold courage, but pause to turn back and light the lanterns so others may safely follow.",
+            "clinicalInterpretation": "Your outer presence projects a courageous, forward-moving impulse designed to initiate action, break through stagnation, and bring fresh vitality to dormant spaces.",
+            "actionableAdvice": "Clearly communicate your direction to those around you before launching major moves, ensuring understanding and natural alignment.",
+            "systemFriction": "Avoid reckless impulsiveness, misdirecting your assertive energy, or creating unnecessary conflict out of mere impatience."
+          },
+          {
+            "vectorId": "VEC_ID_ZENITH_LEGACY_INSTITUTIONAL_BUILDER",
+            "phenomenon": "Enduring Architecture & Principled Mastery",
+            "mentorsMessage": "Erect pillars of integrity and principled service that withstand storms. Let wisdom and empathy guide your hand, keeping human dignity at the center of every structure.",
+            "clinicalInterpretation": "Your vocational calling is to build sturdy pillars of societal strength, bringing integrity, discipline, and wise stewardship to large-scale endeavors.",
+            "actionableAdvice": "Develop long-range visions with patience and dedication, guiding teams and institutions toward steady, dignified excellence.",
+            "systemFriction": "Avoid cold emotional detachment, rigid authoritarianism, or sacrificing personal warmth for external status and titles."
+          },
+          {
+            "vectorId": "VEC_ID_STRATEGY_TO_RESPOND",
+            "phenomenon": "Receptive Vitality & Visceral Resonance",
+            "mentorsMessage": "Wait for life to come to you with its questions and needs. When your whole being responds with an unmistakable hum of vitality, you will move mountains effortlessly.",
+            "clinicalInterpretation": "Your energy and creative power flow most abundantly in direct response to life. Rather than forcing momentum through anxious mental effort, your true vitality awakens when engaging with real-world questions, invitations, meaningful problems, and genuine opportunities.",
+            "actionableAdvice": "Immerse yourself in rich environments and listen closely to your authentic bodily response. When an opportunity resonates with genuine inner enthusiasm, your stamina and joy are boundless.",
+            "systemFriction": "Cease pushing into initiatives driven solely by mental pressure or fear of missing out. Forcing commitments without inner resonance exhausts your vitality and brings fatigue."
+          },
+          {
+            "vectorId": "VEC_ID_STEERSMAN_MERCURIAL_SYNAPSE",
+            "phenomenon": "Inquisitive Analytical Mind",
+            "mentorsMessage": "Let your intellect weave understanding out of chaos. Keep your mind supple and clear by stepping away from noisy chatter into restorative silence.",
+            "clinicalInterpretation": "Your guiding intelligence is marked by quick wit, articulate communication, and the capacity to synthesize complex information into clear, accessible wisdom.",
+            "actionableAdvice": "Nourish your intellect with enriching study and meaningful conversation. Keep your mind calm and centered through regular pauses from digital information overload.",
+            "systemFriction": "Avoid mental restlessness and endless overthinking. Practice mindful presence to allow your mind to rest in deep tranquility."
+          },
+          {
+            "vectorId": "VEC_ID_STEERSMAN_DIGNITY_SOVEREIGN",
+            "phenomenon": "Sovereign Inner Authority",
+            "mentorsMessage": "Hold your crown with gentle hands. Sovereignty is not unyielding pride, but the quiet courage to remain true to your ethical center when all around you waver.",
+            "clinicalInterpretation": "Your core decision-making apparatus operates with profound inner sovereignty, self-sufficiency, and natural ethical authority, instinctively resisting superficial compromises.",
+            "actionableAdvice": "Stand firm in your authentic standards. You are blessed with an unshakeable inner compass; do not dilute your vision merely to please insecure critics.",
+            "systemFriction": "Avoid aloofness or dismissing constructive feedback from trusted collaborators. True sovereignty is gracious, humble, and compassionate."
+          },
+          {
+            "vectorId": "VEC_ID_DYNAMICS_ELEMENT_EARTH_STRUCTURAL",
+            "phenomenon": "Structural Materialization Dynamic",
+            "mentorsMessage": "There is quiet dignity in the stone that holds the arch. Trust the patient unfolding of your work, and allow life's gentle seasons to soften any stubbornness in your stride.",
+            "clinicalInterpretation": "Your operational baseline is anchored in grounded realism, tangible craftsmanship, and steady manifestation. You navigate life with common sense, respecting physical resources, practical routines, and durable foundations.",
+            "actionableAdvice": "Build your endeavors patiently and methodically. Make time for body awareness, contact with nature, and clear appreciation of tangible milestones.",
+            "systemFriction": "Avoid stubborn rigidity or resisting necessary renewal out of comfort or fear of the unknown."
+          },
+          {
+            "vectorId": "VEC_ID_DYNAMICS_MODALITY_CARDINAL_INITIATOR",
+            "phenomenon": "Pioneering Catalytic Energy",
+            "mentorsMessage": "You carry the breath of early spring that breaks the winter frost. Plant your fresh seeds with joy, and welcome trusted hands to tend the garden as it grows.",
+            "clinicalInterpretation": "Your nature carries an innate impulse for initiating new cycles, breaking through inertia, and launching meaningful endeavors. You feel most alive when starting fresh chapters and opening new frontiers.",
+            "actionableAdvice": "Focus your talents on conceptualizing, launching, and inspiring new projects; collaborate with steady stabilizers to maintain routines once the initial momentum is established.",
+            "systemFriction": "Avoid abandoning projects prematurely out of restlessness or forcing new beginnings when existing structures simply need patient cultivation."
+          },
+          {
+            "vectorId": "VEC_ID_DYNAMICS_POLARITY_YIN_CONTAINED",
+            "phenomenon": "Inward Reflective Receptivity",
+            "mentorsMessage": "There is profound power in stillness. Never apologize for moving at your own reflective depth; what ripens quietly in the dark bears the richest fruit.",
+            "clinicalInterpretation": "Your nature is tuned for deep listening, thoughtful integration, and quiet inner mastery. You digest experiences thoroughly and attract opportunities through patience and depth.",
+            "actionableAdvice": "Allow opportunities to approach you naturally; take time to contemplate options deeply before responding with calm, purposeful clarity.",
+            "systemFriction": "Avoid holding back out of self-doubt or feeling pressured to match the noisy, fast-paced expectations of external environments."
+          },
+          {
+            "vectorId": "VEC_ID_DYNAMICS_FACADE_CORE_POLARIZED_TENSION",
+            "phenomenon": "Creative Internal Polarity",
+            "mentorsMessage": "The tension within you is the archer's bow; it is not broken, it is drawn. Trust that this internal contrast is the very force that propels your insight into enduring wisdom.",
+            "clinicalInterpretation": "A dynamic creative tension exists between how you appear to the world and who you are in your innermost core. This internal contrast fuels continuous personal growth, deep self-awareness, and resilience under pressure.",
+            "actionableAdvice": "Channel this inner contrast into dynamic artistic expression, problem-solving, and personal breakthroughs rather than seeing it as a contradiction.",
+            "systemFriction": "Avoid chronic self-doubt, internal conflict, or projecting your inner friction onto relationships with partners."
+          },
+          {
+            "vectorId": "VEC_ID_DYNAMICS_STELLIUM_CONVERGENCE",
+            "phenomenon": "Concentrated Focal Mastery",
+            "mentorsMessage": "When many rays of sunlight converge through a single lens, pure fire is kindled. Embrace your singular mastery, and do not apologize for refusing to scatter your light.",
+            "clinicalInterpretation": "Your cognitive and creative architecture contains an intense focal convergence where multiple talents align in a single life domain. This creates an extraordinary depth of insight, intensity, and focus, naturally guiding you toward deep specialization.",
+            "actionableAdvice": "Embrace your specialized passion. You are built for profound depth rather than superficial generality; honor your role as a true master in your chosen arena.",
+            "systemFriction": "Avoid forcing yourself to fit the mold of an all-around generalist. Be mindful not to completely overlook basic everyday balance while immersed in your deep focus."
+          }
         ],
         "math": {
           "throughputScore": {
@@ -143,12 +236,48 @@
       {
         "engineId": "engine_2",
         "description": "How do I naturally process reality, and what environment and calling truly nourish my mind and spirit?",
+        "totalVectors": 5,
         "vectors": [
-          "VEC_ID_ENV_SHORES",
-          "VEC_ID_MOTIVATION_INNOCENCE",
-          "VEC_ID_PROC_BRAIN_ACTIVE_STRATEGIC",
-          "VEC_ID_PROC_VIEW_PERIPHERAL_HOLISTIC",
-          "VEC_ID_PROC_MIND_STRATEGIC_LOGICAL"
+          {
+            "vectorId": "VEC_ID_ENV_SHORES",
+            "phenomenon": "Thresholds of Change & Living Interfaces",
+            "mentorsMessage": "Stand gracefully where earth meets sea. You are an intuitive bridge between different worlds; let the tides of change inspire your deepest adaptations.",
+            "clinicalInterpretation": "You come alive at the boundary where two distinct worlds, cultures, or landscapes meet—such as coastlines where land touches water, or interdisciplinary fields where diverse disciplines converge. You possess the natural intuition of a bridge-builder, perceiving incoming trends and shifts before they reach the mainstream.",
+            "actionableAdvice": "Spend time near bodies of water, coastlines, or borderlands, and position your life's work at the creative intersection of complementary fields. Embrace your role as one who stands gracefully between different worlds.",
+            "systemFriction": "Avoid rigid, monolithic environments where life is entirely uniform and no fresh breezes or transitions ever arrive; static sameness dulls your natural adaptability and vision."
+          },
+          {
+            "vectorId": "VEC_ID_MOTIVATION_INNOCENCE",
+            "phenomenon": "Pure Presence & Unattached Witnessing",
+            "mentorsMessage": "Your purest strength lies in humble, agenda-free presence. You do not need to compete or conquer; simply standing in quiet, loving truth restores balance to all.",
+            "clinicalInterpretation": "Your deepest peace and natural influence emanate from serene presence, humility, and the absence of manipulative agendas. You make your most profound impact not by forcing outcomes or playing power games, but by showing up as a calm, transparent witness who brings equilibrium to those around you.",
+            "actionableAdvice": "Step back from exhausting rivalries and the compulsion to control outcomes. Allow events to unfold with natural grace; your serene, non-judgmental presence itself brings clarity and peace.",
+            "systemFriction": "Beware of being seduced into unnecessary power struggles, competitive jealousy, or trying to impose your will on others. Striving to dominate disrupts your inner tranquility."
+          },
+          {
+            "vectorId": "VEC_ID_PROC_BRAIN_ACTIVE_STRATEGIC",
+            "phenomenon": "Methodical Focus & Linear Clarity",
+            "mentorsMessage": "Take pleasure in building clear, steady steps toward your goal. Keep your thoughts orderly and grounded in daily rhythm, giving your mind a peaceful container.",
+            "clinicalInterpretation": "Your mind processes life through sequential, structured contemplation. You thrive when organizing thoughts with clarity, holding specific facts in order, and building step-by-step pathways toward understanding and accomplishment.",
+            "actionableAdvice": "Honor your need for grounding rhythms: enjoy nourishing meals regularly to maintain steady energy, and embrace journals, outlines, and structured plans to give your thoughts a harmonious container.",
+            "systemFriction": "Avoid chaotic, completely unstructured environments that offer no anchor. Without clear focus or proper physical rest, your mind can experience exhaustion and scattered overwhelm."
+          },
+          {
+            "vectorId": "VEC_ID_PROC_VIEW_PERIPHERAL_HOLISTIC",
+            "phenomenon": "Panoramic Perception & Holistic Vision",
+            "mentorsMessage": "Trust your panoramic awareness to sense the living whole. You feel the interconnected web of reality; do not force yourself into rigid boxes that stifle your vision.",
+            "clinicalInterpretation": "Your perceptual awareness is naturally broad, gentle, and panoramic. You perceive reality through the interconnected relationship between things, effortlessly picking up the atmosphere, subtle emotional cues, and holistic context of your surroundings.",
+            "actionableAdvice": "Trust your wide-angle awareness when entering new situations. Rather than straining to fixate on minute details, allow yourself to absorb the living whole, perceiving patterns that escape narrow scrutiny.",
+            "systemFriction": "Avoid forcing yourself to stare for hours at tiny spreadsheets or fragmented data points without respite; rigid visual fixation strains your body and clouds your natural intuitive clarity."
+          },
+          {
+            "vectorId": "VEC_ID_PROC_MIND_STRATEGIC_LOGICAL",
+            "phenomenon": "Discerning Logic & Purposeful Architecture",
+            "mentorsMessage": "Channel your sharp analytical gifts into purposeful blueprints that serve life. When evening comes, lay down the drafting pen and let your heart rest in silence.",
+            "clinicalInterpretation": "Your mind is naturally endowed with clear deductive reasoning, discerning logic, and the ability to map practical pathways. You excel at turning abstract concepts into coherent blueprints, discerning cause and effect with calm lucidity.",
+            "actionableAdvice": "Put your insights into writing, diagrams, and purposeful roadmaps. Engage your mind with constructive, creative problems so its clarity serves your life rather than turning inward into restless overthinking.",
+            "systemFriction": "Avoid endless cycles of worrying about future scenarios. Establish a peaceful evening wind-down ritual to quiet mental problem-solving and allow your mind to rest in calm serenity."
+          }
         ],
         "math": {
           "strategicCount": {
@@ -176,9 +305,24 @@
       {
         "engineId": "engine_3",
         "description": "What is my authentic path of learning, self-mastery, and sharing wisdom with the world?",
+        "totalVectors": 2,
         "vectors": [
-          "VEC_ID_LEARNING_EVOLVING_MASTER",
-          "VEC_ID_KNOWLEDGE_HERMETIC_ALCHEMY"
+          {
+            "vectorId": "VEC_ID_LEARNING_EVOLVING_MASTER",
+            "phenomenon": "The Lived Journey & Exemplar of Resilience",
+            "mentorsMessage": "Every scar you carry is an initiation into deeper compassion. Embrace the journey that forged you, and let your lived resilience be a lighthouse for weary travelers.",
+            "clinicalInterpretation": "Your life unfolds in meaningful chapters: an exploratory earlier phase marked by intense trial, learning, and adaptability, which matures into a grounded role as a wise, steady guide for others. Every challenge you have faced has deepened your capacity for empathy and leadership.",
+            "actionableAdvice": "Embrace your past mistakes and unexpected detours as the very soil from which your wisdom has grown. Share the lessons of your journey with warmth, helping others navigate their own trials with hope.",
+            "systemFriction": "Avoid carrying regret or bitterness regarding earlier hardships. Your scars are your authentic credentials of resilience and compassion."
+          },
+          {
+            "vectorId": "VEC_ID_KNOWLEDGE_HERMETIC_ALCHEMY",
+            "phenomenon": "Essential First Principles & Inner Transformation",
+            "mentorsMessage": "Distill life's hardships until you uncover the pure gold of truth. True alchemy takes root when great understanding is lived with quiet simplicity and boundless heart.",
+            "clinicalInterpretation": "Your mind seeks first-principles truth and the transformative wisdom that connects the microcosm to the macrocosm. You are rarely satisfied with superficial explanations; you look for the underlying principles of life. You have the gift to take confusion or broken endeavors, extract their essential lessons, and distill them into enduring clarity.",
+            "actionableAdvice": "Set aside time for deep contemplation, quiet study, and the distillation of your insights. Ground your understanding in living, applicable wisdom that truly uplifts and clarifies everyday life.",
+            "systemFriction": "Beware of intellectual isolation or the temptation to feel superior because of deep theoretical knowledge. True wisdom remains humble, accessible, and loving."
+          }
         ],
         "math": {
           "dominantScore": {
@@ -196,10 +340,32 @@
       {
         "engineId": "engine_4",
         "description": "How does my mind perceive time, orient toward challenges, and navigate contemplative thresholds?",
+        "totalVectors": 3,
         "vectors": [
-          "VEC_ID_OPS_NIGHT_COVERT",
-          "VEC_ID_MIND_PIONEER_FORWARD",
-          "VEC_ID_NEURAL_IMPULSE_HEALING"
+          {
+            "vectorId": "VEC_ID_OPS_NIGHT_COVERT",
+            "phenomenon": "Nocturnal Contemplation & Quiet Sanctuary",
+            "mentorsMessage": "Cherish the quiet sanctuaries of the night where sacred silence speaks. Guard your private hours; in the stillness of retreat, your deepest craft is born.",
+            "clinicalInterpretation": "Your spirit finds its deepest inspiration, peace, and creative depth during quiet evening hours or within intimate, confidential sanctuaries. You do your most sacred inner work away from public scrutiny, where silence allows your soul to listen deeply to subtle truths.",
+            "actionableAdvice": "Guard quiet evening hours for writing, prayer, creative arts, or deep study. Create a cozy, soft-lit sanctuary free from harsh glare and loud distractions to nurture your inner world.",
+            "systemFriction": "Avoid forcing your creative life into noisy, high-pressure open environments; constant public scrutiny overwhelms your sensitivity and drains your creative inspiration."
+          },
+          {
+            "vectorId": "VEC_ID_MIND_PIONEER_FORWARD",
+            "phenomenon": "Forward Vision & Intuitive Leaps",
+            "mentorsMessage": "Let your swift vision dance along the edge of tomorrow. Pioneer the fresh horizon with joy, pausing only to ground your heart in present breath.",
+            "clinicalInterpretation": "Your mind moves with swift, intuitive lightness, naturally anticipating coming changes and future possibilities before they are apparent to others. You learn and understand through active engagement and experimentation, adjusting your direction gracefully as new insights appear.",
+            "actionableAdvice": "Take a few conscious, deep breaths before committing to long-term responsibilities to ensure your body and emotions are fully aligned with your quick mind. Channel your agile vision into pioneering fresh, creative horizons.",
+            "systemFriction": "Avoid becoming trapped in repetitive, backward-looking administrative tasks; suppressing your forward-looking curiosity breeds restlessness and nervous frustration."
+          },
+          {
+            "vectorId": "VEC_ID_NEURAL_IMPULSE_HEALING",
+            "phenomenon": "Restorative Instinct & Somatic Wisdom",
+            "mentorsMessage": "Listen to the gentle intelligence of your body. When fatigue whispers, rest without guilt; your natural capacity to heal begins within yourself.",
+            "clinicalInterpretation": "Your body possesses an acute, intuitive wisdom that senses exhaustion, imbalance, or distress before the mind can rationalize it. You are naturally endowed with a restorative presence; your touch, voice, and calm awareness naturally soothe tension and guide living beings back toward wholeness and peace.",
+            "actionableAdvice": "Regard physical fatigue, aches, or intuitive discomfort as gentle, sacred guidance. Give yourself permission to rest, sleep deeply, and commune with quiet nature whenever your energy needs renewal.",
+            "systemFriction": "Avoid overriding your body's need for rest with artificial stimulants or sheer willpower; ignoring physical signals leads to exhaustion and diminishes your natural healing vitality."
+          }
         ],
         "math": {
           "divisionIndex": {
@@ -227,12 +393,48 @@
       {
         "engineId": "engine_5",
         "description": "What is my unshakeable moral compass, my soul's core impulse, and what protects me from self-betrayal?",
+        "totalVectors": 5,
         "vectors": [
-          "VEC_ID_INTEGRITY_ETHICAL_DRIFT_RISK",
-          "VEC_ID_INTEGRITY_SOUL_ANCHOR",
-          "VEC_ID_SOUL_INTENT_DYNAMIC_TRANSMISSION",
-          "VEC_ID_SOUL_BASELINE_DISCERNED_PURITY",
-          "VEC_ID_SOUL_INDICATOR_MARS"
+          {
+            "vectorId": "VEC_ID_INTEGRITY_ETHICAL_DRIFT_RISK",
+            "phenomenon": "Awareness of Incremental Compromise",
+            "mentorsMessage": "Guard the quiet integrity of your conscience as your most precious treasure. Walk away with peace from any shortcut that asks you to trade your soul's honor for fleeting gain.",
+            "clinicalInterpretation": "Your discernment recognizes subtle moments where exhaustion, fear of lack, or the temptation of easy shortcuts can tempt you into small compromises. This vector serves as a protective guardian, reminding you that small concessions steadily erode self-respect and inner peace.",
+            "actionableAdvice": "Maintain clear ethical boundaries in all personal and professional commitments. If an opportunity offers immediate gain but leaves a bitter taste in your conscience, walk away with peaceful resolve.",
+            "systemFriction": "Avoid rationalizing micro-compromises; true peace of mind is an priceless treasure that cannot be bought by convenience."
+          },
+          {
+            "vectorId": "VEC_ID_INTEGRITY_SOUL_ANCHOR",
+            "phenomenon": "Sovereign Conscience & Inner Light",
+            "mentorsMessage": "Trust the still, small voice of your conscience above the roar of the crowd. Even if you must stand alone for a time, your inner light will keep your footing secure.",
+            "clinicalInterpretation": "You are blessed with an unshakeable connection to an inner moral compass that stands firm against social pressure, dogma, and herd mentality. Your integrity answers to a higher truth, allowing you to walk with dignity even when walking alone.",
+            "actionableAdvice": "Trust the quiet voice of your conscience in moments of decision. Disengage from political manipulation and peer pressure; your strength comes from living in harmony with your authentic truth.",
+            "systemFriction": "Avoid self-righteous isolation or looking down upon others who struggle. Let your moral clarity be expressed through kindness and humble leadership."
+          },
+          {
+            "vectorId": "VEC_ID_SOUL_INTENT_DYNAMIC_TRANSMISSION",
+            "phenomenon": "Radiant Understanding & Connecting Minds",
+            "mentorsMessage": "Weave bonds of understanding across divided shores. Use your vibrant voice to awaken hearts, inspire hope, and remind humanity of our shared journey.",
+            "clinicalInterpretation": "Your soul's purpose is to break down barriers between people, communicate illuminating ideas, and serve as an inspiring bridge between diverse worlds. You bring freshness and understanding wherever rigidity has set in.",
+            "actionableAdvice": "Use your gift of expression to articulate uplifting, unifying visions. Help people find common ground through open, compassionate dialogue.",
+            "systemFriction": "Avoid scattering your energy across trivial gossip or superficial distractions; dedicate your voice to what is enduringly meaningful."
+          },
+          {
+            "vectorId": "VEC_ID_SOUL_BASELINE_DISCERNED_PURITY",
+            "phenomenon": "Simple Order & Wholesome Harmony",
+            "mentorsMessage": "Create simple spaces of beauty and sacred order where your spirit can breathe. Offer yourself the gentle grace you so generously extend to your surroundings.",
+            "clinicalInterpretation": "Your emotional serenity is intimately tied to harmony, cleanliness, and thoughtful order in your daily environment. Chaotic, cluttered spaces create internal tension, while simple, well-tended surroundings bring tranquility to your spirit.",
+            "actionableAdvice": "Cultivate simple, nourishing daily rituals and keep your home spaces peaceful and uncluttered. Express your love through helpful, humble acts of service.",
+            "systemFriction": "Avoid perfectionistic anxiety or becoming distressed when life is untidy; cultivate gentle self-compassion and remember that life is alive, not an immaculate museum."
+          },
+          {
+            "vectorId": "VEC_ID_SOUL_INDICATOR_MARS",
+            "phenomenon": "Disciplined Strength & Peaceful Protection",
+            "mentorsMessage": "Transform the fire of your vitality into a shield of peace. Use your strength to uphold justice and protect life, mastering your impulses through quiet nobility.",
+            "clinicalInterpretation": "Your central life lesson focuses on mastering raw impulse, physical vitality, and assertiveness. Your evolutionary path is to transform aggressive impulses into calm, disciplined strength that protects life and stands for justice without bitterness.",
+            "actionableAdvice": "Dedicate your physical drive to constructive service, healthy discipline, and resolving difficulties peacefully. Use your courage to shield others rather than conquer.",
+            "systemFriction": "Avoid impatience, explosive anger, and lingering in disputes; strength guided by anger leads to regret."
+          }
         ],
         "math": {
           "dharmaBackboneStrength": {
@@ -300,12 +502,48 @@
       {
         "engineId": "engine_6",
         "description": "What subtle constitutional tendencies, somatic rhythms, and inner stamina shape my lived experience?",
+        "totalVectors": 5,
         "vectors": [
-          "VEC_ID_SUBSTRATE_BIO_SERIAL_SOVEREIGN",
-          "VEC_ID_SUBSTRATE_CELLULAR_STAMINA_HIGH",
-          "VEC_ID_SUBSTRATE_HIDDEN_FIRE_IMPULSE",
-          "VEC_ID_SUBSTRATE_CRITICAL_CHOKEPOINT",
-          "VEC_ID_SUBSTRATE_CRANIAL_NEURAL_LOAD"
+          {
+            "vectorId": "VEC_ID_SUBSTRATE_BIO_SERIAL_SOVEREIGN",
+            "phenomenon": "Unique Physical Constitution & Bio-Individuality",
+            "mentorsMessage": "Revere the unique wisdom of your own body. Walk your own path of nourishment and rest, knowing that true vitality blossoms when you honor your distinct physical nature.",
+            "clinicalInterpretation": "Your physical body carries a rare, distinct individual constitution that does not conform to one-size-fits-all formulas. Your dietary, sleep, and environmental needs are uniquely your own. Recognizing your body's authentic individuality is the key to thriving health.",
+            "actionableAdvice": "Study your own body with curiosity and kindness. Discover what foods, rhythms, and climates genuinely bring you energy, rather than following rigid generic trends or collective expectations.",
+            "systemFriction": "Avoid forcing yourself into extreme diets or generic routines that feel unnatural to your body; honoring your unique physical needs preserves lifelong vitality."
+          },
+          {
+            "vectorId": "VEC_ID_SUBSTRATE_CELLULAR_STAMINA_HIGH",
+            "phenomenon": "Robust Vital Resilience & Natural Stamina",
+            "mentorsMessage": "Your natural endurance is a generous gift meant for noble works. Nourish your stamina with wholesome rest, directing your strength where it brings life and joy.",
+            "clinicalInterpretation": "You are endowed with a strong physical constitution and natural endurance that can withstand demanding endeavors and recover quickly from exertion. Your body naturally renews itself when provided with wholesome care and purposeful activity.",
+            "actionableAdvice": "Channel your natural stamina into meaningful, creative, and physically rewarding projects. Maintain regular exercise and balanced rest to keep your vitality flowing freely.",
+            "systemFriction": "Avoid physical stagnation or staying in toxic environments simply because you have the endurance to tolerate them; your strength is meant to build a good life, not endure unnecessary burdens."
+          },
+          {
+            "vectorId": "VEC_ID_SUBSTRATE_HIDDEN_FIRE_IMPULSE",
+            "phenomenon": "Latent Courage & Inner Breakthrough Spark",
+            "mentorsMessage": "Trust the warm spark of courage that slumbers within your spirit. When the hour arrives, let your resolve shine forth to protect, heal, and begin anew.",
+            "clinicalInterpretation": "Beneath any calm or gentle exterior lies a resilient spark of inner fire. When circumstances truly demand it, you can summon remarkable courage, decisive resolve, and spirited energy to overcome obstacles and protect what is precious.",
+            "actionableAdvice": "Tap into this inner fire when you need to start fresh, break through hesitation, or stand up for what is right. Channel this energy with love and noble intention.",
+            "systemFriction": "Avoid bottling up your enthusiasm or frustration until it erupts suddenly; express your feelings and vitality with honest, timely gentleness."
+          },
+          {
+            "vectorId": "VEC_ID_SUBSTRATE_CRITICAL_CHOKEPOINT",
+            "phenomenon": "Thresholds of Surrender & Mandatory Rest",
+            "mentorsMessage": "Surrender to the pause when your body asks for quiet. Rest is not a loss of time, but the sacred soil in which your future strength quietly takes root.",
+            "clinicalInterpretation": "There are natural seasons in your life when your body calls for an intentional pause. In these moments, attempting to push through with sheer willpower yields diminishing returns. Recognizing these restorative thresholds allows your physical and emotional reserves to renew themselves.",
+            "actionableAdvice": "When you sense deep fatigue or unexpected delays, do not fight them. Treat them as a sacred invitation to rest, sleep, reflect, and allow life's natural tide to turn before resuming active effort.",
+            "systemFriction": "Avoid obstinately forcing projects forward when your body is signaling a need for rest; fighting natural pauses creates exhaustion and delays your progress."
+          },
+          {
+            "vectorId": "VEC_ID_SUBSTRATE_CRANIAL_NEURAL_LOAD",
+            "phenomenon": "Active Mental Energy & Need for Mental Ease",
+            "mentorsMessage": "Rest your weary brow in the soft quiet of evening darkness. Unplug from the noisy currents of information, allowing gentle silence to wash over your thoughts.",
+            "clinicalInterpretation": "Your mind is naturally vivid, rapid, and full of thoughts, which can sometimes create a feeling of mental fullness, sensory sensitivity, or tension around the temples and forehead. When exposed to too much stimuli, information, or screen glare, your nervous system longs for quiet darkness and silence.",
+            "actionableAdvice": "Cultivate evening quiet hours with soft lighting and zero screens. Walk barefoot on the earth or spend time in nature to help ground excess mental energy downward into the body.",
+            "systemFriction": "Avoid working late on glowing screens or continuously consuming news and media before sleep; continuous mental stimulation induces restless nights and morning fatigue."
+          }
         ],
         "math": {
           "cellularStaminaIndex": {
@@ -483,14 +721,64 @@
       {
         "engineId": "engine_7",
         "description": "What overarching archetypal journey, life lessons, and soul longings shape my personal pilgrimage?",
+        "totalVectors": 7,
         "vectors": [
-          "VEC_ID_NUM_LIFE_PATH_1_SOVEREIGN_INITIATOR",
-          "VEC_ID_NUM_EXPRESSION_MASTER_11",
-          "VEC_ID_NUM_SOUL_URGE_MASTER_22",
-          "VEC_ID_MYTHIC_ARCHETYPE_RADIANT_SOVEREIGN",
-          "VEC_ID_MYTHIC_SHADOW_CHALLENGE",
-          "VEC_ID_NAME_PHONETIC_FRICTION",
-          "VEC_ID_REFLEX_ACTIVE_LEADER"
+          {
+            "vectorId": "VEC_ID_NUM_LIFE_PATH_1_SOVEREIGN_INITIATOR",
+            "phenomenon": "The Pioneering Leader & Independent Trailblazer",
+            "mentorsMessage": "Pioneer untrodden paths with courage and humble independence. Lead by the uprightness of your example, empowering others to find their own authentic strength.",
+            "clinicalInterpretation": "Your life's path is to discover and walk your own authentic path with courage and independence. You are called to be an initiator who sparks new beginnings and leads by personal example rather than following the crowd.",
+            "actionableAdvice": "Trust your inner vision and take courageous, responsible initiative. Lead with generosity, encouraging others to find their own independence.",
+            "systemFriction": "Avoid aggressive domination or isolating yourself out of stubborn pride; true leadership inspires rather than coerces."
+          },
+          {
+            "vectorId": "VEC_ID_NUM_EXPRESSION_MASTER_11",
+            "phenomenon": "The Visionary Messenger & Inspiring Voice",
+            "mentorsMessage": "Step forward as a gentle messenger of illumination and hope. Ground your intuitive insights in humble love, elevating hearts with your inspiring vision.",
+            "clinicalInterpretation": "Your life's expressive vocation is to serve as an inspiring messenger of spiritual clarity, intuitive insight, and higher perspective. Your creative work and speech illuminate new possibilities for others.",
+            "actionableAdvice": "Share your inspiring thoughts through writing, speaking, or artistry. Ensure you ground your visions with thoughtful preparation and gentle humility.",
+            "systemFriction": "Avoid nervous stage fright or trying to force your message; trust that truth resonates naturally with those ready to hear it."
+          },
+          {
+            "vectorId": "VEC_ID_NUM_SOUL_URGE_MASTER_22",
+            "phenomenon": "Soul Longing to Build Lasting Good",
+            "mentorsMessage": "Nurture your soul's yearning to build lasting monuments of goodness. Take delight in the patient, faithful process of turning noble dreams into earthly blessings.",
+            "clinicalInterpretation": "Your innermost heart feels an intrinsic need to leave the world better, more orderly, and more beautiful than you found it, through tangible works that endure.",
+            "actionableAdvice": "Dedicate your heart to meaningful, long-term creations. Find joy in the patient process of shaping reality for good.",
+            "systemFriction": "Avoid impatience or despair over slow progress; the most enduring trees take the longest to grow."
+          },
+          {
+            "vectorId": "VEC_ID_MYTHIC_ARCHETYPE_RADIANT_SOVEREIGN",
+            "phenomenon": "Warm Radiance & Transparent Joy",
+            "mentorsMessage": "Shine with the joyous warmth of the morning sun. Warm all who cross your threshold with generous humility, lighting up the room with authentic grace.",
+            "clinicalInterpretation": "Your spirit shines with warmth, creative joy, and open-hearted sincerity. Like the sun, your presence dispels darkness and doubt, filling rooms with vitality, self-confidence, and goodwill.",
+            "actionableAdvice": "Share your joy and creative enthusiasm generously. Uplift others by highlighting their strengths, lighting up your surroundings with authentic warmth.",
+            "systemFriction": "Avoid seeking constant admiration or letting pride obscure your vision; true noble radiance serves with humility."
+          },
+          {
+            "vectorId": "VEC_ID_MYTHIC_SHADOW_CHALLENGE",
+            "phenomenon": "The Inner Blindspot & Invitation to Wholeness",
+            "mentorsMessage": "Embrace the hidden corners of your heart with unconditional grace. What once brought friction becomes your greatest teacher when met with self-forgiveness.",
+            "clinicalInterpretation": "Your journey includes an unintegrated shadow pattern where disowned fears or unacknowledged needs create recurrent friction. Bringing loving awareness to this blindspot transforms it into your greatest ally.",
+            "actionableAdvice": "Notice what irritates you most in others; gently ask what it reveals about your own unintegrated needs. Embrace all of yourself with compassionate understanding.",
+            "systemFriction": "Avoid blaming outside circumstances for inner friction; welcoming your shadow with love restores your wholeness."
+          },
+          {
+            "vectorId": "VEC_ID_NAME_PHONETIC_FRICTION",
+            "phenomenon": "Overcoming Misunderstanding & Demonstrating Truth",
+            "mentorsMessage": "Let the patient excellence of your daily deeds outshine all misunderstanding. Walk with quiet kindness; true character is recognized by the fruits it bears.",
+            "clinicalInterpretation": "Sometimes your authentic intentions are initially misunderstood by casual observers, requiring you to clarify your heart through lived actions rather than quick explanations.",
+            "actionableAdvice": "Let your consistent character, kindness, and quiet actions speak for you. Communicate with extra clarity, warmth, and patient simplicity.",
+            "systemFriction": "Avoid becoming defensive or argumentative when misunderstood; patient, loving consistency always wins hearts over time."
+          },
+          {
+            "vectorId": "VEC_ID_REFLEX_ACTIVE_LEADER",
+            "phenomenon": "Courageous Initiative Impulse",
+            "mentorsMessage": "Step forward with courageous initiative to clear the path. Let your natural leadership be fueled by warmth, inspiring others through humble bravery.",
+            "clinicalInterpretation": "Your natural impulse is to take self-directed action, meet challenges directly, and lead the way forward when others hesitate.",
+            "actionableAdvice": "Use your natural initiative to clear obstacles and pioneer constructive solutions. Inspire others through your courage.",
+            "systemFriction": "Avoid impatience with slower tempos; lead with encouraging warmth rather than frustration."
+          }
         ],
         "math": {
           "masterNumberCount": {
@@ -528,9 +816,24 @@
       {
         "engineId": "engine_8",
         "description": "What higher archetypal ideals, subtle currents, and conscious aspirations guide my presence?",
+        "totalVectors": 2,
         "vectors": [
-          "VEC_ID_STELLAR_HONOR",
-          "VEC_ID_STELLAR_ANALYTICAL_SYNAPSE"
+          {
+            "vectorId": "VEC_ID_STELLAR_HONOR",
+            "phenomenon": "Noble Purpose & Inspiring Leadership",
+            "mentorsMessage": "True dignity is not seized by force, but earned through living in accord with your deepest values. Stand tall with courage and genuine humility.",
+            "clinicalInterpretation": "Marked by executive presence, generous ambition, and a natural capacity to inspire confidence in others. You are energized by noble causes, leading by example and rallying people around common aspirational objectives.",
+            "actionableAdvice": "Subordinate personal prestige to a mission larger than yourself. Exercise authority through open-hearted fairness, transparency, and protective care for those who rely on your leadership.",
+            "systemFriction": "Impatience, prideful stubbornness, and aggressive self-assertion. Trying to force outcomes through sheer dominance creates resentment and undermines the very authority you seek to uphold."
+          },
+          {
+            "vectorId": "VEC_ID_STELLAR_ANALYTICAL_SYNAPSE",
+            "phenomenon": "Master of Dual Intellectual Synthesis",
+            "mentorsMessage": "The mind is a dual instrument. Balance rigorous logic with intuitive depth, synthesize raw facts into living wisdom, and speak truth without fear.",
+            "clinicalInterpretation": "Functions as a natural synthesizer of disparate ideas, possessing refined linguistic nuance, analytical precision, and the capacity to translate dense, multi-layered phenomena into clear, persuasive, and practical models.",
+            "actionableAdvice": "Harmonize analytical reason with emotional intelligence. Channel your synthesis into lasting written frameworks, strategic clarity, and thoughtful mentorship that elevates collective comprehension.",
+            "systemFriction": "Hyper-rationalization and mental cynicism. Avoid hiding behind intellectual acrobatics to evade emotional vulnerability, and do not let overthinking paralyze your capacity to act."
+          }
         ],
         "math": {
           "alignmentsCount": {
@@ -568,10 +871,32 @@
       {
         "engineId": "engine_9",
         "description": "What vibrational signature, social resonance, and tangible footprint does my expressed identity carry in the world?",
+        "totalVectors": 3,
         "vectors": [
-          "VEC_ID_TRANSMISSION_POSITION_SEAL",
-          "VEC_ID_TRANSMISSION_RESONANCE_DELEGATED",
-          "VEC_ID_NAME_INTEGRITY_VERIFIED"
+          {
+            "vectorId": "VEC_ID_TRANSMISSION_POSITION_SEAL",
+            "phenomenon": "Sovereign Presence & Inner Authority",
+            "mentorsMessage": "Authentic authority is never demanded through force; it is an undeniable quality of inner being. Stand quietly in your truth, and the world will adjust to your presence.",
+            "clinicalInterpretation": "An unmistakable sense of personal sovereignty and non-negotiable self-respect. You do not easily surrender your principles or yield to peer pressure, serving as a stable reference point in any environment.",
+            "actionableAdvice": "Embody self-directed authority without needing external titles or approval. Stand firm in your ethical foundation with quiet poise, allowing your consistency to inspire others.",
+            "systemFriction": "Defensive authoritarianism and prideful rigidity; authentic sovereignty needs no aggression or intimidation—striving to dominate undermines the very respect you command."
+          },
+          {
+            "vectorId": "VEC_ID_TRANSMISSION_RESONANCE_DELEGATED",
+            "phenomenon": "Empathetic Attunement & Diplomatic Bridge",
+            "mentorsMessage": "Your heart and voice are attuned to subtle listening. By meeting others where they are and honoring their lived experience, you dissolve tension and build bridges of trust.",
+            "clinicalInterpretation": "Remarkable emotional resonance and diplomatic sensitivity. You possess the gift of intuitive listening, easily understanding different viewpoints and creating safe spaces for authentic connection.",
+            "actionableAdvice": "Use your empathetic attunement in diplomacy, counseling, negotiation, and mediation. Listen deeply to uncover underlying human needs before guiding conversations toward constructive solutions.",
+            "systemFriction": "Chameleon syndrome and emotional exhaustion; avoid absorbing others' distress or constantly adapting yourself to the point of losing your own identity and exhausting your reserves."
+          },
+          {
+            "vectorId": "VEC_ID_NAME_INTEGRITY_VERIFIED",
+            "phenomenon": "Natural Coherence of Outward Expression",
+            "mentorsMessage": "When your outward identity and authentic inner voice resonate in unison, your words carry natural weight, effortless clarity, and immediate trust.",
+            "clinicalInterpretation": "High alignment between your authentic inner core and outward social expression. Your spoken and written expressions encounter minimal social resistance; people readily perceive your sincerity, understanding your message with clarity and organic trust.",
+            "actionableAdvice": "Use this natural clarity of expression to articulate vision, lead initiatives, and speak truth with economy of words. When you speak with calm honesty, your presence naturally clarifies the social environment around you.",
+            "systemFriction": "Taking natural clarity for granted or becoming careless with your speech; avoid unnecessary, impulsive shifts in your outward identity or public voice that could introduce artificial static."
+          }
         ],
         "math": {
           "materialMultiplier": {

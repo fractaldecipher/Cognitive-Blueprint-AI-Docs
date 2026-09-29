@@ -16,24 +16,99 @@
     "title": "Operating Dynamics, Somatics & Energy Protocols",
     "totalVectors": 48,
     "coherenceScore": 60,
+    "crossEngineAlertsCount": 1,
     "crossEngineAlerts": [
-      "CELLULAR_ACOUSTIC_DEFENSE_REQUIRED"
+      {
+        "alertCode": "CELLULAR_ACOUSTIC_DEFENSE_REQUIRED",
+        "title": "Mandatory Cellular & Acoustic Environmental Defense",
+        "systemTension": "Severe sensory dissonance and acoustic fatigue detected (Zodiac Degree Frequency Dissonance / High Open Center Auditory Sensitivity). The physical environment contains chaotic, low-frequency noise pollution—urban traffic, hum of fluorescent lights, background chatter, or open-plan office commotion—that actively disrupts cellular coherence and prefrontal cortex processing. The body responds with subtle sympathetic nervous system activation, elevated baseline cortisol, and rapid cognitive exhaustion.",
+        "mentorsDiagnosis": "Your nervous system has the sensitivity of a high-end studio microphone, but you are working inside a noisy factory. This ambient noise pollution is draining 30-40% of your cognitive energy every day without your conscious awareness, manifesting as mysterious late-afternoon fatigue and brain fog.",
+        "strategicRemediation": [
+          "Active Acoustic Isolation: Wear high-grade Active Noise-Canceling (ANC) headphones or custom acoustic earplugs whenever working in unshielded environments.",
+          "Studio Soundproofing: Install acoustic dampening panels, heavy curtains, and solid doors in your primary office sanctuary.",
+          "Acoustic Bio-Prescriptions: Play targeted 528 Hz, Alpha/Theta binaural beats, or white/pink noise streams to mask environmental dissonance and entrain neural focus."
+        ]
+      }
     ],
     "dominantTheme": "SOMATIC_GROUNDING_AND_CELLULAR_PRESERVATION",
     "engines": [
       {
         "engineId": "engine_1",
         "description": "How does my body and mind uniquely digest nutrition, information, and sensory stimuli, and what environments best protect my peace, vitality, and cognitive clarity?",
+        "totalVectors": 9,
         "vectors": [
-          "VEC_OM_DIET_SOLAR_DAY_DINING",
-          "VEC_OM_SENSORY_ABSORPTION_HIGH",
-          "VEC_OM_COGNITIVE_STRATEGIC_FOCUSED",
-          "VEC_OM_DATA_INTAKE_HIGH_BANDWIDTH",
-          "VEC_OM_INFORMATION_DENSITY_HIGH",
-          "VEC_OM_ENVIRONMENT_SHORES",
-          "VEC_OM_WORKSPACE_HYBRID_SANCTUARY",
-          "VEC_OM_DIGESTION_DIRECT_FAST",
-          "VEC_OM_PROCESSING_EFFICIENCY_HIGH"
+          {
+            "vectorId": "VEC_OM_DIET_SOLAR_DAY_DINING",
+            "phenomenon": "Dietary & Sensory Rhythm: Daylight Nourishment & Circadian Energy",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_SENSORY_ABSORPTION_HIGH",
+            "phenomenon": "Sensory Intake Regimen: Acute Sensitivity & Caring for Your Senses",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_COGNITIVE_STRATEGIC_FOCUSED",
+            "phenomenon": "Cognitive Processing Mode: Clear Strategic Focus & Purposeful Synthesis",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_DATA_INTAKE_HIGH_BANDWIDTH",
+            "phenomenon": "Cognitive Processing Mode: Swift Intellectual Throughput & Direct Absorption",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_INFORMATION_DENSITY_HIGH",
+            "phenomenon": "Cognitive Processing Mode: Distilled Essence & High-Value Knowledge",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_ENVIRONMENT_SHORES",
+            "phenomenon": "Environmental Resonance: Waterlines & Living Thresholds",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_WORKSPACE_HYBRID_SANCTUARY",
+            "phenomenon": "Environmental Resonance: Dual-Space Harmony (Quiet Sanctuary & Creative Hub)",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_DIGESTION_DIRECT_FAST",
+            "phenomenon": "Digestion & Energy: Simple, Single-Stream Focus & Direct Absorption",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_PROCESSING_EFFICIENCY_HIGH",
+            "phenomenon": "Digestion & Clarity: Rapid Integration & Joyful Expression",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "sensoryAbsorptionEfficiency": {
@@ -101,13 +176,56 @@
       {
         "engineId": "engine_2",
         "description": "How do I honor my need for deep nightly restoration, shield my sensitive subconscious mind during sleep, and wake up genuinely refreshed and centered in my true self?",
+        "totalVectors": 6,
         "vectors": [
-          "VEC_OM_SLEEP_ISOLATION_RADIUS_3M",
-          "VEC_OM_NOCTURNAL_DEFENSE_ACTIVATION_HIGH",
-          "VEC_OM_NOCTURNAL_FEEDING_LOOP",
-          "VEC_OM_SUBCONSCIOUS_REPROGRAMMING_RESISTANT",
-          "VEC_OM_SENSORY_CUTOFF_22H",
-          "VEC_OM_OFF_DUTY_SANCTUARY_ACTIVE"
+          {
+            "vectorId": "VEC_OM_SLEEP_ISOLATION_RADIUS_3M",
+            "phenomenon": "Sleep Hygiene: Dedicated Sleeping Space & Generous Spatial Buffers",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_NOCTURNAL_DEFENSE_ACTIVATION_HIGH",
+            "phenomenon": "Subconscious Rest: Natural Subconscious Shielding & Peaceful Dreams",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_NOCTURNAL_FEEDING_LOOP",
+            "phenomenon": "Subconscious Rest: Digestive Calm for Peaceful Nighttime Sleep",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_SUBCONSCIOUS_REPROGRAMMING_RESISTANT",
+            "phenomenon": "Subconscious Rest: Natural Inner Discernment & Integrity Core",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_SENSORY_CUTOFF_22H",
+            "phenomenon": "Evening Sanctuary: Evening Rest Boundary by 22:00",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_OFF_DUTY_SANCTUARY_ACTIVE",
+            "phenomenon": "Evening Sanctuary: Complete Separation of Work and Rest",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "nocturnalDrainIndex": {
@@ -185,14 +303,64 @@
       {
         "engineId": "engine_3",
         "description": "What is my authentic energetic constitution, when do my natural peak focus windows open during the day, and how do I nurture sustainable physical vitality without burnout?",
+        "totalVectors": 7,
         "vectors": [
-          "VEC_OM_METABOLIC_HYBRID_ADAPTIVE",
-          "VEC_OM_ELEMENT_WATER_DOMINANT",
-          "VEC_OM_PEAK_FOCUS_WINDOW_AFTERNOON",
-          "VEC_OM_CONSTITUTION_FIRE_WATER",
-          "VEC_OM_STRUCTURAL_STABILITY_HIGH",
-          "VEC_OM_DEEP_WORK_ENDURANCE_PROTOCOL",
-          "VEC_OM_EXERCISE_AFTERNOON_PEAK"
+          {
+            "vectorId": "VEC_OM_METABOLIC_HYBRID_ADAPTIVE",
+            "phenomenon": "Metabolic Archetype: Adaptive Rhythm & Season-Responsive Energy",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_ELEMENT_WATER_DOMINANT",
+            "phenomenon": "Elemental Rhythms: Water Element & Deep Intuitive Fluidity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_PEAK_FOCUS_WINDOW_AFTERNOON",
+            "phenomenon": "Daily Rhythms: Afternoon Peak Focus Window (13:00–17:00)",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_CONSTITUTION_FIRE_WATER",
+            "phenomenon": "Constitutional Profile: Transformative Drive & Passionate Purpose (Fire-Water Resonance)",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_STRUCTURAL_STABILITY_HIGH",
+            "phenomenon": "Constitutional Profile: Physical Stamina & Natural Somatic Integrity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_DEEP_WORK_ENDURANCE_PROTOCOL",
+            "phenomenon": "Daily Energy Expenditure: Immersive Flow & Extended Deep Focus",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_EXERCISE_AFTERNOON_PEAK",
+            "phenomenon": "Daily Energy Expenditure: Afternoon Physical Vitality Window (15:00–18:00)",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "kineticBurstCapacity": {
@@ -340,15 +508,72 @@
       {
         "engineId": "engine_4",
         "description": "What is the core vitality and resilience of my physical vessel, what environmental comfort best supports my nervous system, and how do I preserve my deepest life force over a long lifetime?",
+        "totalVectors": 8,
         "vectors": [
-          "VEC_OM_ESSENCE_PRANA_DOMINANT",
-          "VEC_OM_ESSENCE_BALANCE_HIGH",
-          "VEC_OM_D27_CELLULAR_FORTITUDE_HIGH",
-          "VEC_OM_RESILIENCE_MULTIPLIER_HIGH",
-          "VEC_OM_D16_MATERIAL_SUKHA_HIGH",
-          "VEC_OM_TRAVEL_SAFETY_HIGH",
-          "VEC_OM_MOBILE_SANCTUARY_HIGH_LUXURY",
-          "VEC_OM_D5_ELEMENT_WATER_DOMINANT"
+          {
+            "vectorId": "VEC_OM_ESSENCE_PRANA_DOMINANT",
+            "phenomenon": "Vitality Profile: Dynamic Life Breath & Agile Physical Coordination",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_ESSENCE_BALANCE_HIGH",
+            "phenomenon": "Vitality Profile: Harmonious Triad of Energy, Clarity & Immunity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_D27_CELLULAR_FORTITUDE_HIGH",
+            "phenomenon": "Physical Resilience: Robust Cellular Vitality & Rapid Recovery",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_RESILIENCE_MULTIPLIER_HIGH",
+            "phenomenon": "Physical Resilience: Natural Adaptability & Environmental Ease",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_D16_MATERIAL_SUKHA_HIGH",
+            "phenomenon": "Comfort & Environment: Natural Affinity for Refined Beauty & Aesthetic Nourishment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_TRAVEL_SAFETY_HIGH",
+            "phenomenon": "Comfort & Mobility: Innate Travel Grounding & Smooth Journeys",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_MOBILE_SANCTUARY_HIGH_LUXURY",
+            "phenomenon": "Comfort & Mobility: Protecting Your Peace & High-Care Travel Protocols",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_D5_ELEMENT_WATER_DOMINANT",
+            "phenomenon": "Elemental Balance: Water Element & Empathy, Adaptability and Fluidity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "tejasScore": {
@@ -436,15 +661,72 @@
       {
         "engineId": "engine_5",
         "description": "How do I recover from deep physical fatigue, create sanctuary spaces for profound renewal, and access stillness to reset my nervous system and soul?",
+        "totalVectors": 8,
         "vectors": [
-          "VEC_OM_CONSTITUTION_KAPHA_EARTH_WATER",
-          "VEC_OM_CONSTITUTIONAL_HARMONY_HIGH",
-          "VEC_OM_DOPAMINE_RESET_AFTERNOON",
-          "VEC_OM_COMFORT_RADICAL_PURGE",
-          "VEC_OM_CRISIS_RECOVERY_RAPID",
-          "VEC_OM_MITOCHONDRIAL_STRESS_DETECTED",
-          "VEC_OM_EGO_DISSOLUTION_SILENT_MEDITATION",
-          "VEC_OM_ZERO_POINT_ACCESS_POTENTIAL"
+          {
+            "vectorId": "VEC_OM_CONSTITUTION_KAPHA_EARTH_WATER",
+            "phenomenon": "Constitutional Harmony: Grounded Endurance & Stable Vitality (Earth-Water)",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_CONSTITUTIONAL_HARMONY_HIGH",
+            "phenomenon": "Constitutional Harmony: Balanced Homeostasis & Peaceful Vitality",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_DOPAMINE_RESET_AFTERNOON",
+            "phenomenon": "Restorative Rhythm: Afternoon Mental Reset & Quiet Pause",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_COMFORT_RADICAL_PURGE",
+            "phenomenon": "Sanctuary Design: Environmental Simplicity & Decluttering Your Space",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_CRISIS_RECOVERY_RAPID",
+            "phenomenon": "Central Comfort Anchor: Emotional Resilience & Rapid Stress Rebound",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_MITOCHONDRIAL_STRESS_DETECTED",
+            "phenomenon": "Cellular Care: Physical Energy Deficit & Need for Gentle Pacing",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_EGO_DISSOLUTION_SILENT_MEDITATION",
+            "phenomenon": "Deep Stillness: The Healing Medicine of Sacred Silence",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_OM_ZERO_POINT_ACCESS_POTENTIAL",
+            "phenomenon": "Deep Stillness: Touching Inner Stillness & Pure Creative Wonder",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "constitutionalHarmony": {
@@ -492,17 +774,88 @@
       {
         "engineId": "engine_6",
         "description": "How do I clear sensory saturation, attune my nervous system to restorative frequencies, and cultivate deep internal quietude to sustain clarity and inner peace?",
+        "totalVectors": 10,
         "vectors": [
-          "VEC_OM_BAND_DELTA_DOMINANT",
-          "VEC_OM_FREQUENCY_SYNC_HIGH",
-          "VEC_OM_ACOUSTIC_963_DIVINE_CONSCIOUSNESS",
-          "VEC_OM_SENSORY_DISSONANCE_HIGH",
-          "VEC_OM_ACOUSTIC_SHIELDING_REQUIRED",
-          "VEC_OM_ZODIACAL_ACOUSTIC_DISSONANCE",
-          "VEC_OM_QUIETUDE_ACCESS_PROFOUND",
-          "VEC_OM_MEDITATION_DEPTH_PROFOUND",
-          "VEC_OM_EGO_DISSOLUTION_RAPID",
-          "VEC_OM_BIOCHEMICAL_HARMONIC_ONTOLOGY_ACTIVE"
+          {
+            "vectorId": "VEC_OM_BAND_DELTA_DOMINANT",
+            "phenomenon": "Neural Frequency Synchronization: Delta Wave Access & Somatic Regeneration (0.5–4 Hz)",
+            "mentorsMessage": "Surrender to complete nocturnal quietude; the deepest physical renewal happens in unburdened, dreamless rest.",
+            "clinicalInterpretation": "Access to deep slow-wave Delta states during non-REM sleep is the cornerstone of cellular repair, hormonal restoration, and metabolic cleansing of the brain. Essential for lifelong vitality, memory consolidation, and deep biological recovery.",
+            "actionableAdvice": "Safeguard your Delta sleep by maintaining pitch darkness, a cool room temperature (18°C), peaceful surroundings, and concluding heavy meals at least 3 hours before resting.",
+            "systemFriction": "Evening alcohol consumption, bright screen glare before bed, and sleep environments disrupted by irregular sounds or lights."
+          },
+          {
+            "vectorId": "VEC_OM_FREQUENCY_SYNC_HIGH",
+            "phenomenon": "Neural Frequency Synchronization: Hemispheric Harmony & Coherent Focus",
+            "mentorsMessage": "Harmonize your logical precision with intuitive sight; when both work in unison, understanding feels effortless.",
+            "clinicalInterpretation": "Exceptional responsiveness to harmonious rhythms and sounds, facilitating balance between analytical reasoning and creative synthesis. Sound entrainment quickly brings inner peace and holistic problem-solving clarity.",
+            "actionableAdvice": "Listen to gentle natural rhythms, classical music, or peaceful acoustic compositions while engaging in complex creative or strategic thinking.",
+            "systemFriction": "Working in chaotic environments with jarring acoustic spikes that pull attention in competing directions."
+          },
+          {
+            "vectorId": "VEC_OM_ACOUSTIC_963_DIVINE_CONSCIOUSNESS",
+            "phenomenon": "Acoustic Resonance Protocol: 963 Hz Transcendent Clarity & Holistic Macro-Perception",
+            "mentorsMessage": "Elevate your awareness beyond the noise of daily urgency; view your path from the vantage of serene, unclouded vision.",
+            "clinicalInterpretation": "High receptivity to higher harmonic acoustic frequencies (963 Hz), associated with expansive contemplation, synthesis of complex insights, and quiet clarity. Clears residual mental clutter, dissolves tunnel vision, and lifts your perspective to see the unified whole.",
+            "actionableAdvice": "Utilize 963 Hz pure soundscapes during morning contemplation, long-term strategic alignment, and silent meditation.",
+            "systemFriction": "Becoming ensnared in micro-tactical worries without dedicating intentional windows to elevating your mental and spiritual perspective."
+          },
+          {
+            "vectorId": "VEC_OM_SENSORY_DISSONANCE_HIGH",
+            "phenomenon": "Sensory Dissonance Detection: Sensitivity to Sensory & Acoustic Chaos",
+            "mentorsMessage": "Chaotic environments scatter inner focus. Create clean, peaceful surroundings to protect your inner clarity.",
+            "clinicalInterpretation": "Experiences heightened sensitivity and mental strain in noisy, cluttered, or erratic sensory environments. Overlapping voices, harsh lighting, and unpredictable noises trigger subtle stress responses that drain energy.",
+            "actionableAdvice": "Audit your everyday environment. Use soothing background soundscapes, soft lighting, and uncluttered surfaces to create a calm space that supports focused, tranquil living.",
+            "systemFriction": "Attempting deep or sensitive work in noisy cafes or chaotic spaces without ear protection or sensory boundaries."
+          },
+          {
+            "vectorId": "VEC_OM_ACOUSTIC_SHIELDING_REQUIRED",
+            "phenomenon": "Sensory Dissonance Detection: Acoustic Isolation & Noise Sanctuary Protocol",
+            "mentorsMessage": "Cultivate a quiet perimeter around your focus. Intentional acoustic calm is essential care for your nervous system.",
+            "clinicalInterpretation": "Deep cognitive immersion and emotional equilibrium require physical and acoustic protection from erratic auditory input. Ambient noise intrusions introduce subconscious micro-distractions that fragment concentration and exhaust somatic reserves.",
+            "actionableAdvice": "Maintain high-quality noise-canceling headphones or custom earplugs for noisy environments. Introduce soft furnishings, thick rugs, and acoustic curtains to soften sound reflections in your workspace.",
+            "systemFriction": "Undertaking delicate analytical or creative synthesis in noisy environments without intentional acoustic dampening."
+          },
+          {
+            "vectorId": "VEC_OM_ZODIACAL_ACOUSTIC_DISSONANCE",
+            "phenomenon": "Sensory Dissonance Detection: Constitutional Acoustic & Environmental Mismatch",
+            "mentorsMessage": "Tune your surroundings to your natural resonance. Peaceful, organic tones keep body and spirit in harmony.",
+            "clinicalInterpretation": "Marked sensitivity to ambient soundscapes that clash with your natural somatic constitution. Abrasive synthetic noises, harsh industrial rumbles, and jarring tones create physical tension and subtle digestive or nervous distress.",
+            "actionableAdvice": "Favor warm, organic acoustic environments—such as acoustic instruments, soothing ambient melodies (432 Hz / 528 Hz), or natural sounds of wind and flowing water—to nurture steady physical wellbeing.",
+            "systemFriction": "Immersing yourself in aggressive, discordant, or jarring audio while attempting to relax or do meaningful, focused work."
+          },
+          {
+            "vectorId": "VEC_OM_QUIETUDE_ACCESS_PROFOUND",
+            "phenomenon": "Quietude Access Potential: Deep Natural Stillness & Mental Calm",
+            "mentorsMessage": "Silence is your natural foundation. Step beneath internal commentary into steady, compassionate presence.",
+            "clinicalInterpretation": "An innate ability to quiet internal chatter and access clear, serene awareness. In this profound stillness, complexity resolves into simplicity, allowing unclouded intuition and peaceful perspective to guide actions.",
+            "actionableAdvice": "Carve out daily periods of pure silence. Use this time not to fix problems, but to rest in undisturbed awareness and let your heart and mind settle.",
+            "systemFriction": "Constantly filling every moment of quiet with background noise, radio, or videos out of habit or fear of silence."
+          },
+          {
+            "vectorId": "VEC_OM_MEDITATION_DEPTH_PROFOUND",
+            "phenomenon": "Quietude Access Potential: Innate Depth in Contemplation & Inner Stillness",
+            "mentorsMessage": "You need no elaborate rites to touch the center; turn your attention inward, and stillness receives you.",
+            "clinicalInterpretation": "A natural affinity for entering states of profound quietude and peaceful self-presence. The mind can effortlessly settle beyond discursive commentary into grounded stillness, restoring the nervous system and revealing deep intuitive answers.",
+            "actionableAdvice": "Practice simple, effortless contemplation or quiet sitting. Allow these silent pauses to provide perspective on complex life dilemmas without needing to force answers.",
+            "systemFriction": "Overcomplicating quiet contemplation with rigid rules or perfectionistic rituals that turn peace into an obligation."
+          },
+          {
+            "vectorId": "VEC_OM_EGO_DISSOLUTION_RAPID",
+            "phenomenon": "Quietude Access Potential: Rapid Deconstruction of Rigid Self-Concepts",
+            "mentorsMessage": "Release outdated self-definitions with grace; your true strength lies in fluidity and inner honesty.",
+            "clinicalInterpretation": "An innate capacity to gracefully release outdated mental identities, dogmatic self-concepts, and defensive postures in quiet contemplation. You can shed stale professional masks and limiting self-images, allowing your authentic path to unfold without clinging to the past.",
+            "actionableAdvice": "Schedule quiet personal reflection periods each season to examine whether your current roles still align with your core values, letting go of whatever no longer serves your truth.",
+            "systemFriction": "Defensively clinging to titles, historical achievements, or rigid labels out of fear, which obstructs natural personal evolution."
+          },
+          {
+            "vectorId": "VEC_OM_BIOCHEMICAL_HARMONIC_ONTOLOGY_ACTIVE",
+            "phenomenon": "Quietude Access Potential: Environmental Harmony & Somatic Homeostasis",
+            "mentorsMessage": "Your biology resonates with your surroundings. Surrounding yourself with calm brings natural balance to your physical health.",
+            "clinicalInterpretation": "Endocrine balance, cellular renewal, and digestive vitality are deeply intertwined with the sensory coherence of your environment. Peaceful, aesthetically harmonious spaces foster stable neurotransmitter production, robust immunity, and sustained vitality.",
+            "actionableAdvice": "Cultivate your primary living and workspace as a sensory sanctuary. Combine gentle, natural acoustics, full-spectrum daylight, clean airflow, and warm materials to anchor continuous physical equilibrium.",
+            "systemFriction": "Prolonged exposure to chaotic urban environments, jarring fluorescent lighting, or turbulent interpersonal settings without conscious boundary setting."
+          }
         ],
         "math": {
           "primaryToneHz": {

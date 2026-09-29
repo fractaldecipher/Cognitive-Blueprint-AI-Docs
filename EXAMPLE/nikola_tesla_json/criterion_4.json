@@ -16,29 +16,151 @@
     "title": "Direction, Timing & Macro-Scaling Architecture",
     "totalVectors": 62,
     "coherenceScore": 88,
+    "crossEngineAlertsCount": 5,
     "crossEngineAlerts": [
-      "TIMING_LIQUIDITY_MISMATCH",
-      "SOVEREIGN_SPATIAL_ALIGNMENT",
-      "MACRO_LEGACY_SYNCHRONICITY",
-      "STRUCTURAL_KNOT_BREAKTHROUGH",
-      "CRITICAL_TIMING_CONVERGENCE"
+      {
+        "alertCode": "TIMING_LIQUIDITY_MISMATCH",
+        "title": "Timing Window vs. Capital Liquidity Mismatch",
+        "systemTension": "A severe temporal-financial mismatch where a massive strategic acceleration window opens (e.g., ZRC Peak, Major Transit Ingress, or Solar Maximum), but the operator's balance sheet lacks the necessary 12-to-24 month liquid cash buffer (D-8 Liquidity Deficit). The operator sees the incredible market opportunity clearly but cannot capitalize on it because their capital is locked in illiquid assets or consumed by high corporate overhead. Attempting to launch aggressively without liquidity forces the operator into predatory high-interest debt or desperate, dilutive equity deals.",
+        "mentorsDiagnosis": "You are standing in front of a golden door without the cash key to open it. Prematurely launching an expansion wave on empty tanks will result in financial strangulation midway through the ascent. Opportunity without liquidity is a death trap.",
+        "strategicRemediation": [
+          "Immediate Strategic Pause: Halt all major capital expansion launches until a baseline liquid buffer (minimum 12 months operational expense) is secured.",
+          "Emergency Asset Liquidation: Monetize non-core assets, secondary IP, or excess inventory to build an immediate cash war chest.",
+          "Non-Dilutive Financing: If external capital is required, negotiate revenue-based financing or strategic pre-sales rather than giving away permanent equity under time pressure."
+        ]
+      },
+      {
+        "alertCode": "SOVEREIGN_SPATIAL_ALIGNMENT",
+        "title": "Sovereign Spatial & Geographic Alignment",
+        "systemTension": "A state of structural spatial resonance where the operator's physical location, office orientation, or astrocartography planetary lines (Astrocartography Grid / Vastu North-East/South-West axis) align perfectly with their natal wealth and authority vectors. Being in the correct geographical node amplifies cognitive clarity, magnetizes high-value alliances, and neutralizes systemic friction. Conversely, operating in a dissonant spatial node acts as a constant drain on vitality and capital.",
+        "mentorsDiagnosis": "Geography is destiny. You cannot run a Tier-1 sovereign enterprise while anchored in a suppressed or hostile spatial node. Changing your geographical coordinates or office ergonomics can instantly dissolve years of mysterious operational drag.",
+        "strategicRemediation": [
+          "Astrocartography Audit: Map your primary corporate headquarters, bank accounts, and personal residence against your zenith and benefic planetary lines (Sun, Jupiter, Mercury, Venus lines).",
+          "Vastu Workspace Optimization: Position your primary executive desk in the South-West sector (Command Anchor) facing North or East (Growth/Ideation Direction).",
+          "Geographic Relocation: If operating in a heavily dissonant jurisdiction, establish a secondary operational hub or tax residency in a high-resonance sovereign jurisdiction."
+        ]
+      },
+      {
+        "alertCode": "MACRO_LEGACY_SYNCHRONICITY",
+        "title": "Macro-Cycle Legacy Synchronicity",
+        "systemTension": "Perfect temporal alignment between the operator's personal execution timeline and multi-decadal civilizational macro-cycles (Great Mutation Air Epoch 2020–2219, Kondratiev Long-Wave Spring/Summer, 2027 Sleeping Phoenix Mutation). The operator's products, services, and vision address the exact structural demands of the coming epoch (decentralization, AI automation, sovereign health, data autonomy). Execution momentum is multiplied by global macro-forces, generating generational legacy value.",
+        "mentorsDiagnosis": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+        "strategicRemediation": [
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]"
+        ]
+      },
+      {
+        "alertCode": "STRUCTURAL_KNOT_BREAKTHROUGH",
+        "title": "Generational Knot Breakthrough Imminent",
+        "systemTension": "A monumental evolutionary threshold where the operator reaches complete readiness (Generational Gordian Knot Resolver / D-7 Saptamsa) to permanently dissolve a multi-generational ancestral bottleneck—such as inherited poverty, bankruptcy loops, institutional exile, or tragic self-sabotage. All energetic, financial, and cognitive prerequisites are met. Crossing this threshold severs the ancestral karma for all future descendants and establishes a new generational dynasty.",
+        "mentorsDiagnosis": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+        "strategicRemediation": [
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]"
+        ]
+      },
+      {
+        "alertCode": "CRITICAL_TIMING_CONVERGENCE",
+        "title": "Critical Timing Windows Convergence",
+        "systemTension": "A rare, high-amplitude temporal event where at least 3 major acceleration systems converge simultaneously (e.g., Zodiacal Releasing Peak Phase L1/L2, Major Solar Return Acceleration, Planetary Age Threshold, and Macro-Cycle Ingress). This creates an ultra-dense, 3-to-6 month \"Golden Window\" where strategic actions produce 10x–100x their normal impact. However, the extreme time dilation and pressure can cause executive panic or cognitive freeze if the operator is unprepared.",
+        "mentorsDiagnosis": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+        "strategicRemediation": [
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+          "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]"
+        ]
+      }
     ],
     "dominantTheme": "SOVEREIGN_TIMING_ARCHITECT",
     "engines": [
       {
         "engineId": "engine_1",
         "description": "What are the natural seasons, cycles of acceleration, and developmental windows of my life, and how do I harmonize my efforts with the rhythm of timing rather than forcing outcomes?",
+        "totalVectors": 10,
         "vectors": [
-          "VEC_DIR_CYCLE_RELEASE_PEAK_ACTIVE",
-          "VEC_DIR_FUTURE_PEAK_WINDOW",
-          "VEC_DIR_FUTURE_VALLEY_WINDOW",
-          "VEC_DIR_FUTURE_TRANSITION_PHASE",
-          "VEC_DIR_TIME_ARCHITECTURE_LEGACY",
-          "VEC_DIR_SUCCESS_TIMELINE_GOLDEN_WINDOW",
-          "VEC_DIR_SUCCESS_TIMELINE_OPTIMAL_LAUNCH",
-          "VEC_DIR_SUCCESS_TIMELINE_STRATEGIC_PAUSE",
-          "VEC_DIR_TEMPO_OVERCLOCK_ACTIVE",
-          "VEC_DIR_TEMPO_HIGH_BURN_RATE"
+          {
+            "vectorId": "VEC_DIR_CYCLE_RELEASE_PEAK_ACTIVE",
+            "phenomenon": "Cycle Release: Active Peak Window & High-Impact Expression",
+            "mentorsMessage": "When the seasons align at an apex of clarity, move with decisive courage. This is not the time for hesitation; it is the moment of your most potent, visible contribution.",
+            "clinicalInterpretation": "Activates a primary peak window within the developmental sequence. The individual experiences elevated public visibility, high market receptivity, and maximum creative momentum. Neurologically, this corresponds to heightened focus where strategic actions yield extraordinary returns, meaningful breakthroughs, and effortless traction.",
+            "actionableAdvice": "Launch major initiatives, unveil core offerings, and establish significant alliances. Welcome public exposure and step forward with confidence while environmental winds are fully at your back.",
+            "systemFriction": "Retreating into solitary perfectionism out of fear; delaying long-prepared releases; wasting peak communicative windows on minor administrative debates."
+          },
+          {
+            "vectorId": "VEC_DIR_FUTURE_PEAK_WINDOW",
+            "phenomenon": "Future Trajectory: Approaching High-Resonance Acceleration Window",
+            "mentorsMessage": "An approaching peak window is an invitation from destiny. Prepare your vessel in advance so that when the threshold opens, you can navigate with grace and power.",
+            "clinicalInterpretation": "Identifies an approaching period of high creative and vocational potency. Environmental receptivity and personal clarity are poised to surge, creating ideal conditions for major initiatives, creative births, and rapid professional growth.",
+            "actionableAdvice": "Prepare your materials, refine your craft, and build supportive networks during this preparatory runway so you are ready to act swiftly when the window opens.",
+            "systemFriction": "Entering an expansion period with disorganized foundations; scrambling to build basics when you should be moving forward at full stride."
+          },
+          {
+            "vectorId": "VEC_DIR_FUTURE_VALLEY_WINDOW",
+            "phenomenon": "Future Trajectory: Contemplative Deceleration & Conservation Window",
+            "mentorsMessage": "In the quiet valley of rest, the wise traveler lowers the sails, gathers strength, and tends to the warmth of the inner hearth.",
+            "clinicalInterpretation": "Signals an upcoming restorative phase characterized by natural headwinds and reduced outward momentum. Physical energy and external receptivity temporarily contract, calling for thoughtful conservation of resources, nervous system rest, and inner renewal.",
+            "actionableAdvice": "Establish firm boundaries on expenditures and commitments, pause aggressive expansion, and focus on health, somatic replenishment, and internal study.",
+            "systemFriction": "Initiating aggressive commercial expansion during an introspective valley; taking on unnecessary debts or burdens; ignoring bodily fatigue."
+          },
+          {
+            "vectorId": "VEC_DIR_FUTURE_TRANSITION_PHASE",
+            "phenomenon": "Future Trajectory: Multi-Vector Realignment & Fluid Threshold",
+            "mentorsMessage": "Transition is the art of fluid grace. Rigid expectations crack under pressure, while intuitive awareness navigates the currents unharmed.",
+            "clinicalInterpretation": "Indicates an approaching realignment phase where multiple life streams cross critical thresholds simultaneously. The operating environment becomes fluid and unpredictable, requiring flexible responsiveness rather than rigid adherence to a single plan.",
+            "actionableAdvice": "Maintain high liquidity of resources, keep plans adaptable, and cultivate daily inner stillness to discern genuine signals amidst environmental flux.",
+            "systemFriction": "Locking yourself into rigid long-term commitments immediately prior to a major life transition; panicking when outdated plans dissolve."
+          },
+          {
+            "vectorId": "VEC_DIR_TIME_ARCHITECTURE_LEGACY",
+            "phenomenon": "Life Architecture: Legacy Phase & Generational Stewardship",
+            "mentorsMessage": "True wisdom outlives the author. Build temples of understanding, virtue, and sanctuary that will nourish generations yet unborn.",
+            "clinicalInterpretation": "Governs the culminating epoch of life architecture. Focus gracefully transitions from personal achievement to multi-generational legacy, institutional endowment, ethical stewardship, and the transmission of distilled wisdom. The individual acts as a wise elder and grounding beacon for others.",
+            "actionableAdvice": "Establish trusts, write enduring books, create educational foundations, and mentor emerging leaders. Consciously pass operational leadership to the next generation while offering wise, loving counsel.",
+            "systemFriction": "Clinging possessively to executive control; failing to empower successors; allowing personal pride to compromise the enduring health of the legacy."
+          },
+          {
+            "vectorId": "VEC_DIR_SUCCESS_TIMELINE_GOLDEN_WINDOW",
+            "phenomenon": "Success Timeline: Golden Window Convergence & Effortless Flow Gate",
+            "mentorsMessage": "When life opens a rare gate of grace, do not ask for timid steps—step boldly through and embrace the fullness of your potential.",
+            "clinicalInterpretation": "Activates during rare developmental windows where inner maturity, external readiness, and timing converge seamlessly. Environmental resistance dissolves, and opportunities flow toward the individual with remarkable ease. Neurologically, chronic vigilance softens, allowing the creative mind to operate in effortless, joyful flow.",
+            "actionableAdvice": "Capitalize on this golden window by releasing your most ambitious creations, forming vital alliances, and stepping into greater responsibility. Do not squander this fertile season on mundane routines.",
+            "systemFriction": "Succumbing to imposter syndrome, false modesty, or underpricing your gifts during a period of extraordinary natural grace."
+          },
+          {
+            "vectorId": "VEC_DIR_SUCCESS_TIMELINE_OPTIMAL_LAUNCH",
+            "phenomenon": "Success Timeline: Optimal Launch Aperture & Maximum Receptivity",
+            "mentorsMessage": "Harmonious timing turns a modest spark into an enduring flame. Share your creation when the cultural currents are ready to receive its warmth.",
+            "clinicalInterpretation": "Identifies a specific, highly receptive window calibrated for introducing new endeavors to the world. It marks an optimal moment when public openness and personal energy align, ensuring that projects and offerings receive genuine attention and deep engagement.",
+            "actionableAdvice": "Align major announcements, product introductions, or career transitions with this window. Communicate with clarity and heart, allowing natural momentum to carry your message.",
+            "systemFriction": "Sharing unrefined work prematurely before the window opens; delaying release past the receptive peak out of perfectionist anxiety."
+          },
+          {
+            "vectorId": "VEC_DIR_SUCCESS_TIMELINE_STRATEGIC_PAUSE",
+            "phenomenon": "Success Timeline: Strategic Pause & Introspective Recalibration",
+            "mentorsMessage": "When the tide recedes, the wise steward tends the harbor and inspects the vessel. Do not force progress into an opposing storm.",
+            "clinicalInterpretation": "Signals a confluence of developmental friction points that temporarily slow external expansion. Attempting to force rapid forward momentum during this period leads to frustration and exhaustion. This window is purposefully designed for internal reviews, structural adjustments, and deep grounding.",
+            "actionableAdvice": "Pause major public launches and expansion campaigns. Redirect attention toward resolving hidden vulnerabilities, fortifying emotional and material boundaries, and refining core skills.",
+            "systemFriction": "Forcing commercial expansion against clear inner and outer resistance; exhausting your vital reserves in stubborn refusal to accept a natural pause."
+          },
+          {
+            "vectorId": "VEC_DIR_TEMPO_OVERCLOCK_ACTIVE",
+            "phenomenon": "Temporal Dynamics: High-Velocity Mental Throughput & Cognitive Agility",
+            "mentorsMessage": "A rapid mind requires grounding waters. Harness your swift perception without burning out the nervous system that sustains it.",
+            "clinicalInterpretation": "Activates when cognitive faculties operate with swift, agile processing speed. The individual synthesizes complex ideas rapidly, connects distant concepts, and formulates strategic insights with remarkable fluidity. Somatically, this heightened mental agility can heighten nervous system arousal if not balanced with physical grounding.",
+            "actionableAdvice": "Channel rapid cognitive capacity into strategic design, swift problem-solving, and creative exploration. Incorporate daily grounding practices (walking in nature, somatic stillness, mindful breathing) to keep the mind calm and clear.",
+            "systemFriction": "Impatience with colleagues who require more time to process; acting on rapid impulses without verifying practical details."
+          },
+          {
+            "vectorId": "VEC_DIR_TEMPO_HIGH_BURN_RATE",
+            "phenomenon": "Temporal Dynamics: High-Intensity Sprint Capacity & Energy Management",
+            "mentorsMessage": "A high-velocity burst achieves great heights, but requires vigilant stewardship of the flame. Guard your physical and nervous reserves fiercely.",
+            "clinicalInterpretation": "Activates during periods of rapid momentum and intense execution capability. The individual experiences surges of dynamic drive that enable extraordinary short-term output. However, this high rate of energy consumption requires disciplined rest cycles to prevent adrenal and emotional exhaustion.",
+            "actionableAdvice": "Structure major endeavors into focused, short sprints followed by mandatory, protected periods of rest and solitude. Treat physical renewal as an essential duty to your calling.",
+            "systemFriction": "Maintaining relentless urgency indefinitely without rest; treating your physical body as an inexhaustible tool until fatigue forces a breakdown."
+          }
         ],
         "math": {
           "daysToNextPeak": {
@@ -116,14 +238,64 @@
       {
         "engineId": "engine_2",
         "description": "In what physical environments, directional orientations, and geographical spaces does my nervous system find optimal harmony, sovereign focus, and unconstrained creative power?",
+        "totalVectors": 7,
         "vectors": [
-          "VEC_DIR_SPATIAL_GRID_EUROPE",
-          "VEC_DIR_SPATIAL_GRID_OPTIMAL_ALIGNMENT",
-          "VEC_DIR_LOCAL_SPACE_NORTH_ALIGNMENT",
-          "VEC_DIR_LOCAL_SPACE_EAST_ALIGNMENT",
-          "VEC_DIR_ARCHITECTURE_NORTH_EAST_OPTIMAL",
-          "VEC_DIR_ARCHITECTURE_SOUTH_WEST_OPTIMAL",
-          "VEC_DIR_ARCHITECTURE_ELEMENTAL_ALIGNMENT"
+          {
+            "vectorId": "VEC_DIR_SPATIAL_GRID_EUROPE",
+            "phenomenon": "Geographical Resonance: European Cultural Nexus & Institutional Depth",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_SPATIAL_GRID_OPTIMAL_ALIGNMENT",
+            "phenomenon": "Geographical Resonance: Harmonious Local Sanctuary & Supportive Environment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_LOCAL_SPACE_NORTH_ALIGNMENT",
+            "phenomenon": "Spatial Orientation: Northern Direction & Strategic Clarity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_LOCAL_SPACE_EAST_ALIGNMENT",
+            "phenomenon": "Spatial Orientation: Eastern Direction & Dynamic Initiative",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ARCHITECTURE_NORTH_EAST_OPTIMAL",
+            "phenomenon": "Architectural Orientation: North-East Sanctuary & Conceptual Clarity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ARCHITECTURE_SOUTH_WEST_OPTIMAL",
+            "phenomenon": "Architectural Orientation: South-West Command Anchor & Grounding Foundation",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ARCHITECTURE_ELEMENTAL_ALIGNMENT",
+            "phenomenon": "Architectural Orientation: Elemental Spatial Zoning & Harmonious Layout",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "spatialResonanceScore": {
@@ -181,20 +353,112 @@
       {
         "engineId": "engine_3",
         "description": "How do I cultivate unshakeable resilience against unforeseen crises, protect my livelihood from systemic volatility, and ensure that adversity strengthens rather than diminishes my purpose?",
+        "totalVectors": 13,
         "vectors": [
-          "VEC_DIR_LIQUIDITY_BUFFER_12_MONTHS",
-          "VEC_DIR_SYSTEMIC_LIQUIDATION_RISK_CRITICAL",
-          "VEC_DIR_SHARED_CAPITAL_FIREWALL_MANDATORY",
-          "VEC_DIR_ANTIFRAGILITY_APEX",
-          "VEC_DIR_CRISIS_PIVOT_RAPID",
-          "VEC_DIR_CHAOS_BENEFIT_CAPACITY_HIGH",
-          "VEC_DIR_MACRO_ANOMALY_EXPOSURE_HIGH",
-          "VEC_DIR_LEVERAGE_PROHIBITION",
-          "VEC_DIR_EXTREME_VOLATILITY_SENSITIVITY",
-          "VEC_DIR_OPERATIONAL_SABOTAGE_HIGH",
-          "VEC_DIR_SHADOW_SUCCESS_PATTERN",
-          "VEC_DIR_MONEY_BLOCK_SATURN",
-          "VEC_DIR_MONEY_BLOCK_PLUTO"
+          {
+            "vectorId": "VEC_DIR_LIQUIDITY_BUFFER_12_MONTHS",
+            "phenomenon": "Liquidity Reserves: 12-Month Protective Runway",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_SYSTEMIC_LIQUIDATION_RISK_CRITICAL",
+            "phenomenon": "Liquidity Reserves: Illiquidity Strain & Urgent Rebalancing",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_SHARED_CAPITAL_FIREWALL_MANDATORY",
+            "phenomenon": "Liquidity Reserves: Personal Boundaries in Shared Financial Ventures",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ANTIFRAGILITY_APEX",
+            "phenomenon": "Crisis Pivot Capacity: Apex Antifragility & Wisdom Under Pressure",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_CRISIS_PIVOT_RAPID",
+            "phenomenon": "Crisis Pivot Capacity: Rapid Adaptability & Unattached Evolution",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_CHAOS_BENEFIT_CAPACITY_HIGH",
+            "phenomenon": "Crisis Pivot Capacity: Counter-Cyclical Discernment & Value Recognition",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_MACRO_ANOMALY_EXPOSURE_HIGH",
+            "phenomenon": "Macro Anomaly Exposure: Heightened Sensitivity to Systemic Shifts",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_LEVERAGE_PROHIBITION",
+            "phenomenon": "Macro Anomaly Exposure: Debt Aversion & Unencumbered Sovereignty",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_EXTREME_VOLATILITY_SENSITIVITY",
+            "phenomenon": "Macro Anomaly Exposure: Nervous System Sensitivity to Volatility",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_OPERATIONAL_SABOTAGE_HIGH",
+            "phenomenon": "Operational Sabotage Scan: Breakthrough Anxiety & Self-Limiting Reflexes",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_SHADOW_SUCCESS_PATTERN",
+            "phenomenon": "Operational Sabotage Scan: The Trap of Exhausting Success",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_MONEY_BLOCK_SATURN",
+            "phenomenon": "Operational Sabotage Scan: Scarcity Mindset & Fear-Driven Contraction",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_MONEY_BLOCK_PLUTO",
+            "phenomenon": "Operational Sabotage Scan: Power Struggles & Hidden Distrust in Alliances",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "liquidityBufferMonths": {
@@ -282,20 +546,112 @@
       {
         "engineId": "engine_4",
         "description": "How does material abundance naturally assemble around my authentic gifts, what non-linear multipliers amplify my impact, and how do I steward profound financial blessings with integrity and wisdom?",
+        "totalVectors": 13,
         "vectors": [
-          "VEC_DIR_WINDFALL_POTENTIAL_HIGH",
-          "VEC_DIR_CAPITAL_MULTIPLIER_5_0X",
-          "VEC_DIR_INSTITUTIONAL_PATRONAGE_ACTIVE",
-          "VEC_DIR_STRUCTURAL_WEALTH_SOVEREIGN_POWER",
-          "VEC_DIR_MATERIAL_POWER_GUARANTEE",
-          "VEC_DIR_PROBABILITY_ANOMALY_DETECTED",
-          "VEC_DIR_MATRIX_GLITCH_OPPORTUNITY",
-          "VEC_DIR_RARE_CONFIGURATION_ACTIVE",
-          "VEC_DIR_RESONANCE_NODE_VICTORY",
-          "VEC_DIR_EFFORTLESS_FLOW_ACTIVE",
-          "VEC_DIR_FLOW_GOLDEN_CONDUCTIVITY_HIGH",
-          "VEC_DIR_FLOW_SUPER_LINKAGE_ACTIVE",
-          "VEC_DIR_FLOW_UNCOUPLED_VACUUM_ISOLATION"
+          {
+            "vectorId": "VEC_DIR_WINDFALL_POTENTIAL_HIGH",
+            "phenomenon": "Non-Linear Leverage: Asymmetric Influx & Significant Milestones",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_CAPITAL_MULTIPLIER_5_0X",
+            "phenomenon": "Non-Linear Leverage: Structural Leverage & Refined Valuation",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_INSTITUTIONAL_PATRONAGE_ACTIVE",
+            "phenomenon": "Non-Linear Leverage: Institutional Support & Trusted Patronage",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_STRUCTURAL_WEALTH_SOVEREIGN_POWER",
+            "phenomenon": "Structural Wealth: Authentic Autonomy & Sovereign Stewardship",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_MATERIAL_POWER_GUARANTEE",
+            "phenomenon": "Structural Wealth: Enduring Solvency & Tangible Protection",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_PROBABILITY_ANOMALY_DETECTED",
+            "phenomenon": "Serendipitous Breakthrough: High Synchronicity & Meaningful Coincidences",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_MATRIX_GLITCH_OPPORTUNITY",
+            "phenomenon": "Serendipitous Breakthrough: Direct Access & Gatekeeper Bypass",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_RARE_CONFIGURATION_ACTIVE",
+            "phenomenon": "Serendipitous Breakthrough: Concentrated Focus & Extraordinary Momentum",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_RESONANCE_NODE_VICTORY",
+            "phenomenon": "Resonance Node: Ethical Resolve & Decisive Achievement",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_EFFORTLESS_FLOW_ACTIVE",
+            "phenomenon": "Harmonic Flow: Organic Alignment & Frictionless Abundance",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_FLOW_GOLDEN_CONDUCTIVITY_HIGH",
+            "phenomenon": "Harmonic Flow: High Resource Conductivity & Clean Channels",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_FLOW_SUPER_LINKAGE_ACTIVE",
+            "phenomenon": "Harmonic Flow: Direct Bridge Between Core Gift & True Value",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_FLOW_UNCOUPLED_VACUUM_ISOLATION",
+            "phenomenon": "Harmonic Flow: Dormant Gifts & Integration Need",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "windfallPotentialScore": {
@@ -393,16 +749,80 @@
       {
         "engineId": "engine_5",
         "description": "How do I align my life's work with the great generational epochs, economic seasons, and natural macro-rhythms of our time so that my actions move in harmony with history?",
+        "totalVectors": 9,
         "vectors": [
-          "VEC_DIR_SOLAR_CYCLE_MAXIMUM_DISRUPTION",
-          "VEC_DIR_GLOBAL_EPOCH_AIR_INNOVATION",
-          "VEC_DIR_LONG_WAVE_WINTER_DEFLATION",
-          "VEC_DIR_UNIVERSAL_RESONANCE_MODERATE",
-          "VEC_DIR_SYNCHRONICITY_ALIGNMENT_HIGH",
-          "VEC_DIR_COLLECTIVE_FLOW_ALIGNED",
-          "VEC_DIR_COLLECTIVE_MUTATION_CROSSING_GATE",
-          "VEC_DIR_DNA_RESONANCE_HIGH",
-          "VEC_DIR_ADAPTATION_READINESS_ACTIVE"
+          {
+            "vectorId": "VEC_DIR_SOLAR_CYCLE_MAXIMUM_DISRUPTION",
+            "phenomenon": "Natural Cycles: Peak Intensity & Maintaining Emotional Center",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_GLOBAL_EPOCH_AIR_INNOVATION",
+            "phenomenon": "Epochal Transitions: Era of Knowledge, Connection & Digital Literacy",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_LONG_WAVE_WINTER_DEFLATION",
+            "phenomenon": "Macro-Economic Seasons: Economic Winter & Patient Renewal",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_UNIVERSAL_RESONANCE_MODERATE",
+            "phenomenon": "Universal Resonance: Steady Alignment & Thoughtful Attunement",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_SYNCHRONICITY_ALIGNMENT_HIGH",
+            "phenomenon": "Universal Resonance: Impeccable Timing & Serendipitous Arrival",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_COLLECTIVE_FLOW_ALIGNED",
+            "phenomenon": "Universal Resonance: Cultural Resonance & Natural Adoption",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_COLLECTIVE_MUTATION_CROSSING_GATE",
+            "phenomenon": "Generational Adaptation: The Bridge Builder & Paradigm Translator",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_DNA_RESONANCE_HIGH",
+            "phenomenon": "Generational Adaptation: High Mental Plasticity & Harmonious Adaptation",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ADAPTATION_READINESS_ACTIVE",
+            "phenomenon": "Generational Adaptation: Agile Evolution & Releasing Outdated Habits",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "initiativeAlignmentScore": {
@@ -470,17 +890,88 @@
       {
         "engineId": "engine_6",
         "description": "How do I heal generational limitations, achieve authentic life sovereignty, and build an enduring legacy that blesses my family and future generations with freedom and wisdom?",
+        "totalVectors": 10,
         "vectors": [
-          "VEC_DIR_SOVEREIGN_WEALTH_TIER_MODERATE",
-          "VEC_DIR_SOVEREIGN_WEALTH_CRITICAL_GAPS",
-          "VEC_DIR_ESCAPE_VELOCITY_PARTIAL",
-          "VEC_DIR_FINANCIAL_AUTONOMY_APEX",
-          "VEC_DIR_LEGACY_STRUCTURAL_SYSTEMS",
-          "VEC_DIR_LEGACY_MULTIPLIER_100X",
-          "VEC_DIR_IP_SCALING_APEX",
-          "VEC_DIR_GENERATIONAL_KNOT_ISOLATION_EXILE",
-          "VEC_DIR_KNOT_RESOLUTION_READY",
-          "VEC_DIR_ANCESTRAL_BREAKTHROUGH_IMMINENT"
+          {
+            "vectorId": "VEC_DIR_SOVEREIGN_WEALTH_TIER_MODERATE",
+            "phenomenon": "Life Sovereignty: Partial Autonomy & Active Service Requirement",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_SOVEREIGN_WEALTH_CRITICAL_GAPS",
+            "phenomenon": "Life Sovereignty: Vulnerable Foundations & Urgent Need for Order",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ESCAPE_VELOCITY_PARTIAL",
+            "phenomenon": "Life Sovereignty: High Income with Ongoing Physical Demand",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_FINANCIAL_AUTONOMY_APEX",
+            "phenomenon": "Life Sovereignty: Debt-Free Peace & Diverse Streams of Livelihood",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_LEGACY_STRUCTURAL_SYSTEMS",
+            "phenomenon": "Legacy Potential: Self-Sustaining Platforms & Educational Endowments",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_LEGACY_MULTIPLIER_100X",
+            "phenomenon": "Legacy Potential: Generational Foundation & Global Cultural Endowment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_IP_SCALING_APEX",
+            "phenomenon": "Legacy Potential: Enduring Knowledge & Perpetual Wisdom Sharing",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_GENERATIONAL_KNOT_ISOLATION_EXILE",
+            "phenomenon": "Generational Healing: Overcoming Ancestral Mistrust & Fear of Visibility",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_KNOT_RESOLUTION_READY",
+            "phenomenon": "Generational Healing: Severing Old Scarcity Chains & Welcoming Peace",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_DIR_ANCESTRAL_BREAKTHROUGH_IMMINENT",
+            "phenomenon": "Generational Healing: Lineage Breakthrough & Sovereign Fulfillment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "ultimateCapitalIndex": {

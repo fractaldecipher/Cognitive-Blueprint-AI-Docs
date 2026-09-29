@@ -20,24 +20,19 @@ This directory provides a full, concrete benchmark using **Nikola Tesla** (`1856
 EXAMPLE/
 ├── README.md                          <-- You are here (Integration guide & architecture)
 ├── Tesla_AI_Clinical_Benchmark.pdf    <-- Comprehensive Illustrated Clinical Deck & Historical Fact Validation
-├── nikola_tesla_json/                 <-- Raw API responses per criterion (as returned by RapidAPI)
-│   ├── criterion_1.json               # Identity & Sovereign Architecture (45 vectors, Coherence: 60)
-│   ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 vectors, 2 alerts, Coherence: 30)
-│   ├── criterion_3.json               # Vocation, Craft & Capital Architecture (50 vectors, 1 alert, Coherence: 75)
-│   ├── criterion_4.json               # Direction, Evolution & Navigation (62 vectors, 5 alerts, Coherence: 88)
-│   └── criterion_5.json               # Operating Mode & Bio-Prescriptions (48 vectors, 1 alert, Coherence: 60)
-└── nikola_tesla_interpretation/       <-- Implementation showcase: 33 Deep Clinical Inquiry Syntheses
-    ├── 01_c1_core_life_role_decision_compass.md
-    ├── 02_c1_cognitive_processing_environment.md
-    ...
-    └── 33_c5_sensory_reset_acoustic_quietude.md
+└── nikola_tesla_json/                 <-- Enriched API responses per criterion (as returned by RapidAPI)
+    ├── criterion_1.json               # Identity & Sovereign Architecture (45 enriched vectors, Coherence: 60)
+    ├── criterion_2.json               # Inhibitors, Shadows & Blocks (58 enriched vectors, 2 alerts, Coherence: 30)
+    ├── criterion_3.json               # Vocation, Craft & Capital Architecture (50 enriched vectors, 1 alert, Coherence: 75)
+    ├── criterion_4.json               # Direction, Evolution & Navigation (62 enriched vectors, 5 alerts, Coherence: 88)
+    └── criterion_5.json               # Operating Mode & Bio-Prescriptions (48 enriched vectors, 1 alert, Coherence: 60)
 ```
 
 ---
 
 ## 2. Architecture: From Raw Telemetry to Deep Clinical Synthesis
 
-Rather than dumping all 260+ vectors and dozens of alerts into a single overwhelming payload or producing a superficial text summary, Cognitive Blueprint AI allows you to query modular criteria and synthesize laser-focused, profound reports.
+Rather than dumping all vectors into an uninterpreted list or producing a superficial summary, Cognitive Blueprint AI allows you to query modular criteria and receive rich, pre-interpreted JSON payloads with full clinical depth.
 
 ```text
                              ┌─────────────────────────────────┐
@@ -55,16 +50,17 @@ Rather than dumping all 260+ vectors and dozens of alerts into a single overwhel
                     ▼                                                   ▼
 ┌───────────────────────────────────────┐           ┌───────────────────────────────────────┐
 │     POST /v1/criterion/{1..5}         │           │   Direct Telemetry Dashboard / UI     │
-│   Modular API JSON Responses          │           │   ➔ Sliders, scorebars (0-100 / 0-1)  │
-│   (Math Metrics + Vector Codes +      │──────────>│   ➔ Coherence, latency, autonomy      │
-│    Cross-Engine System Alerts)        │           │   ➔ Custom decision logic & thresholds│
+│   Enriched API JSON Responses         │           │   ➔ Sliders, scorebars (0-100 / 0-1)  │
+│   (Math Metrics + Enriched Vectors +  │──────────>│   ➔ Coherence, latency, autonomy      │
+│    Systemic Tension Alerts)           │           │   ➔ Custom decision logic & thresholds│
 └───────────────────┬───────────────────┘           └───────────────────────────────────────┘
                     │
                     ▼
 ┌───────────────────────────────────────────────────┐
-│      Enrichment Engine / LLM RAG Pipeline         │
-│   ➔ Cross-reference vectors with DICTIONARY/      │
-│   ➔ Cross-reference alerts with ALERTS/           │
+│      Direct LLM Context Injection                 │
+│   ➔ Inline access to Phenomenon & Mentor Advice   │
+│   ➔ Clinical Interpretation & Friction to Avoid   │
+│   ➔ Systemic Tension Remediations                 │
 └───────────────────┬───────────────────────────────┘
                     │
                     ▼
@@ -110,9 +106,9 @@ Your client application sends immutable spatiotemporal coordinates to the [Rapid
 
 ---
 
-## 5. Step 2: What You Receive From the API (Modular Criterion JSON)
+## 5. Step 2: What You Receive From the API (Enriched Criterion JSON)
 
-For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns the standardized `CriterionEnvelopeResponse` containing **sanitized quantitative metrics (`math`)**, **active standardized vectors (`vectors`)**, and **systemic tension alerts (`crossEngineAlerts`)**:
+For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns the standardized `CriterionEnvelopeResponse` containing **sanitized quantitative metrics (`math`)**, **self-contained enriched vectors (`vectors`)**, and **systemic tension alerts (`crossEngineAlerts`)**:
 
 ```json
 {
@@ -133,20 +129,46 @@ For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns the 
     "title": "Blocks, Defense & Lineage Architecture",
     "totalVectors": 58,
     "coherenceScore": 30,
+    "crossEngineAlertsCount": 2,
     "crossEngineAlerts": [
-      "KARMIC_CAPITAL_LOCK",
-      "NOCTURNAL_PARASITE_DRAIN"
+      {
+        "alertCode": "KARMIC_CAPITAL_LOCK",
+        "title": "Karmic Capital Lock & Recurrent Financial Sabotage",
+        "systemTension": "A destructive feedback loop operating across the financial axis... Capital accumulates to a specific quantitative threshold, whereupon an automated subconscious trigger fires...",
+        "mentorsDiagnosis": "You have an invisible wealth ceiling imprinted into your financial nervous system...",
+        "strategicRemediation": [
+          "Automated Wealth Vaulting: Establish automated capital sweeps that instantly move 30-50% of incoming profits into inaccessible vaults...",
+          "No-Bailout Rule: Strictly prohibit emergency loans, gifts, or speculative investments...",
+          "Financial Thermostat Reset: Gradually increase your liquid cash holding threshold by 20% every quarter..."
+        ]
+      },
+      {
+        "alertCode": "NOCTURNAL_PARASITE_DRAIN",
+        "title": "Nocturnal Parasite Drain & Sleep Field Contamination",
+        "systemTension": "Severe aura vulnerability during NREM/REM sleep cycles caused by sleeping in shared aura fields...",
+        "mentorsDiagnosis": "Your aura and nervous system remain completely unshielded all night...",
+        "strategicRemediation": [
+          "Mandatory Solitary Sleep: Sleep in a completely isolated aura sanctuary...",
+          "EMF & Digital Quarantine: Eliminate all Wi-Fi routers and active electronics from the sleeping sanctuary...",
+          "Evening Hydro-Purging: Execute a mandatory evening saltwater bath or cold shower ritual prior to bed..."
+        ]
+      }
     ],
     "dominantTheme": "CAPITAL_LOCK",
     "engines": [
       {
         "engineId": "engine_1",
         "description": "What reactive defense patterns, unconscious inhibitors, and deep emotional patterns drain my vital energy, and how can they be transformed into wisdom?",
+        "totalVectors": 21,
         "vectors": [
-          "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
-          "VEC_BLK_REACTIVITY_NODE_054_COMPULSIVE_GREED",
-          "VEC_BLK_CORE_WOUND_ANNIHILATION",
-          "VEC_BLK_CATALYST_TRANSMUTATION_ACTIVE"
+          {
+            "vectorId": "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
+            "phenomenon": "Premature Initiation & Abandonment Urge",
+            "mentorsMessage": "True maturity is not the thrill of breaking ground on a hundred projects; it is the quiet devotion to tend the one you began.",
+            "clinicalInterpretation": "A restless urge to start new projects, relationships, and journeys without the patience to bring existing ones to maturity...",
+            "actionableAdvice": "Cultivate the discipline of completion. Before initiating any new venture, audit your current commitments...",
+            "systemFriction": "Abandoning partners or endeavors at the first difficult plateau, confusing restlessness with inspiration, or collecting half-finished dreams."
+          }
         ],
         "math": {
           "activePatternClustersCount": {
@@ -168,10 +190,32 @@ For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns the 
       {
         "engineId": "engine_6",
         "description": "How do I protect my nervous system from chronic depletion, prevent burnout, and cultivate deep, sovereign restoration during sleep?",
+        "totalVectors": 3,
         "vectors": [
-          "VEC_BLK_BURNOUT_CRITICAL",
-          "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
-          "VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY"
+          {
+            "vectorId": "VEC_BLK_BURNOUT_CRITICAL",
+            "phenomenon": "Critical Adrenal Fatigue & Mandatory Rest Shutdown",
+            "mentorsMessage": "When the body is driven past its sacred limits, collapse is not a defeat—it is the organism's compassionate emergency brake to preserve life.",
+            "clinicalInterpretation": "Acute nervous system exhaustion and adrenal depletion resulting from prolonged, unrelenting effort without recuperative cycles...",
+            "actionableAdvice": "Enforce an immediate period of complete physical and mental rest. Step away from digital screens...",
+            "systemFriction": "Attempting to override the shutdown with excess caffeine, energy drinks, or sheer willpower."
+          },
+          {
+            "vectorId": "VEC_BLK_BLINDSPOT_OVERLOAD_CONDITIONING",
+            "phenomenon": "Hidden Physical Depletion & The Illusion of Control",
+            "mentorsMessage": "The illusion of total mastery while vitality quietly leaks away is the mind's most seductive trap. Listen to the body before it whispers in pain.",
+            "clinicalInterpretation": "A critical cognitive blind spot where the conscious intellect maintains a narrative of boundless stamina and control while the physical body suffers severe underlying fatigue...",
+            "actionableAdvice": "Rely on objective bodily indicators rather than mental willpower. Schedule non-negotiable rest periods regardless of unfinished tasks.",
+            "systemFriction": "Believing the mind's claim that 'everything is fine' while physical indicators show chronic strain."
+          },
+          {
+            "vectorId": "VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY",
+            "phenomenon": "Nocturnal Open Receptive Susceptibility",
+            "mentorsMessage": "Protect your nocturnal peace as a sanctuary; night is when the soul unburdens what the day accumulated.",
+            "clinicalInterpretation": "Sleep architecture vulnerable to nocturnal energetic conditioning and environmental noise. Rest cycles fail to restore parasympathetic floor without strict aura isolation...",
+            "actionableAdvice": "Implement strict environmental isolation: sleep alone in a dedicated dark room with no active electronics within 3 meters...",
+            "systemFriction": "Sleeping in shared aura spaces, using mobile devices in bed, or engaging in cognitively intense work past 21:00."
+          }
         ],
         "math": {
           "totalBurnoutRiskPct": {
@@ -204,51 +248,50 @@ For each requested Criterion (e.g. `POST /v1/criterion/2`), the API returns the 
 
 ---
 
-## 6. Step 3: Dictionary & Alert Enrichment
+## 6. Step 3: Direct Inline Clinical Intelligence
 
-By pairing the emitted `vectors` and `crossEngineAlerts` codes with the Markdown Dictionaries (`DICTIONARY/`) and Alerts (`ALERTS/`) in this repository, your LLM or reporting pipeline extracts the clinical phenomenon, diagnostic guidance, and actionable remediation:
+Unlike generic APIs that only return abstract vector codes requiring local lookup tables, Cognitive Blueprint AI returns **fully interpreted, self-contained semantic payloads**:
 
-| Emitted Code | Matched Source File | Clinical Insight Extracted |
-| :--- | :--- | :--- |
-| `VEC_ID_CORE_KINETIC_BUILDER` | `DICTIONARY/criterion-1-identity/engine_1.md` | Innate regenerative stamina designed for dedicated step-by-step physical and intellectual creation. Must navigate by gut availability rather than mental urgency. |
-| `VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY` | `DICTIONARY/criterion-2-blocks/engine_6.md` | Sleep architecture vulnerable to nocturnal energetic conditioning and environmental noise. Rest cycles fail to restore parasympathetic floor without strict aura isolation. |
-| `NOCTURNAL_PARASITE_DRAIN` | `ALERTS/criterion_2_alerts_interpretation.md` | **Mechanism**: Severe nocturnal energy hemorrhage and dream-state cognitive processing without somatic rest.<br>**Remediation**: Mandatory acoustic shielding, complete darkness, and cessation of intellectual work 3 hours prior to sleep. |
-| `KARMIC_CAPITAL_LOCK` | `ALERTS/criterion_2_alerts_interpretation.md` | **Mechanism**: Recurring systemic sabotage in capital monetisation and IP ownership contracts.<br>**Remediation**: Establish external fiduciary proxy and third-party commercial verification before signing licensing agreements. |
+| Field in Vector / Alert | Purpose & Clinical Value |
+| :--- | :--- |
+| `phenomenon` | Human-readable systemic title of the activated psychological, cognitive, or somatic pattern. |
+| `mentorsMessage` | Compassionate, respectful guidance addressing the user with dignity. |
+| `clinicalInterpretation` | In-depth diagnostic analysis explaining the underlying mechanics and somatic expressions. |
+| `actionableAdvice` | Practical, immediate steps to optimize vitality, decision-making, or professional workflow. |
+| `systemFriction` | Compensatory reactions, shadow conditioning, or self-sabotaging traps to actively avoid. |
+| `crossEngineAlerts` | Multi-engine tension diagnostics with dedicated `systemTension`, `mentorsDiagnosis`, and 3 concrete `strategicRemediation` steps. |
 
 ---
 
-## 7. Step 4: The 33 Synthesized Inquiry Reports
+## 7. Step 4: Direct LLM Prompt Synthesis & Clinical Presentation
 
-In the [`nikola_tesla_interpretation/`](nikola_tesla_interpretation/) directory, you will find the complete, full-fidelity synthesis across all **33 inquiries** for Nikola Tesla. 
+With all clinical interpretations and alert remediations embedded directly into the modular JSON payloads, your client application can directly inject the enriched data into an LLM prompt (or render it directly into UI dashboards) without any external joins or dictionary lookups:
 
-Rather than a superficial reading, each inquiry combines:
-1. **Targeted Inquiry Question**: The specific life, vocational, or physiological challenge addressed.
-2. **Sanitized Telemetry Metrics**: Numeric scales (0-100, 0.0-1.0, hours) with descriptions.
-3. **Primary Diagnostic & Subordinate Vectors**: Full clinical excerpts from `DICTIONARY/`.
-4. **Active Cross-Engine Alerts**: Extracted directly from `ALERTS/` containing mechanisms, mentor diagnoses, and remediation protocols.
+```typescript
+// Example: Constructing a clinical prompt for Nikola Tesla's nervous system recovery
+const engine6 = criterion2Response.criterion.engines.find(e => e.engineId === 'engine_6');
+const alerts = criterion2Response.criterion.crossEngineAlerts;
 
-### Directory Index of Inquiries:
+const systemPrompt = `
+You are a sovereign human design mentor.
+Analyze the following physiological and nervous system telemetry for ${profile.name}:
 
-- **Criterion 1 (Identity & Sovereign Architecture)**:
-  - [`01_c1_core_life_role_decision_compass.md`](nikola_tesla_interpretation/01_c1_core_life_role_decision_compass.md)
-  - [`02_c1_cognitive_processing_environment.md`](nikola_tesla_interpretation/02_c1_cognitive_processing_environment.md)
-  - [`03_c1_learning_and_wisdom_transmission.md`](nikola_tesla_interpretation/03_c1_learning_and_wisdom_transmission.md)
-  - [`04_c1_mental_perception_and_thresholds.md`](nikola_tesla_interpretation/04_c1_mental_perception_and_thresholds.md)
-  - [`05_c1_moral_compass_and_integrity.md`](nikola_tesla_interpretation/05_c1_moral_compass_and_integrity.md)
-  - [`06_c1_constitutional_somatic_stamina.md`](nikola_tesla_interpretation/06_c1_constitutional_somatic_stamina.md)
-  - [`07_c1_archetypal_journey_pilgrimage.md`](nikola_tesla_interpretation/07_c1_archetypal_journey_pilgrimage.md)
-  - [`08_c1_higher_ideals_and_aspirations.md`](nikola_tesla_interpretation/08_c1_higher_ideals_and_aspirations.md)
-  - [`09_c1_vibrational_signature_footprint.md`](nikola_tesla_interpretation/09_c1_vibrational_signature_footprint.md)
-- **Criterion 2 (Inhibitors, Shadows & Structural Blocks)**:
-  - [`10_c2_reactive_defense_patterns.md`](nikola_tesla_interpretation/10_c2_reactive_defense_patterns.md)
-  - [`11_c2_ancestral_cellular_memory.md`](nikola_tesla_interpretation/11_c2_ancestral_cellular_memory.md)
-  - [`12_c2_developmental_crossroads_vows.md`](nikola_tesla_interpretation/12_c2_developmental_crossroads_vows.md)
-  - [`13_c2_financial_sovereignty_leakage.md`](nikola_tesla_interpretation/13_c2_financial_sovereignty_leakage.md)
-  - [`14_c2_shadow_and_sovereign_boundaries.md`](nikola_tesla_interpretation/14_c2_shadow_and_sovereign_boundaries.md)
-  - [`15_c2_nocturnal_restoration_burnout.md`](nikola_tesla_interpretation/15_c2_nocturnal_restoration_burnout.md) *(Includes `NOCTURNAL_PARASITE_DRAIN` & `KARMIC_CAPITAL_LOCK` alerts)*
-- **Criterion 3 (Vocation, Craft & Capital Architecture)**:
-  - [`16_c3_vocational_calling_mastery.md`](nikola_tesla_interpretation/16_c3_vocational_calling_mastery.md) through [`21_c3_visionary_execution_scaling.md`](nikola_tesla_interpretation/21_c3_visionary_execution_scaling.md) *(Includes `COMMAND_UNIFIED` alert)*
-- **Criterion 4 (Direction, Evolution & Strategic Navigation)**:
-  - [`22_c4_timing_acceleration_cycles.md`](nikola_tesla_interpretation/22_c4_timing_acceleration_cycles.md) through [`27_c4_legacy_sovereignty_liberation.md`](nikola_tesla_interpretation/27_c4_legacy_sovereignty_liberation.md) *(Includes 5 timing and spatial synchronicity alerts)*
-- **Criterion 5 (Operating Mode, Equilibrium & Bio-Prescriptions)**:
-  - [`28_c5_sensory_nutrition_assimilation.md`](nikola_tesla_interpretation/28_c5_sensory_nutrition_assimilation.md) through [`33_c5_sensory_reset_acoustic_quietude.md`](nikola_tesla_interpretation/33_c5_sensory_reset_acoustic_quietude.md) *(Includes `CELLULAR_ACOUSTIC_DEFENSE_REQUIRED` alert)*
+QUANTITATIVE INDICATORS:
+- Total Burnout Risk: ${engine6.math.totalBurnoutRiskPct.value}%
+- Mandatory Isolation Hours: ${engine6.math.recommendedIsolationHoursPerWeek.value} hrs/week
+- Nocturnal Aura Integrity: ${engine6.math.sleepAuraIntegrityPct.value}%
+
+ACTIVE VECTORS:
+${engine6.vectors.map(v => `- [${v.vectorId}] ${v.phenomenon}\n  Mentor Note: "${v.mentorsMessage}"\n  Clinical Guidance: ${v.clinicalInterpretation}\n  Friction to Avoid: ${v.systemFriction}`).join('\n\n')}
+
+SYSTEMIC ALERTS:
+${alerts.map(a => `! [ALERT: ${a.alertCode}] ${a.title}\n  Mechanism: ${a.systemTension}\n  Mentor Diagnosis: ${a.mentorsDiagnosis}\n  Remediation:\n  ${a.strategicRemediation.map(r => `  * ${r}`).join('\n')}`).join('\n\n')}
+
+Synthesize a compassionate, high-integrity executive briefing advising the individual on their nervous system boundaries and nocturnal restoration.
+`;
+```
+
+### 📑 Visual Clinical Benchmark Deck
+For a complete slide-by-slide case study matching this computational telemetry with verified historical facts, biographical milestones, and life patterns of Nikola Tesla, refer to the included visual deck:
+👉 [**`Tesla_AI_Clinical_Benchmark.pdf`**](Tesla_AI_Clinical_Benchmark.pdf)
+

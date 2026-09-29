@@ -16,30 +16,147 @@
     "title": "Vocation, Craft & Capital Architecture",
     "totalVectors": 50,
     "coherenceScore": 75,
+    "crossEngineAlertsCount": 1,
     "crossEngineAlerts": [
-      "COMMAND_UNIFIED"
+      {
+        "alertCode": "COMMAND_UNIFIED",
+        "title": "Unified Executive Command Architecture",
+        "systemTension": "An auspicious yet high-responsibility configuration featuring an Almuten Figuris / Single-Operator executive command chain (e.g., strong Sun/Saturn or Solo Initiator stance). The business architecture functions at maximum throughput, speed, and precision when structured under a single, uncompromised, sovereign decision-maker. Friction occurs when the operator succumbs to modern corporate trends of \"management by committee,\" democratic voting, or diluted co-CEO structures, which introduces paralysis, political compromise, and strategic drift.",
+        "mentorsDiagnosis": "Your enterprise is designed as a monarchy, not a town hall meeting. When you try to run a sovereign command suit through consensus and committee debates, you destroy your speed advantage and demoralize your team. Leadership is not a popularity contest.",
+        "strategicRemediation": [
+          "Clear Chain of Command: Re-establish a strict, hierarchical executive command structure where you retain final, absolute decision authority on core strategy, vision, and capital allocation.",
+          "Consult, Then Command: Listen to advisors and domain experts, gather telemetry, but make the final call unilaterally without seeking consensus approval.",
+          "Decisive Execution: Eliminate slow, indecisive committee structures. Replace them with clear, single-point accountability for every department head."
+        ]
+      }
     ],
     "dominantTheme": "HYBRID_BUILDER",
     "engines": [
       {
         "engineId": "engine_1",
         "description": "What is my true vocational calling and authentic market role, how do I focus my core craft into unshakeable mastery, and how do I bring my gifts into sustainable, impactful service?",
+        "totalVectors": 15,
         "vectors": [
-          "VEC_VOC_CORE_MISSION_DORMANT",
-          "VEC_VOC_EXECUTION_VECTOR_ACTIVE",
-          "VEC_VOC_FRICTION_TO_TALENT_READY",
-          "VEC_VOC_SKILL_DENSITY_LOW",
-          "VEC_VOC_SKILL_COMMERCIAL_ACTIVATION",
-          "VEC_VOC_NODE_TRAJECTORY_ACTIVE",
-          "VEC_VOC_NODE_TRAJECTORY_INTEGRATED",
-          "VEC_VOC_MASTERY_RULER_SUPPORT_ACTIVE",
-          "VEC_VOC_MASTERY_RULER_CONSTRAINED",
-          "VEC_VOC_MASTERY_RULER_MERCURY",
-          "VEC_VOC_OPERATIONAL_MODALITY_HYBRID_ADAPTIVE",
-          "VEC_VOC_CORE_ROLE_BUILDER",
-          "VEC_VOC_LIFECYCLE_RIGHT_ANGLE",
-          "VEC_VOC_LIFECYCLE_GEOMETRY_STRONG",
-          "VEC_VOC_LIFECYCLE_ACTIVATION_AGE_REACHED"
+          {
+            "vectorId": "VEC_VOC_CORE_MISSION_DORMANT",
+            "phenomenon": "Core Operational Mission Dormant & Obscured",
+            "mentorsMessage": "A dormant mission is a quiet hearth. Do not mistake temporary quiescence for lack of fire; prepare your vessel for renewed ignition.",
+            "clinicalInterpretation": "Indicates a latent or obscured state of primary vocational purpose. The individual experiences a disconnect between daily labor and deeper meaning, leading to cognitive fatigue, superficial busyness, and effort without genuine fulfillment. Somatically presents as low-grade fatigue, tension in the diaphragm, and expending high energy on uninspiring tasks.",
+            "actionableAdvice": "Conduct a thoughtful audit of your daily responsibilities. Gently strip away unaligned secondary tasks, creating periods of quiet reflection to allow your core purpose to resurface naturally.",
+            "systemFriction": "Forcing artificial business initiatives while in a dormant state, or substituting high-volume busywork for genuine purpose alignment."
+          },
+          {
+            "vectorId": "VEC_VOC_EXECUTION_VECTOR_ACTIVE",
+            "phenomenon": "Focused Execution Drive & Decisive Action",
+            "mentorsMessage": "Decisive courage is your tactical edge. Direct your focused energy toward overcoming real obstacles, never toward petty disputes.",
+            "clinicalInterpretation": "Activates a dynamic execution drive responsible for overcoming inertia, meeting tight deadlines, and defending core project boundaries. Under pressure, the nervous system mobilizes sharp focus, rapid instinctual reflexes, and the determination required to bring complex initiatives across the finish line.",
+            "actionableAdvice": "Channel this decisive drive into focused, high-intensity sprints: launching major initiatives, resolving complex negotiations, or fixing critical systemic bottlenecks.",
+            "systemFriction": "Engaging in unproductive interpersonal arguments, impulsive confrontations, or burning out your stamina on trivial administrative friction."
+          },
+          {
+            "vectorId": "VEC_VOC_FRICTION_TO_TALENT_READY",
+            "phenomenon": "Transmuting Hardship into Professional Wisdom",
+            "mentorsMessage": "The greatest obstacle you have overcome holds the secret to your most valuable service to others.",
+            "clinicalInterpretation": "Signals that a major past personal or professional struggle has been successfully integrated, unlocking a rare diagnostic empathy. The individual transforms past vulnerability into specialized competence, allowing them to recognize, support, and resolve identical struggles in organizations and clients.",
+            "actionableAdvice": "Productize the hard-won wisdom gained from overcoming your key life challenges. Offer your insights as specialized consulting, mentorship, or structured advisory services.",
+            "systemFriction": "Slipping back into identifying as a victim of past circumstances, or letting old self-doubt undermine your earned authority."
+          },
+          {
+            "vectorId": "VEC_VOC_SKILL_DENSITY_LOW",
+            "phenomenon": "Foundational Apprenticeship & Deliberate Practice",
+            "mentorsMessage": "True mastery begins with humble, patient repetition. Pick your core craft, honor the basics, and dig deep roots.",
+            "clinicalInterpretation": "Indicates an exploratory or early stage of skill acquisition. While natural talent is strong, technical mastery across complex scenarios requires sustained, deliberate practice and hands-on experience.",
+            "actionableAdvice": "Commit to a focused period of deliberate practice in a single chosen discipline. Master core fundamentals thoroughly before attempting high-complexity, large-scale endeavors.",
+            "systemFriction": "Over-promising technical capabilities before you have tested them, or attempting to automate processes you have not yet mastered by hand."
+          },
+          {
+            "vectorId": "VEC_VOC_SKILL_COMMERCIAL_ACTIVATION",
+            "phenomenon": "Skill Reservoir Commercialization & Real-World Value",
+            "mentorsMessage": "Mastery held in isolation cannot nourish life. Connect your deep craft with genuine human needs and step into honorable exchange.",
+            "clinicalInterpretation": "Confirms that accumulated capabilities are ready for active market expression, positioning offerings for sustainable commercial success. The individual successfully connects complex internal skills with clear, tangible benefits that clients and communities readily value.",
+            "actionableAdvice": "Package your core skills into clear, accessible services, specialized advisory engagements, or structured programs. Communicate your value with simplicity and begin active outreach.",
+            "systemFriction": "Delaying commercial availability out of perfectionism, or endlessly tweaking products in private instead of serving real people."
+          },
+          {
+            "vectorId": "VEC_VOC_NODE_TRAJECTORY_ACTIVE",
+            "phenomenon": "Evolutionary Career Path Active & Moving Forward",
+            "mentorsMessage": "Your career compass is active. Journey courageously from comfortable past competence toward your pioneering frontier.",
+            "clinicalInterpretation": "Reflects healthy vocational evolution. The individual draws strength and stability from hard-won past skills while deliberately directing focus, learning, and career expansion toward new, challenging growth frontiers.",
+            "actionableAdvice": "Treat your past achievements as a secure foundation, not a permanent plateau. Dedicate substantial time to learning the new competencies that your future vision requires.",
+            "systemFriction": "Falling back into repetitive, unchallenging tasks whenever growth feels uncomfortable, or fearing the unfamiliar territory of your emerging frontier."
+          },
+          {
+            "vectorId": "VEC_VOC_NODE_TRAJECTORY_INTEGRATED",
+            "phenomenon": "Integrated Vocational Wisdom Across Career Transitions",
+            "mentorsMessage": "The bridge between your past experience and future vision is complete. Walk forward with the full power of your story backing your stride.",
+            "clinicalInterpretation": "A well-integrated career trajectory where past experience gracefully supports innovative future ventures. The individual experiences continuity of purpose across career pivots, turning prior lessons into unfair advantages in new arenas.",
+            "actionableAdvice": "Repurpose your diverse past skills to enrich your current innovative endeavors, presenting a unique, multi-faceted perspective to the world.",
+            "systemFriction": "Compartmentalizing your past or treating prior career chapters as wasted time, rather than recognizing them as foundational building blocks."
+          },
+          {
+            "vectorId": "VEC_VOC_MASTERY_RULER_SUPPORT_ACTIVE",
+            "phenomenon": "Primary Mastery Alignment Active & Coherent",
+            "mentorsMessage": "Your primary leadership archetype is clear. Align your daily actions with this strength to experience effortless leverage.",
+            "clinicalInterpretation": "Confirms that the individual has identified and embraced their dominant professional archetype. Daily work flows with greater ease because personal talents, cognitive strengths, and external responsibilities are harmoniously matched.",
+            "actionableAdvice": "Organize your brand narrative and daily work routines around your primary professional strength, cultivating an environment that honors your natural working style.",
+            "systemFriction": "Forcing yourself into a working style contrary to your nature, or neglecting the healthy boundaries needed to sustain your craft."
+          },
+          {
+            "vectorId": "VEC_VOC_MASTERY_RULER_CONSTRAINED",
+            "phenomenon": "Patient Mastery Forged Under Initial Constraints",
+            "mentorsMessage": "Initial constraints are a coiling spring. Persevere through early pressure; the deepest mastery is forged in the crucible of patience.",
+            "clinicalInterpretation": "Indicates that primary vocational gifts encounter early structural hurdles, demanding standards, or slow starts. Navigating these constraints builds exceptional perseverance, technical thoroughness, and an unshakeable inner foundation that serves as an enduring advantage later in life.",
+            "actionableAdvice": "Establish meticulous operational practices and risk management. Treat obstacles as diagnostic checkpoints that refine your skills rather than reasons to quit.",
+            "systemFriction": "Blaming external circumstances for early delays, or trying to take shortcuts to bypass thorough foundational training."
+          },
+          {
+            "vectorId": "VEC_VOC_MASTERY_RULER_MERCURY",
+            "phenomenon": "Mastery Archetype: Precision Intellect & Network Architecture",
+            "mentorsMessage": "Clarity of thought is sovereignty in action. Design the architecture of communication, knowledge exchange, and intellectual leverage.",
+            "clinicalInterpretation": "An agile, analytical intelligence excelling in communication, software architecture, technical documentation, education, and organizing complex information. Quickly identifies patterns and clarifies communication between diverse disciplines.",
+            "actionableAdvice": "Create valuable knowledge products, software frameworks, editorial platforms, and streamlined information systems. Monetize clarity, education, and efficient communication.",
+            "systemFriction": "Mental restlessness that jumps to new concepts before a current project has achieved solid real-world traction."
+          },
+          {
+            "vectorId": "VEC_VOC_OPERATIONAL_MODALITY_HYBRID_ADAPTIVE",
+            "phenomenon": "Modality: Versatile Multi-Disciplinary Architecture",
+            "mentorsMessage": "Flexibility is the hallmark of master design. Adapt your expression smoothly between research, collaboration, and delivery as the mission requires.",
+            "clinicalInterpretation": "A versatile working style capable of shifting between solo research, team leadership, and structured client delivery. This agility prevents stagnation and enables effective communication across diverse disciplines and stakeholders.",
+            "actionableAdvice": "Maintain a balanced workflow: dedicate specific days or hours to deep solo focus, and other designated times for collaborative team orchestration and client presentations.",
+            "systemFriction": "Losing your core focus by trying to meet every external expectation at once, or failing to establish clear boundaries around your primary work."
+          },
+          {
+            "vectorId": "VEC_VOC_CORE_ROLE_BUILDER",
+            "phenomenon": "Core Craft Role: Dedicated Builder & Compounding Artisan",
+            "mentorsMessage": "You are the steady motor of endurance. Respond to genuine calls, dedicate yourself to your craft, and let patient compounding build your enduring work.",
+            "clinicalInterpretation": "Activates the Builder role. Powered by steady, regenerative vitality, this orientation confers extraordinary capacity for sustained craftsmanship, iterative refinement, and tangible materialization. The individual flourishes when responding to real-world needs and meaningful challenges, deriving profound fulfillment from seeing dedication turn into finished masterworks.",
+            "actionableAdvice": "Commit your energy to projects that evoke a genuine, visceral 'yes' within your core. Focus on patient craftsmanship, daily compounding output, and tangible, high-quality deliverables.",
+            "systemFriction": "Initiating actions solely out of mental 'shoulds', or exhausting your stamina on uninspiring, draining obligations that breed frustration."
+          },
+          {
+            "vectorId": "VEC_VOC_LIFECYCLE_RIGHT_ANGLE",
+            "phenomenon": "Autonomous Self-Mastery & Creative Exploration",
+            "mentorsMessage": "Your path unfolds through deep personal exploration. Immerse yourself in your craft; the world will naturally benefit from your honest harvest.",
+            "clinicalInterpretation": "An individualized vocational path where growth occurs primarily through personal research, craftsmanship, and self-directed mastery. The individual generates immense momentum when allowed to follow their own curiosity and develop skills thoroughly before sharing them broadly.",
+            "actionableAdvice": "Prioritize personal craftsmanship, product development, and quiet R&D. Trust that your personal discoveries will find natural market utility when fully matured.",
+            "systemFriction": "Forcing yourself to prematurely manage large groups at the expense of your personal creative exploration and skill building."
+          },
+          {
+            "vectorId": "VEC_VOC_LIFECYCLE_GEOMETRY_STRONG",
+            "phenomenon": "Seamless Alignment Between Inner Calling & Outer Craft",
+            "mentorsMessage": "Your inner compass and outer work are aligned. Walk your clear line with steady dedication, undisturbed by passing fads.",
+            "clinicalInterpretation": "High structural harmony between personal identity and external vocation. The individual experiences minimal friction between who they are and what they create, creating steady career momentum, clear strategic choices, and an unmistakable professional reputation.",
+            "actionableAdvice": "Double down on your primary life's work. Politely decline side projects or proposals that distract from your core creative focus.",
+            "systemFriction": "Diluting your focus by chasing trendy distractions, or second-guessing your sound trajectory during normal quiet periods."
+          },
+          {
+            "vectorId": "VEC_VOC_LIFECYCLE_ACTIVATION_AGE_REACHED",
+            "phenomenon": "Mature Sovereignty: Transition into Full Authority",
+            "mentorsMessage": "The preparatory apprenticeship has concluded. Step onto your primary stage and embrace the full responsibility of your mature gifts.",
+            "clinicalInterpretation": "Confirms that the individual has traversed key formative developmental thresholds, unlocking the full maturity of their vocational calling. The psyche transitions from trial-and-error experimentation to confident, authoritative mentorship and leadership.",
+            "actionableAdvice": "Shed apprentice-level hesitation. Update your professional positioning, share your comprehensive frameworks, and take confident ownership of your specialized domain.",
+            "systemFriction": "Clinging to student hesitation, or shying away from the natural weight and privilege of mature leadership."
+          }
         ],
         "math": {
           "missionClarityScore": {
@@ -157,16 +274,80 @@
       {
         "engineId": "engine_2",
         "description": "In which economic landscapes and professional sectors does my unique craft produce the highest leverage, and how do I focus my strategic resources to build an enduring legacy?",
+        "totalVectors": 9,
         "vectors": [
-          "VEC_VOC_PRECISION_DRIVER_SYSTEMIC_CONSOLIDATION",
-          "VEC_VOC_PRECISION_SENTINEL_EXECUTIVE_FOCUS",
-          "VEC_VOC_MACRO_SECTOR_EXECUTIVE_COMMAND",
-          "VEC_VOC_MICRO_SUBSECTOR_REFINED",
-          "VEC_VOC_SECTOR_POWER_CONCENTRATED",
-          "VEC_VOC_ZENITH_POINT_ACTIVE",
-          "VEC_VOC_ZENITH_SIGN_STRONG",
-          "VEC_VOC_ZENITH_SECTOR_EMPHASIS",
-          "VEC_VOC_FINANCIAL_AXIS_BALANCED"
+          {
+            "vectorId": "VEC_VOC_PRECISION_DRIVER_SYSTEMIC_CONSOLIDATION",
+            "phenomenon": "Execution Driver: Operational Pruning & Streamlined Value",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_PRECISION_SENTINEL_EXECUTIVE_FOCUS",
+            "phenomenon": "Quality Sentinel: Visionary Integrity & Executive Standards",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MACRO_SECTOR_EXECUTIVE_COMMAND",
+            "phenomenon": "Macro Sector: Executive Governance & Institutional Stewardship",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MICRO_SUBSECTOR_REFINED",
+            "phenomenon": "Micro-Niche Specialization & Precision Positioning",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_SECTOR_POWER_CONCENTRATED",
+            "phenomenon": "Concentrated Sector Mastery (1–3 Core Domains)",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_ZENITH_POINT_ACTIVE",
+            "phenomenon": "Public Zenith Alignment & Peak Vocational Authority",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_ZENITH_SIGN_STRONG",
+            "phenomenon": "Authentic Public Archetype & Natural Executive Resonance",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_ZENITH_SECTOR_EMPHASIS",
+            "phenomenon": "Concentrated Institutional Mandate & Public Calling",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_FINANCIAL_AXIS_BALANCED",
+            "phenomenon": "Balanced Financial Equilibrium: Direct Craft & Leveraged Holdings",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "marketMomentumIndex": {
@@ -254,15 +435,72 @@
       {
         "engineId": "engine_3",
         "description": "What specific cognitive engines, energetic rhythms, and innate talent clusters power my professional craft, and how do I deploy them without friction or exhaustion?",
+        "totalVectors": 8,
         "vectors": [
-          "VEC_VOC_TALENT_CLUSTER_STRUCTURAL_ENGINEERING",
-          "VEC_VOC_MOTOR_ROUTE_SACRAL_DEFINED",
-          "VEC_VOC_MOTOR_ROUTE_ROOT_DEFINED",
-          "VEC_VOC_MOTOR_ROUTE_HEART_DEFINED",
-          "VEC_VOC_MOTOR_ROUTE_SOLAR_PLEXUS_DEFINED",
-          "VEC_VOC_FREQUENCY_BAND_INDIVIDUAL_DOMINANT",
-          "VEC_VOC_MOTOR_ENDURANCE_HIGH",
-          "VEC_VOC_BUSINESS_SKILL_SYSTEMIC_AUDIT"
+          {
+            "vectorId": "VEC_VOC_TALENT_CLUSTER_STRUCTURAL_ENGINEERING",
+            "phenomenon": "Talent Cluster: Enduring Scaffolding, Governance & Scalable Systems",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MOTOR_ROUTE_SACRAL_DEFINED",
+            "phenomenon": "Regenerative Vitality & Compounding Craftsmanship",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MOTOR_ROUTE_ROOT_DEFINED",
+            "phenomenon": "Momentum Under Pressure & Crisis Adaptation",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MOTOR_ROUTE_HEART_DEFINED",
+            "phenomenon": "Focused Willpower & Material Stewardship",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MOTOR_ROUTE_SOLAR_PLEXUS_DEFINED",
+            "phenomenon": "Emotional Depth & Patient Clarity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_FREQUENCY_BAND_INDIVIDUAL_DOMINANT",
+            "phenomenon": "Primary Frequency: Solitary Breakthroughs & Innovative Insights",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_MOTOR_ENDURANCE_HIGH",
+            "phenomenon": "High Sustained Operational Endurance & Steady Output",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_BUSINESS_SKILL_SYSTEMIC_AUDIT",
+            "phenomenon": "Business Skill: Objective Systems Diagnostics & Quality Auditing",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "motorThroughputScore": {
@@ -300,14 +538,64 @@
       {
         "engineId": "engine_4",
         "description": "What is my authentic leadership archetype, how do I wield executive authority with wisdom and integrity, and how do I structure decision-making to achieve lasting impact?",
+        "totalVectors": 7,
         "vectors": [
-          "VEC_VOC_MARKET_ROLE_BUILDER",
-          "VEC_VOC_PLANETARY_STRENGTH_APEX",
-          "VEC_VOC_DRIVER_PLANET_MERCURY",
-          "VEC_VOC_PLANETARY_STRENGTH_CONSTRAINED",
-          "VEC_VOC_COMMAND_CHAIN_SINGLE_APEX",
-          "VEC_VOC_COMMAND_CHAIN_MUTUAL_RECEPTION",
-          "VEC_VOC_COGNITIVE_STYLE_TACTICAL_EXECUTOR"
+          {
+            "vectorId": "VEC_VOC_MARKET_ROLE_BUILDER",
+            "phenomenon": "Market Role: Operational Builder & Sustained Creator",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_PLANETARY_STRENGTH_APEX",
+            "phenomenon": "Operational Strength: Apex Core Competence",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_DRIVER_PLANET_MERCURY",
+            "phenomenon": "Primary Driver: Analytical Precision & Systems Architecture",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_PLANETARY_STRENGTH_CONSTRAINED",
+            "phenomenon": "Operational Strength: Constrained Channel & Scaffolding Requirement",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_COMMAND_CHAIN_SINGLE_APEX",
+            "phenomenon": "Command Chain: Singular Apex Executive Focus",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_COMMAND_CHAIN_MUTUAL_RECEPTION",
+            "phenomenon": "Command Chain: Mutual Reinforcement Strategic Circuit",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_COGNITIVE_STYLE_TACTICAL_EXECUTOR",
+            "phenomenon": "Cognitive Style: Tactical Executor & Dynamic Field Leader",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "roleConfidenceScore": {
@@ -355,12 +643,48 @@
       {
         "engineId": "engine_5",
         "description": "How do I cultivate, preserve, and circulate material abundance with wisdom, ensuring that my financial foundations support my true purpose and generational security?",
+        "totalVectors": 5,
         "vectors": [
-          "VEC_VOC_CAPITAL_RESERVOIR_BALANCED",
-          "VEC_VOC_ASSET_PILLAR_TRUST_FUND",
-          "VEC_VOC_CASHFLOW_DIRECT_VELOCITY_HIGH",
-          "VEC_VOC_WEALTH_VELOCITY_STEADY",
-          "VEC_VOC_WEALTH_STAGNATION_RISK"
+          {
+            "vectorId": "VEC_VOC_CAPITAL_RESERVOIR_BALANCED",
+            "phenomenon": "Capital Reservoir: Harmonic Equilibrium & Dual-Cycle Capital Dynamo",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_ASSET_PILLAR_TRUST_FUND",
+            "phenomenon": "Asset Foundation: Legacy Governance, Protective Trusts & Generational Stewardship",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_CASHFLOW_DIRECT_VELOCITY_HIGH",
+            "phenomenon": "Cashflow Dynamics: High Direct Craft Velocity & Personal Monetization",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_WEALTH_VELOCITY_STEADY",
+            "phenomenon": "Wealth Velocity: Steady Compounding Rhythm & Multi-Cycle Sustainability",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_WEALTH_STAGNATION_RISK",
+            "phenomenon": "Wealth Velocity: Capital Stagnation Risk & Hesitant Deployment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "solarExpansionScore": {
@@ -458,13 +782,56 @@
       {
         "engineId": "engine_6",
         "description": "How do I translate visionary intention into grounded, sustainable execution, maintain my sovereignty against external pressures, and scale my craft to endure beyond myself?",
+        "totalVectors": 6,
         "vectors": [
-          "VEC_VOC_KINETIC_ACTION_RIGOR",
-          "VEC_VOC_KINETIC_ACTION_AGILITY",
-          "VEC_VOC_PROJECT_SCALING_EXPONENTIAL",
-          "VEC_VOC_PROJECT_SUCCESSION_READY",
-          "VEC_VOC_SOVEREIGNTY_AUTONOMOUS_EXECUTOR",
-          "VEC_VOC_KINETIC_VELOCITY_DIRECT"
+          {
+            "vectorId": "VEC_VOC_KINETIC_ACTION_RIGOR",
+            "phenomenon": "Kinetic Action Profile: Structural Rigor & Uncompromised Quality Control",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_KINETIC_ACTION_AGILITY",
+            "phenomenon": "Kinetic Action Profile: Operational Agility & Rapid Prototyping",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_PROJECT_SCALING_EXPONENTIAL",
+            "phenomenon": "Project Scaling: Wisdom Multiplication & Scalable Knowledge Sharing",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_PROJECT_SUCCESSION_READY",
+            "phenomenon": "Project Scaling: Succession Stewardship & Sustainable Legacy",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_SOVEREIGNTY_AUTONOMOUS_EXECUTOR",
+            "phenomenon": "Sovereignty Boundary: Natural Autonomy & Grounded Inner Guidance",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_VOC_KINETIC_VELOCITY_DIRECT",
+            "phenomenon": "Execution Velocity: Direct Purposeful Velocity & Decisive Action",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "kineticDecanScore": {

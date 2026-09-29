@@ -8,7 +8,7 @@
 
 1. [Are generated user blueprints lifelong, or do they expire?](#1-are-generated-user-blueprints-lifelong-or-do-they-expire)
 2. [How does pricing work, and what is the MEGA plan soft limit?](#2-how-does-pricing-work-and-what-is-the-mega-plan-soft-limit)
-3. [How do the open-source Markdown dictionaries interact with the API?](#3-how-do-the-open-source-markdown-dictionaries-interact-with-the-api)
+3. [How are vector interpretations and systemic alerts delivered?](#3-how-are-vector-interpretations-and-systemic-alerts-delivered)
 4. [Why are the 33 engines split into 5 modular criteria instead of one giant endpoint?](#4-why-are-the-33-engines-split-into-5-modular-criteria-instead-of-one-giant-endpoint)
 5. [What is the exact impact of an unknown or default birth time (12:00)?](#5-what-is-the-exact-impact-of-an-unknown-or-default-birth-time-1200)
 6. [Does Cognitive Blueprint AI store user data or require GDPR cookie banners?](#6-does-cognitive-blueprint-ai-store-user-data-or-require-gdpr-cookie-banners)
@@ -50,18 +50,18 @@ Unlike APIs that drop incoming connections or throw `429 Too Many Requests` erro
 
 ---
 
-### 3. How do the open-source Markdown dictionaries interact with the API?
+### 3. How are vector interpretations and systemic alerts delivered?
 
-The RapidAPI gateway functions as a high-speed, lean calculation engine. It computes spatiotemporal mathematics in milliseconds and emits compact JSON containing:
-* Quantitative metrics (`math`)
-* Standardized phenomenon vector codes (`vectors`, e.g. `VEC_ID_CORE_KINETIC_BUILDER`)
-* Systemic tension alerts (`crossEngineAlerts`, e.g. `KARMIC_CAPITAL_LOCK`)
+**Interpretations and alerts are delivered directly inline within the API JSON response.**
 
-This open-source GitHub repository provides the complete clinical semantic explanations in [`DICTIONARY/`](../DICTIONARY/) and [`ALERTS/`](../ALERTS/). 
+The Cognitive Blueprint AI Engine computes spatiotemporal mathematics and automatically enriches every activated vector and alert with its complete clinical guidance:
+* **Quantitative metrics** (`math`): Clean numeric indicators, scores (0–100), and latency thresholds.
+* **Enriched Vectors** (`vectors`): Each vector includes `phenomenon`, `mentorsMessage`, `clinicalInterpretation`, `actionableAdvice`, and `systemFriction` (compensatory conditioning to avoid).
+* **Systemic Alerts** (`crossEngineAlerts`): Each alert includes `title`, `systemTension`, `mentorsDiagnosis`, and concrete `strategicRemediation` protocols.
 
-**Why Decouple Compute from Text?**
-1. **Network Performance**: Keeps API responses lightweight (<5KB) and sub-50ms.
-2. **LLM Flexibility**: Developers can bundle, customize, or index the markdown files into their own RAG vector databases (Pinecone, ChromaDB, Qdrant, pgvector) without being locked into rigid server-side copy.
+Developers receive all semantic interpretation text directly in the payload, eliminating the need to parse external dictionary files or build local lookup mappings. Proprietary ontological dictionaries remain secure on-server.
+
+For a concrete demonstration of this response structure, see [**`EXAMPLE/nikola_tesla_json/`**](../EXAMPLE/nikola_tesla_json/).
 
 ---
 
@@ -102,7 +102,7 @@ Earth rotates 1° every 4 minutes, causing local angular axes to move continuous
 Explore the [`EXAMPLE/`](../EXAMPLE/) directory:
 * [`EXAMPLE/README.md`](../EXAMPLE/README.md): Step-by-step benchmark using **Nikola Tesla** (`1856-07-10 00:00`, Smiljan).
 * [`EXAMPLE/nikola_tesla_json/`](../EXAMPLE/nikola_tesla_json/): Raw JSON payloads for all 5 criteria exactly as returned by RapidAPI.
-* [`EXAMPLE/nikola_tesla_interpretation/`](../EXAMPLE/nikola_tesla_interpretation/): 33 comprehensive clinical inquiry reports synthesized by feeding the raw telemetry and markdown dictionaries into an LLM.
+* [`EXAMPLE/nikola_tesla_interpretation/`](../EXAMPLE/nikola_tesla_interpretation/): 33 comprehensive clinical inquiry reports synthesized directly from the enriched API telemetry.
 
 ---
 

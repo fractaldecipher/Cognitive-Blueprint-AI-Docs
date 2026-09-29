@@ -16,37 +16,206 @@
     "title": "Blocks, Defense & Lineage Architecture",
     "totalVectors": 58,
     "coherenceScore": 30,
+    "crossEngineAlertsCount": 2,
     "crossEngineAlerts": [
-      "KARMIC_CAPITAL_LOCK",
-      "NOCTURNAL_PARASITE_DRAIN"
+      {
+        "alertCode": "KARMIC_CAPITAL_LOCK",
+        "title": "Karmic Capital Lock & Recurrent Financial Sabotage",
+        "systemTension": "A destructive feedback loop operating across the 2nd/8th financial axis, D-30 self-sabotage scanner, or 14/16/19 Karmic Debt numbers. Capital accumulates to a specific quantitative threshold, whereupon an automated subconscious trigger fires, causing rapid asset dissipation—reckless investments, unvetted loans to partners, sudden legal disputes, or organizational collapse. This pattern repeats cyclically, keeping the operator trapped in a perpetual cycle of \"build, collapse, rebuild.\"",
+        "mentorsDiagnosis": "You have an invisible wealth ceiling imprinted into your financial nervous system. Every time your balance sheet crosses your subconscious threshold of familiarity, your somatic system panics and triggers a crisis to disperse the \"excess\" capital. You are treating capital as emotional toxicity rather than sovereign energy.",
+        "strategicRemediation": [
+          "Automated Wealth Vaulting: Establish automated capital sweeps that instantly move 30-50% of incoming profits into inaccessible, hard-asset vaults (gold, real estate, locked trusts) before your mind can touch or re-invest it.",
+          "No-Bailout Rule: Strictly prohibit emergency loans, gifts, or speculative investments with friends, family, or unvetted partners.",
+          "Financial Thermostat Reset: Gradually increase your liquid cash holding threshold by 20% every quarter, forcing your nervous system to acclimatize to high liquidity without panicking."
+        ]
+      },
+      {
+        "alertCode": "NOCTURNAL_PARASITE_DRAIN",
+        "title": "Nocturnal Parasite Drain & Sleep Field Contamination",
+        "systemTension": "Severe aura vulnerability during NREM/REM sleep cycles caused by sleeping in shared aura fields (within 3–5 meters of another human), high EMF exposure, or open receptive centers absorbing ambient environmental conditioning. During sleep, the somatic defenses drop, allowing foreign emotional turbulence, mental pressure, and vegetative conditioning to infiltrate the operator's subconscious psyche and somatic memory. The result is waking up exhausted, anxious, or burdened with \"mysterious\" negative states that do not belong to the operator.",
+        "mentorsDiagnosis": "Your aura and nervous system remain completely unshielded all night. While you sleep, your receptive centers passively absorb and process the emotional turbulence and anxieties of whoever shares your physical aura radius. You cannot build a sovereign empire when your nocturnal recovery is compromised by ambient psychological noise.",
+        "strategicRemediation": [
+          "Mandatory Solitary Sleep: Sleep in a completely isolated aura sanctuary (minimum 3–5 meters away from any other person's physical body/bed).",
+          "EMF & Digital Quarantine: Eliminate all Wi-Fi routers, smartphones, and active electronics from the sleeping sanctuary. Shut down screens by 22:00.",
+          "Evening Hydro-Purging: Execute a mandatory evening saltwater bath or cold shower ritual prior to bed to wash off daytime somatic conditioning."
+        ]
+      }
     ],
     "dominantTheme": "CAPITAL_LOCK",
     "engines": [
       {
         "engineId": "engine_1",
         "description": "What reactive defense patterns, unconscious inhibitors, and deep emotional patterns drain my vital energy, and how can they be transformed into wisdom?",
+        "totalVectors": 21,
         "vectors": [
-          "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
-          "VEC_BLK_REACTIVITY_NODE_054_COMPULSIVE_GREED",
-          "VEC_BLK_REACTIVITY_NODE_051_SHOCK_AGITATION",
-          "VEC_BLK_REACTIVITY_NODE_057_APPREHENSIVE_UNEASE",
-          "VEC_BLK_PATTERN_CLUSTER_HUMANITY_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_TRIALS_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_ILLUSION_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_LIFE_DEATH_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_SEEKING_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_MATTER_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_PROSPERITY_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_DIVINITY_ACTIVE",
-          "VEC_BLK_PATTERN_CLUSTER_MIRACLES_ACTIVE",
-          "VEC_BLK_INHIBITOR_SPHERE_DUALITY_SPLIT",
-          "VEC_BLK_INHIBITOR_SPHERE_CHAOS_SABOTAGE",
-          "VEC_BLK_CORE_WOUND_ANNIHILATION",
-          "VEC_BLK_CATALYST_TRANSMUTATION_ACTIVE",
-          "VEC_BLK_CATALYST_VECTOR_SERVICE_TO_OTHERS",
-          "VEC_BLK_CORE_WOUND_ACUTE_VULNERABILITY",
-          "VEC_BLK_ENTROPY_ADVERSARIAL_PARALYSIS",
-          "VEC_BLK_SHELL_MATERIAL_INERTIA"
+          {
+            "vectorId": "VEC_BLK_REACTIVITY_NODE_053_PREMATURE_INITIATION",
+            "phenomenon": "Premature Initiation & Abandonment Urge",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_REACTIVITY_NODE_054_COMPULSIVE_GREED",
+            "phenomenon": "Compulsive Ambition & Status Anxiety",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_REACTIVITY_NODE_051_SHOCK_AGITATION",
+            "phenomenon": "Shock Agitation & Traumatic Hyper-Arousal",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_REACTIVITY_NODE_057_APPREHENSIVE_UNEASE",
+            "phenomenon": "Apprehensive Hesitation & Fear of Tomorrow",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_HUMANITY_ACTIVE",
+            "phenomenon": "Somatic Presence & Warm Self-Regard",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_TRIALS_ACTIVE",
+            "phenomenon": "Mindful Restraint & Refining Expression",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_ILLUSION_ACTIVE",
+            "phenomenon": "Discerning Enduring Value & Facing Impermanence",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_LIFE_DEATH_ACTIVE",
+            "phenomenon": "Natural Cycles of Renewal & Conscious Closure",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_SEEKING_ACTIVE",
+            "phenomenon": "Inner Inquiry & Directing Restless Drive",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_MATTER_ACTIVE",
+            "phenomenon": "Grounded Discernment & Constructive Refinement",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_PROSPERITY_ACTIVE",
+            "phenomenon": "Dedicated Mastery & Practical Stewardship",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_DIVINITY_ACTIVE",
+            "phenomenon": "Compassionate Poise & Communal Warmth",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_PATTERN_CLUSTER_MIRACLES_ACTIVE",
+            "phenomenon": "Present-Moment Attunement & Clear Simplicity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_INHIBITOR_SPHERE_DUALITY_SPLIT",
+            "phenomenon": "Polarized Splitting & Black-and-White Thinking",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_INHIBITOR_SPHERE_CHAOS_SABOTAGE",
+            "phenomenon": "Unconscious Disruption & Stability Sabotage",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CORE_WOUND_ANNIHILATION",
+            "phenomenon": "Existential Dread & Over-Control Defense",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CATALYST_TRANSMUTATION_ACTIVE",
+            "phenomenon": "Transmuting Pain into Wisdom",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CATALYST_VECTOR_SERVICE_TO_OTHERS",
+            "phenomenon": "Purposeful Contribution & Transpersonal Service",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CORE_WOUND_ACUTE_VULNERABILITY",
+            "phenomenon": "Acute Sensitivity & Porous Boundaries",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_ENTROPY_ADVERSARIAL_PARALYSIS",
+            "phenomenon": "Practical Resistance & Motivational Fatigue",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_SHELL_MATERIAL_INERTIA",
+            "phenomenon": "Dense Inertia & Possessive Stagnation Armor",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "activePatternClustersCount": {
@@ -124,15 +293,72 @@
       {
         "engineId": "engine_2",
         "description": "What ancestral patterns, inherited survival fears, and intergenerational burdens are imprinted in my cellular memory, and how do I transform them into sovereign strength?",
+        "totalVectors": 8,
         "vectors": [
-          "VEC_BLK_LINEAGE_GENERAL_HARDWARE_IMPRINT",
-          "VEC_BLK_LINEAGE_MATERNAL_SCARCITY_LOCK",
-          "VEC_BLK_LINEAGE_PATERNAL_AUTHORITY_GRIT",
-          "VEC_BLK_MITOCHONDRIAL_STRESS_LOOP_ACTIVE",
-          "VEC_BLK_MORPHIC_ANCESTRAL_REPETITION_LOCK",
-          "VEC_BLK_DEFENSE_RATIONALIZATION",
-          "VEC_BLK_CATHARSIS_ANCESTRAL_PURGE_ACTIVE",
-          "VEC_BLK_CATHARSIS_IDENTITY_SOVEREIGNTY_CRISIS"
+          {
+            "vectorId": "VEC_BLK_LINEAGE_GENERAL_HARDWARE_IMPRINT",
+            "phenomenon": "Ancestral Somatic Imprints & Physical Conditioning",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_LINEAGE_MATERNAL_SCARCITY_LOCK",
+            "phenomenon": "Maternal Lineage Scarcity & Emotional Guarding",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_LINEAGE_PATERNAL_AUTHORITY_GRIT",
+            "phenomenon": "Paternal Lineage Discipline & Resilient Grit",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_MITOCHONDRIAL_STRESS_LOOP_ACTIVE",
+            "phenomenon": "Cellular Fatigue & Inherited Stress Residue",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_MORPHIC_ANCESTRAL_REPETITION_LOCK",
+            "phenomenon": "Disrupting Ancestral Crisis Cycles",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_DEFENSE_RATIONALIZATION",
+            "phenomenon": "Logical Justification of Boundary Violations",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CATHARSIS_ANCESTRAL_PURGE_ACTIVE",
+            "phenomenon": "Active Purification & Release of Generational Residue",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CATHARSIS_IDENTITY_SOVEREIGNTY_CRISIS",
+            "phenomenon": "Dissolution of Inherited Family Roles",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "parentalHarmonicIndex": {
@@ -240,18 +466,96 @@
       {
         "engineId": "engine_3",
         "description": "What unresolved life lessons, unexamined vows, and cyclical developmental crossroads shape my journey, and how do I transform past inertia into purposeful mastery?",
+        "totalVectors": 11,
         "vectors": [
-          "VEC_BLK_KARMIC_TOWER_COLLAPSE_16",
-          "VEC_BLK_KARMIC_DEGREE_IMPRINT_ACTIVE",
-          "VEC_BLK_KARMIC_PROTOCOL_SENSORY_QUARANTINE",
-          "VEC_BLK_KARMIC_PROTOCOL_EGO_DECOMPILATION",
-          "VEC_BLK_GRAVITY_EVOLUTIONARY_HEADWIND",
-          "VEC_BLK_VOW_VISIBILITY_SUPPRESSION",
-          "VEC_BLK_NODAL_SOUTH_REGRESSION_LOOP",
-          "VEC_BLK_SKIPPED_STEP_CRUCIBLE",
-          "VEC_BLK_SKIPPED_STEP_MULTIPLE_LOCK",
-          "VEC_BLK_EVOLUTIONARY_MATURITY_TRANSITION",
-          "VEC_BLK_KARMIC_ECLIPSE_CASCADE_ACUTE"
+          {
+            "vectorId": "VEC_BLK_KARMIC_TOWER_COLLAPSE_16",
+            "phenomenon": "Collapse of False Pride & Return to Solid Ground",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_KARMIC_DEGREE_IMPRINT_ACTIVE",
+            "phenomenon": "Urgency of Completion & Final Thresholds",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_KARMIC_PROTOCOL_SENSORY_QUARANTINE",
+            "phenomenon": "Remediation: Intentional Stillness & Sensory Recalibration",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_KARMIC_PROTOCOL_EGO_DECOMPILATION",
+            "phenomenon": "Remediation: Cultivating Humility & Dismantling Pride",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_GRAVITY_EVOLUTIONARY_HEADWIND",
+            "phenomenon": "Developmental Resistance & Character Refinement",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_VOW_VISIBILITY_SUPPRESSION",
+            "phenomenon": "Releasing the Protective Cloak of Invisibility",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_NODAL_SOUTH_REGRESSION_LOOP",
+            "phenomenon": "The Lure of the Familiar Comfort Zone",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_SKIPPED_STEP_CRUCIBLE",
+            "phenomenon": "Confronting the Overlooked Foundational Step",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_SKIPPED_STEP_MULTIPLE_LOCK",
+            "phenomenon": "Navigating Multiple Overlapping Developmental Demands",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_EVOLUTIONARY_MATURITY_TRANSITION",
+            "phenomenon": "The Transformative Threshold & Restructuring of Values",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_KARMIC_ECLIPSE_CASCADE_ACUTE",
+            "phenomenon": "Acute Transformative Crossroads & Sudden Realignment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "existentialFrictionCode": {
@@ -349,11 +653,40 @@
       {
         "engineId": "engine_4",
         "description": "Where am I leaking resources, underpricing my authentic value, or fearing commercial expansion, and how do I construct an unassailable foundation of financial sovereignty?",
+        "totalVectors": 4,
         "vectors": [
-          "VEC_BLK_CAPITAL_FLOW_MARKET_DISRUPTION",
-          "VEC_BLK_CRISIS_DRAIN_SUDDEN_LIQUIDATION",
-          "VEC_BLK_SCALE_BLOCKADE_VISIBILITY_SUPPRESSION",
-          "VEC_BLK_SCALE_BLOCKADE_EXPANSION_FEAR"
+          {
+            "vectorId": "VEC_BLK_CAPITAL_FLOW_MARKET_DISRUPTION",
+            "phenomenon": "Structural Overhead Leakage & Uncontracted Scope Creep",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_CRISIS_DRAIN_SUDDEN_LIQUIDATION",
+            "phenomenon": "Volatility Vulnerability & Lack of Liquid Reserves",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_SCALE_BLOCKADE_VISIBILITY_SUPPRESSION",
+            "phenomenon": "Fear of Commercial Exposure & Self-Induced Obscurity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_SCALE_BLOCKADE_EXPANSION_FEAR",
+            "phenomenon": "Fear of Expansion & Hesitation to Embrace Leverage",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "structuralResistancePct": {
@@ -411,18 +744,96 @@
       {
         "engineId": "engine_5",
         "description": "How do I protect my sovereign boundaries from external friction and predatory dynamics, integrate my exiled shadow instincts, and transmute inner bitterness into focused mastery?",
+        "totalVectors": 11,
         "vectors": [
-          "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
-          "VEC_BLK_POISON_INNER_SABOTAGE_LOOP",
-          "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
-          "VEC_BLK_EXILE_REPRESSED_DESIRE_LOCK",
-          "VEC_BLK_QUARANTINE_HEAVY",
-          "VEC_BLK_QUARANTINE_DUPLICATED_PROJECTION",
-          "VEC_BLK_TRAPPED_CAPACITY_EXILE",
-          "VEC_BLK_APOGEE_SHADOW_SABOTAGE_ACTIVE",
-          "VEC_BLK_APOGEE_SHADOW_TRANSMUTATION",
-          "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
-          "VEC_BLK_SINGULARITY_ALBEDO_REFINEMENT"
+          {
+            "vectorId": "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
+            "phenomenon": "Hesitation in Executive Command & Fear of Judgment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_POISON_INNER_SABOTAGE_LOOP",
+            "phenomenon": "Subconscious Defeatism, Cynicism & Auto-Intoxication",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
+            "phenomenon": "Misalignment Between Conscious Goals & Subconscious Action",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_EXILE_REPRESSED_DESIRE_LOCK",
+            "phenomenon": "Repression of Ambition & Compensatory Eruptions",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_QUARANTINE_HEAVY",
+            "phenomenon": "Deep Creative Containment & High-Pressure Incubation",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_QUARANTINE_DUPLICATED_PROJECTION",
+            "phenomenon": "Compensatory Over-Functioning & Energy Imbalance",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_TRAPPED_CAPACITY_EXILE",
+            "phenomenon": "Latent High-Pressure Gift & Emergency Resilience",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_APOGEE_SHADOW_SABOTAGE_ACTIVE",
+            "phenomenon": "Unintegrated Primal Shadow & Destructive Outbursts",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_APOGEE_SHADOW_TRANSMUTATION",
+            "phenomenon": "Alchemical Integration: Raw Fire into Magnetic Authority",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_STRUCTURAL_AUTHORITY_FEAR",
+            "phenomenon": "Hesitation in Executive Command & Fear of Judgment",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          },
+          {
+            "vectorId": "VEC_BLK_SINGULARITY_ALBEDO_REFINEMENT",
+            "phenomenon": "Crystalline Purification & Intellectual Clarity",
+            "mentorsMessage": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "clinicalInterpretation": "[LOCKED — Available via RapidAPI Pro/Mega Tier]",
+            "actionableAdvice": "[LOCKED — Actionable mentoring protocols available via RapidAPI Pro/Mega Tier]",
+            "systemFriction": "[LOCKED — Compensatory shadow patterns available via RapidAPI Pro/Mega Tier]"
+          }
         ],
         "math": {
           "litigationExposureIndex": {
@@ -580,10 +991,32 @@
       {
         "engineId": "engine_6",
         "description": "How do I protect my nervous system from chronic depletion, prevent burnout, and cultivate deep, sovereign restoration during sleep?",
+        "totalVectors": 3,
         "vectors": [
-          "VEC_BLK_BURNOUT_CRITICAL",
-          "VEC_BLK_BLINDSPOT_LATENT_DIVERGENCE",
-          "VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY"
+          {
+            "vectorId": "VEC_BLK_BURNOUT_CRITICAL",
+            "phenomenon": "Critical Adrenal Fatigue & Mandatory Rest Shutdown",
+            "mentorsMessage": "When the body is driven past its sacred limits, collapse is not a defeat—it is the organism's compassionate emergency brake to preserve life.",
+            "clinicalInterpretation": "Acute nervous system exhaustion and adrenal depletion resulting from prolonged, unrelenting effort without recuperative cycles. When natural warning signals have been overridden, the nervous system triggers an involuntary shutdown—marked by dense brain fog, muscular heaviness, and total lethargy—to protect vital organs from permanent strain.",
+            "actionableAdvice": "Enforce an immediate period of complete physical and mental rest. Step away from digital screens, postpone non-essential decisions, and surrender to gentle, restorative care: warm nourishing broths, deep quiet, and unhurried sleep.",
+            "systemFriction": "Attempting to override the shutdown with excess caffeine, energy drinks, or sheer willpower. Avoid treating physical exhaustion as a character flaw."
+          },
+          {
+            "vectorId": "VEC_BLK_BLINDSPOT_OVERLOAD_CONDITIONING",
+            "phenomenon": "Hidden Physical Depletion & The Illusion of Control",
+            "mentorsMessage": "The illusion of total mastery while vitality quietly leaks away is the mind's most seductive trap. Listen to the body before it whispers in pain.",
+            "clinicalInterpretation": "A critical cognitive blind spot where the conscious intellect maintains a narrative of boundless stamina and control while the physical body suffers severe underlying fatigue. Driven by a desire to prove worth or handle excessive burdens, the individual ignores subtle warning signs until sudden exhaustion forces an unexpected halt.",
+            "actionableAdvice": "Rely on objective bodily indicators (resting heart rate, quality of sleep, muscle tension, breath depth) rather than mental willpower. Schedule non-negotiable rest periods regardless of unfinished tasks.",
+            "systemFriction": "Believing the mind's claim that 'everything is fine' while physical indicators show chronic strain, or over-committing to prove endurance."
+          },
+          {
+            "vectorId": "VEC_BLK_NOCTURNAL_PARASITIC_SUSCEPTIBILITY",
+            "phenomenon": "Sleep Environment Sensitivity & Restless Dreams",
+            "mentorsMessage": "In the vulnerability of sleep, your resting space shapes your peace. Guard your nocturnal bedroom as a sacred temple of renewal.",
+            "clinicalInterpretation": "High nocturnal sensitivity to environmental disturbances, ambient noise, emotional tension in the home, or electromagnetic clutter. The sleeper experiences vivid, restless dreams, frequent waking, and a sensation of waking up unrefreshed.",
+            "actionableAdvice": "Transform your bedroom into a quiet, dark, and cool sanctuary. Remove electronic devices from beside the bed, ensure complete darkness with blackout curtains, and use gentle white noise or earplugs if ambient sounds disturb your sleep.",
+            "systemFriction": "Sleeping near active screens or routers, bringing stressful work into the bedroom, or going to sleep immediately after emotionally charged conversations."
+          }
         ],
         "math": {
           "totalBurnoutRiskPct": {
