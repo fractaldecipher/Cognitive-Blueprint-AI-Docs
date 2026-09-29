@@ -74,10 +74,6 @@ All computational endpoints are delivered via [**RapidAPI**](https://rapidapi.co
 └───────────────────────────┘
 ```
 
-<p align="center">
-  <img src="ASSETS/infographic_hallucination_killer.png" alt="Cognitive Blueprint AI - Eliminating LLM Hallucinations with Grounded Telemetry" width="100%" />
-</p>
-
 ### 🔄 The 4-Step Developer Integration Model
 
 1. **Query Engine via RapidAPI**: Client application sends `POST /v1/criterion/{1-5}` with subject spatiotemporal birth coordinates (date, time, latitude, longitude, timezone offset).
@@ -147,10 +143,6 @@ Because each requested criterion corresponds to one discrete analytical computat
 > 💡 **The Pro vs. Mega Architectural Synergy**:  
 > While the **PRO Tier** provides the complete structural specification of the individual (their core nature, shadow blocks, and authentic vocation across 21 engines), the **MEGA Tier** introduces the essential operational stewardship across all 33 engines. Analogous to an advanced vessel, PRO reveals the build and technical specifications, while MEGA provides the navigation compass, life seasons, and daily maintenance protocols (restorative sleep, sensory reset, acoustic quietude) required for optimal, sustainable life navigation without burnout.
 
-<p align="center">
-  <img src="ASSETS/infographic_sovereign_matrix.png" alt="Cognitive Blueprint AI - The Sovereign Matrix (5 Criteria & 33 Engines)" width="100%" />
-</p>
-
 ---
 
 ### 🔍 The 5 Core Criteria: Fundamental Life Inquiries
@@ -162,6 +154,10 @@ CRITERION 3 ──► "WHAT IS THEIR NATURAL VOCATION, CRAFT & MASTERY?"
 CRITERION 4 ──► "HOW DO THEY NAVIGATE TIMING, HORIZONS & STRATEGIC CYCLES?"
 CRITERION 5 ──► "HOW DO THEY RESTORE EQUILIBRIUM, VITALITY & SENSORY BALANCE?"
 ```
+
+<p align="center">
+  <img src="ASSETS/infographic_sovereign_matrix.png" alt="Cognitive Blueprint AI - The Sovereign Matrix (5 Criteria & 33 Engines)" width="100%" />
+</p>
 
 ---
 
@@ -279,6 +275,10 @@ EXAMPLE/
 > For a visual slide-by-slide case study examining Nikola Tesla's life milestones, historical biographical facts, and computational vector correlations, view the dedicated deck:  
 > 👉 [**`EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf`**](EXAMPLE/Tesla_AI_Clinical_Benchmark.pdf)
 
+<p align="center">
+  <img src="ASSETS/infographic_tesla_benchmark.png" alt="Cognitive Blueprint AI - Real-World Benchmark Implementation (Nikola Tesla)" width="100%" />
+</p>
+
 ### From Enriched Telemetry to Mentoring Wisdom
 
 1. **The Enriched API Output** ([`nikola_tesla_json/`](EXAMPLE/nikola_tesla_json/)): Provides clean numeric indicators (0–100 scores, ratios, hour spans) alongside inline vector interpretations (`phenomenon`, `mentorsMessage`, `clinicalInterpretation`, `actionableAdvice`, `systemFriction`).
@@ -328,10 +328,6 @@ This repository hosts the **Public Developer Guides, FAQ, Architectural Studies,
   - [`FAQ/LLM_INTEGRATION.md`](FAQ/LLM_INTEGRATION.md): Step-by-step guide for direct LLM context injection with zero RAG or vector database overhead.
 - **[RapidAPI Interactive Gateway](https://rapidapi.com/fractaldeciphersyndicate/api/cognitive-blueprint-ai-engine)**: Live endpoint console, key generation, and subscription tiers.
 
-<p align="center">
-  <img src="ASSETS/infographic_tesla_benchmark.png" alt="Cognitive Blueprint AI - Real-World Benchmark Implementation (Nikola Tesla)" width="100%" />
-</p>
-
 ### 🏷️ Standardized Vector Taxonomy
 
 Every active vector emitted by the engine carries a standardized prefix indicating its domain:
@@ -371,6 +367,10 @@ Integrating Cognitive Blueprint AI with modern LLMs (OpenAI GPT-4o, Anthropic Cl
 │ LLM Synthesis & UI Pipelines    │ ➔ Direct Context Injection (Phenomenon, Mentor Message, Alerts)
 └─────────────────────────────────┘
 ```
+
+<p align="center">
+  <img src="ASSETS/infographic_hallucination_killer.png" alt="Cognitive Blueprint AI - Eliminating LLM Hallucinations with Grounded Telemetry" width="100%" />
+</p>
 
 1. **One-Time Query**: Query `POST /v1/criterion/{1..5}` for a user profile via RapidAPI.
 2. **Lifelong Caching**: Save the returned telemetry JSON in your local database (PostgreSQL, MongoDB, Redis, or disk). Because birth coordinates never change, this blueprint is immutable for life—read from local cache indefinitely with zero recurring API costs.
